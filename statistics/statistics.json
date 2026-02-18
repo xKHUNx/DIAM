@@ -1,0 +1,3272 @@
+{
+  "all": {
+    "total_num_edus": 9792,
+    "total_num_relations": 10494,
+    "total_num_speakers": 396,
+    "total_num_non_verbal_actions": 311,
+    "total_num_multi_parent_nodes": 1779,
+    "total_num_multi_child_nodes": 746,
+    "total_num_pairs_with_multi_relations": 41,
+    "num_edus": {
+      "mean": 244.8,
+      "min": 49.0,
+      "max": 526.0,
+      "Q1": 146.25,
+      "median": 258.5,
+      "Q3": 334.75
+    },
+    "num_relations": {
+      "mean": 262.35,
+      "min": 52.0,
+      "max": 551.0,
+      "Q1": 150.0,
+      "median": 272.0,
+      "Q3": 355.0
+    },
+    "num_speakers": {
+      "mean": 9.9,
+      "min": 3.0,
+      "max": 18.0,
+      "Q1": 6.0,
+      "median": 10.0,
+      "Q3": 13.0
+    },
+    "num_non_verbal_actions": {
+      "mean": 7.775,
+      "min": 1.0,
+      "max": 32.0,
+      "Q1": 3.0,
+      "median": 4.5,
+      "Q3": 13.0
+    },
+    "num_multi_parent_nodes": {
+      "mean": 44.475,
+      "min": 9.0,
+      "max": 95.0,
+      "Q1": 26.75,
+      "median": 42.0,
+      "Q3": 58.0
+    },
+    "num_multi_child_nodes": {
+      "mean": 18.65,
+      "min": 1.0,
+      "max": 56.0,
+      "Q1": 5.75,
+      "median": 17.0,
+      "Q3": 27.0
+    },
+    "num_pairs_with_multi_relations": {
+      "mean": 1.025,
+      "min": 0.0,
+      "max": 6.0,
+      "Q1": 0.0,
+      "median": 0.0,
+      "Q3": 2.0
+    },
+    "relation_distance": {
+      "mean": 1.8765008576329332,
+      "min": 1,
+      "max": 234,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "edu_char_length": {
+      "mean": 58.07312091503268,
+      "min": 3,
+      "max": 554,
+      "median": 42.0,
+      "Q1": 23.0,
+      "Q3": 76.0
+    },
+    "doc_char_length": {
+      "mean": 14216.3,
+      "min": 2089.0,
+      "max": 28632.0,
+      "Q1": 7472.0,
+      "median": 14292.0,
+      "Q3": 21290.5
+    },
+    "date_range": {
+      "min": "19/12/2022",
+      "max": "30/11/2023",
+      "range_days": 346,
+      "unique_days": 31,
+      "agendas_per_day": {
+        "02032023": 1,
+        "02112023": 2,
+        "03042023": 1,
+        "04042023": 2,
+        "11092023": 1,
+        "11102023": 1,
+        "15062023": 1,
+        "16102023": 1,
+        "17102023": 2,
+        "18102023": 1,
+        "19102023": 2,
+        "19122022": 2,
+        "20022023": 1,
+        "20122022": 2,
+        "21032023": 1,
+        "22022023": 1,
+        "22052023": 1,
+        "23052023": 1,
+        "23102023": 1,
+        "26102023": 1,
+        "28022023": 1,
+        "28032023": 1,
+        "29112023": 1,
+        "30032023": 2,
+        "30112023": 1,
+        "23032023": 1,
+        "24102023": 2,
+        "06112023": 1,
+        "16022023": 2,
+        "16032023": 1,
+        "23022023": 1
+      }
+    },
+    "relation_types": {
+      "Acknowledgement": 1039,
+      "Elaboration": 1838,
+      "Continuation": 3183,
+      "Question-answer_pair": 317,
+      "Result": 754,
+      "Contrast": 494,
+      "Background": 214,
+      "Explanation": 483,
+      "Q-Elab": 30,
+      "Interruption": 749,
+      "Parallel": 258,
+      "Narration": 187,
+      "Clarification_question": 200,
+      "Alternation": 48,
+      "Comment": 348,
+      "Conditional": 279,
+      "Correction": 73
+    },
+    "relation_distances_distribution": {
+      "1": 8350,
+      "2": 1126,
+      "3": 370,
+      "4": 159,
+      "5": 98,
+      "6": 71,
+      "7": 47,
+      "8": 37,
+      "9": 31,
+      "10": 20,
+      "11": 13,
+      "12": 21,
+      "13": 12,
+      "14": 9,
+      "15": 11,
+      "16": 13,
+      "17": 7,
+      "18": 3,
+      "19": 4,
+      "20": 9,
+      "21": 9,
+      "22": 8,
+      "23": 6,
+      "24": 8,
+      "25": 2,
+      "26": 4,
+      "27": 4,
+      "28": 2,
+      "29": 1,
+      "30": 2,
+      "31": 1,
+      "32": 1,
+      "33": 4,
+      "34": 1,
+      "35": 1,
+      "36": 1,
+      "37": 2,
+      "42": 1,
+      "44": 1,
+      "47": 1,
+      "51": 2,
+      "52": 2,
+      "53": 1,
+      "55": 2,
+      "58": 1,
+      "60": 2,
+      "69": 1,
+      "83": 1,
+      "103": 1,
+      "111": 1,
+      "116": 1,
+      "118": 1,
+      "123": 1,
+      "128": 1,
+      "137": 1,
+      "140": 1,
+      "161": 1,
+      "166": 1,
+      "234": 1
+    },
+    "relation_distances_distribution_grouped": {
+      "1": 8350,
+      "2": 1126,
+      "3": 370,
+      "4": 159,
+      "5": 98,
+      "6-10": 206,
+      "11-99": 174,
+      ">=100": 11
+    },
+    "num_addressees": {
+      "mean": 1.0462622549019607,
+      "min": 1,
+      "max": 6,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "multi_addressees": {
+      "1": 7947,
+      "2": 436,
+      "3": 3,
+      "4": 2,
+      "6": 1,
+      "everyone": 1403
+    },
+    "relation_distance_acknowledgement": {
+      "mean": 2.563041385948027,
+      "min": 1,
+      "max": 128,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_acknowledgement": {
+      "median": 1.0,
+      "% d=1": 80.07699711260827,
+      "% d=2": 8.277189605389799,
+      "% d=3": 3.368623676612127,
+      "% d>=4": 8.277189605389799
+    },
+    "relation_distance_elaboration": {
+      "mean": 1.8764961915125136,
+      "min": 1,
+      "max": 36,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_elaboration": {
+      "median": 1.0,
+      "% d=1": 75.1360174102285,
+      "% d=2": 11.588683351468989,
+      "% d=3": 4.842219804134929,
+      "% d>=4": 8.433079434167572
+    },
+    "relation_distance_continuation": {
+      "mean": 1.1555136663524976,
+      "min": 1,
+      "max": 9,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_continuation": {
+      "median": 1.0,
+      "% d=1": 89.00408419729816,
+      "% d=2": 8.011310084825636,
+      "% d=3": 2.167766258246937,
+      "% d>=4": 0.8168394596292806
+    },
+    "relation_distance_question-answer_pair": {
+      "mean": 7.3249211356466875,
+      "min": 1,
+      "max": 166,
+      "median": 4.0,
+      "Q1": 1.0,
+      "Q3": 8.0
+    },
+    "relation_distance_distance_stat_question-answer_pair": {
+      "median": 4.0,
+      "% d=1": 32.49211356466877,
+      "% d=2": 10.410094637223976,
+      "% d=3": 5.678233438485805,
+      "% d>=4": 51.419558359621455
+    },
+    "relation_distance_result": {
+      "mean": 1.746684350132626,
+      "min": 1,
+      "max": 30,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_result": {
+      "median": 1.0,
+      "% d=1": 61.40583554376657,
+      "% d=2": 25.862068965517242,
+      "% d=3": 5.702917771883289,
+      "% d>=4": 7.029177718832891
+    },
+    "relation_distance_contrast": {
+      "mean": 1.334008097165992,
+      "min": 1,
+      "max": 18,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_contrast": {
+      "median": 1.0,
+      "% d=1": 80.5668016194332,
+      "% d=2": 14.17004048582996,
+      "% d=3": 3.0364372469635628,
+      "% d>=4": 2.2267206477732793
+    },
+    "relation_distance_background": {
+      "mean": 1.2850467289719627,
+      "min": 1,
+      "max": 17,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_background": {
+      "median": 1.0,
+      "% d=1": 88.78504672897196,
+      "% d=2": 6.5420560747663545,
+      "% d=3": 2.336448598130841,
+      "% d>=4": 2.336448598130841
+    },
+    "relation_distance_explanation": {
+      "mean": 1.2091097308488612,
+      "min": 1,
+      "max": 5,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_explanation": {
+      "median": 1.0,
+      "% d=1": 85.30020703933747,
+      "% d=2": 10.351966873706004,
+      "% d=3": 2.898550724637681,
+      "% d>=4": 1.4492753623188406
+    },
+    "relation_distance_q-elab": {
+      "mean": 1.5666666666666667,
+      "min": 1,
+      "max": 12,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_q-elab": {
+      "median": 1.0,
+      "% d=1": 80.0,
+      "% d=2": 13.333333333333334,
+      "% d=3": 3.3333333333333335,
+      "% d>=4": 3.3333333333333335
+    },
+    "relation_distance_interruption": {
+      "mean": 1.0360480640854473,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_interruption": {
+      "median": 1.0,
+      "% d=1": 96.66221628838451,
+      "% d=2": 3.0707610146862483,
+      "% d=3": 0.26702269692923897,
+      "% d>=4": 0.0
+    },
+    "relation_distance_parallel": {
+      "mean": 1.7209302325581395,
+      "min": 1,
+      "max": 51,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_parallel": {
+      "median": 1.0,
+      "% d=1": 75.96899224806202,
+      "% d=2": 13.953488372093023,
+      "% d=3": 4.263565891472868,
+      "% d>=4": 5.813953488372093
+    },
+    "relation_distance_narration": {
+      "mean": 1.6042780748663101,
+      "min": 1,
+      "max": 16,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_narration": {
+      "median": 1.0,
+      "% d=1": 73.79679144385027,
+      "% d=2": 16.0427807486631,
+      "% d=3": 4.81283422459893,
+      "% d>=4": 5.347593582887701
+    },
+    "relation_distance_clarification_question": {
+      "mean": 3.855,
+      "min": 1,
+      "max": 58,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 3.0
+    },
+    "relation_distance_distance_stat_clarification_question": {
+      "median": 1.0,
+      "% d=1": 51.5,
+      "% d=2": 15.5,
+      "% d=3": 12.5,
+      "% d>=4": 20.5
+    },
+    "relation_distance_alternation": {
+      "mean": 1.0833333333333333,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_alternation": {
+      "median": 1.0,
+      "% d=1": 93.75,
+      "% d=2": 4.166666666666666,
+      "% d=3": 2.083333333333333,
+      "% d>=4": 0.0
+    },
+    "relation_distance_comment": {
+      "mean": 4.824712643678161,
+      "min": 1,
+      "max": 161,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 3.0
+    },
+    "relation_distance_distance_stat_comment": {
+      "median": 1.0,
+      "% d=1": 57.758620689655174,
+      "% d=2": 16.666666666666664,
+      "% d=3": 6.0344827586206895,
+      "% d>=4": 19.54022988505747
+    },
+    "relation_distance_conditional": {
+      "mean": 1.064516129032258,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_conditional": {
+      "median": 1.0,
+      "% d=1": 93.9068100358423,
+      "% d=2": 5.734767025089606,
+      "% d=3": 0.35842293906810035,
+      "% d>=4": 0.0
+    },
+    "relation_distance_correction": {
+      "mean": 5.191780821917808,
+      "min": 1,
+      "max": 234,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_correction": {
+      "median": 1.0,
+      "% d=1": 61.64383561643836,
+      "% d=2": 13.698630136986301,
+      "% d=3": 15.068493150684931,
+      "% d>=4": 9.58904109589041
+    },
+    "relation_distances_distribution_acknowledgement": {
+      "1": 832,
+      "2": 86,
+      "3": 35,
+      "4": 14,
+      "5": 10,
+      "6": 10,
+      "7": 5,
+      "8": 4,
+      "9": 5,
+      "10": 1,
+      "12": 6,
+      "13": 1,
+      "14": 1,
+      "15": 3,
+      "17": 1,
+      "19": 2,
+      "20": 3,
+      "21": 1,
+      "22": 2,
+      "23": 2,
+      "24": 2,
+      "26": 1,
+      "32": 1,
+      "33": 1,
+      "37": 2,
+      "42": 1,
+      "44": 1,
+      "55": 1,
+      "69": 1,
+      "111": 1,
+      "116": 1,
+      "118": 1,
+      "128": 1
+    },
+    "relation_distances_distribution_acknowledgement_grouped": {
+      "1": 832,
+      "2": 86,
+      "3": 35,
+      "4": 14,
+      "5": 10,
+      "6-10": 25,
+      "11-99": 33,
+      ">=100": 4
+    },
+    "relation_distances_distribution_elaboration": {
+      "1": 1381,
+      "2": 213,
+      "3": 89,
+      "4": 43,
+      "5": 27,
+      "6": 15,
+      "7": 11,
+      "8": 7,
+      "9": 9,
+      "10": 9,
+      "11": 1,
+      "12": 4,
+      "13": 3,
+      "14": 3,
+      "15": 2,
+      "16": 2,
+      "17": 1,
+      "19": 1,
+      "20": 1,
+      "21": 2,
+      "22": 2,
+      "23": 1,
+      "24": 1,
+      "25": 2,
+      "26": 3,
+      "27": 1,
+      "28": 1,
+      "30": 1,
+      "34": 1,
+      "36": 1
+    },
+    "relation_distances_distribution_elaboration_grouped": {
+      "1": 1381,
+      "2": 213,
+      "3": 89,
+      "4": 43,
+      "5": 27,
+      "6-10": 51,
+      "11-99": 34,
+      ">=100": 0
+    },
+    "relation_distances_distribution_continuation": {
+      "1": 2833,
+      "2": 255,
+      "3": 69,
+      "4": 14,
+      "5": 5,
+      "6": 4,
+      "7": 2,
+      "9": 1
+    },
+    "relation_distances_distribution_continuation_grouped": {
+      "1": 2833,
+      "2": 255,
+      "3": 69,
+      "4": 14,
+      "5": 5,
+      "6-10": 7,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_question-answer_pair": {
+      "1": 103,
+      "2": 33,
+      "3": 18,
+      "4": 24,
+      "5": 26,
+      "6": 13,
+      "7": 11,
+      "8": 16,
+      "9": 7,
+      "10": 7,
+      "11": 2,
+      "12": 6,
+      "13": 6,
+      "14": 1,
+      "15": 3,
+      "16": 7,
+      "17": 3,
+      "18": 2,
+      "20": 4,
+      "21": 5,
+      "22": 4,
+      "23": 2,
+      "24": 3,
+      "27": 2,
+      "29": 1,
+      "31": 1,
+      "33": 2,
+      "47": 1,
+      "60": 2,
+      "123": 1,
+      "166": 1
+    },
+    "relation_distances_distribution_question-answer_pair_grouped": {
+      "1": 103,
+      "2": 33,
+      "3": 18,
+      "4": 24,
+      "5": 26,
+      "6-10": 54,
+      "11-99": 57,
+      ">=100": 2
+    },
+    "relation_distances_distribution_result": {
+      "1": 463,
+      "2": 195,
+      "3": 43,
+      "4": 24,
+      "5": 6,
+      "6": 8,
+      "7": 8,
+      "8": 1,
+      "9": 2,
+      "10": 1,
+      "11": 1,
+      "28": 1,
+      "30": 1
+    },
+    "relation_distances_distribution_result_grouped": {
+      "1": 463,
+      "2": 195,
+      "3": 43,
+      "4": 24,
+      "5": 6,
+      "6-10": 20,
+      "11-99": 3,
+      ">=100": 0
+    },
+    "relation_distances_distribution_contrast": {
+      "1": 398,
+      "2": 70,
+      "3": 15,
+      "4": 5,
+      "5": 1,
+      "6": 2,
+      "8": 1,
+      "13": 1,
+      "18": 1
+    },
+    "relation_distances_distribution_contrast_grouped": {
+      "1": 398,
+      "2": 70,
+      "3": 15,
+      "4": 5,
+      "5": 1,
+      "6-10": 3,
+      "11-99": 2,
+      ">=100": 0
+    },
+    "relation_distances_distribution_background": {
+      "1": 190,
+      "2": 14,
+      "3": 5,
+      "5": 1,
+      "6": 1,
+      "7": 2,
+      "17": 1
+    },
+    "relation_distances_distribution_background_grouped": {
+      "1": 190,
+      "2": 14,
+      "3": 5,
+      "4": 0,
+      "5": 1,
+      "6-10": 3,
+      "11-99": 1,
+      ">=100": 0
+    },
+    "relation_distances_distribution_explanation": {
+      "1": 412,
+      "2": 50,
+      "3": 14,
+      "4": 5,
+      "5": 2
+    },
+    "relation_distances_distribution_explanation_grouped": {
+      "1": 412,
+      "2": 50,
+      "3": 14,
+      "4": 5,
+      "5": 2,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_q-elab": {
+      "1": 24,
+      "2": 4,
+      "3": 1,
+      "12": 1
+    },
+    "relation_distances_distribution_q-elab_grouped": {
+      "1": 24,
+      "2": 4,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 1,
+      ">=100": 0
+    },
+    "relation_distances_distribution_interruption": {
+      "1": 724,
+      "2": 23,
+      "3": 2
+    },
+    "relation_distances_distribution_interruption_grouped": {
+      "1": 724,
+      "2": 23,
+      "3": 2,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_parallel": {
+      "1": 196,
+      "2": 36,
+      "3": 11,
+      "4": 7,
+      "5": 2,
+      "6": 2,
+      "11": 1,
+      "14": 1,
+      "17": 1,
+      "51": 1
+    },
+    "relation_distances_distribution_parallel_grouped": {
+      "1": 196,
+      "2": 36,
+      "3": 11,
+      "4": 7,
+      "5": 2,
+      "6-10": 2,
+      "11-99": 4,
+      ">=100": 0
+    },
+    "relation_distances_distribution_narration": {
+      "1": 138,
+      "2": 30,
+      "3": 9,
+      "4": 4,
+      "6": 2,
+      "8": 1,
+      "11": 1,
+      "12": 1,
+      "16": 1
+    },
+    "relation_distances_distribution_narration_grouped": {
+      "1": 138,
+      "2": 30,
+      "3": 9,
+      "4": 4,
+      "5": 0,
+      "6-10": 3,
+      "11-99": 3,
+      ">=100": 0
+    },
+    "relation_distances_distribution_clarification_question": {
+      "1": 103,
+      "2": 31,
+      "3": 25,
+      "4": 10,
+      "5": 8,
+      "6": 3,
+      "7": 2,
+      "8": 3,
+      "9": 1,
+      "11": 3,
+      "12": 2,
+      "14": 1,
+      "15": 2,
+      "16": 1,
+      "51": 1,
+      "52": 1,
+      "53": 1,
+      "55": 1,
+      "58": 1
+    },
+    "relation_distances_distribution_clarification_question_grouped": {
+      "1": 103,
+      "2": 31,
+      "3": 25,
+      "4": 10,
+      "5": 8,
+      "6-10": 9,
+      "11-99": 14,
+      ">=100": 0
+    },
+    "relation_distances_distribution_alternation": {
+      "1": 45,
+      "2": 2,
+      "3": 1
+    },
+    "relation_distances_distribution_alternation_grouped": {
+      "1": 45,
+      "2": 2,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_comment": {
+      "1": 201,
+      "2": 58,
+      "3": 21,
+      "4": 6,
+      "5": 10,
+      "6": 11,
+      "7": 5,
+      "8": 3,
+      "9": 6,
+      "10": 2,
+      "11": 4,
+      "12": 1,
+      "13": 1,
+      "14": 2,
+      "15": 1,
+      "16": 2,
+      "19": 1,
+      "21": 1,
+      "23": 1,
+      "24": 2,
+      "27": 1,
+      "33": 1,
+      "35": 1,
+      "52": 1,
+      "83": 1,
+      "103": 1,
+      "137": 1,
+      "140": 1,
+      "161": 1
+    },
+    "relation_distances_distribution_comment_grouped": {
+      "1": 201,
+      "2": 58,
+      "3": 21,
+      "4": 6,
+      "5": 10,
+      "6-10": 27,
+      "11-99": 21,
+      ">=100": 4
+    },
+    "relation_distances_distribution_conditional": {
+      "1": 262,
+      "2": 16,
+      "3": 1
+    },
+    "relation_distances_distribution_conditional_grouped": {
+      "1": 262,
+      "2": 16,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_correction": {
+      "1": 45,
+      "2": 10,
+      "3": 11,
+      "4": 3,
+      "7": 1,
+      "8": 1,
+      "20": 1,
+      "234": 1
+    },
+    "relation_distances_distribution_correction_grouped": {
+      "1": 45,
+      "2": 10,
+      "3": 11,
+      "4": 3,
+      "5": 0,
+      "6-10": 2,
+      "11-99": 1,
+      ">=100": 1
+    }
+  },
+  "train": {
+    "total_num_edus": 6792,
+    "total_num_relations": 7271,
+    "total_num_speakers": 280,
+    "total_num_non_verbal_actions": 217,
+    "total_num_multi_parent_nodes": 1247,
+    "total_num_multi_child_nodes": 512,
+    "total_num_pairs_with_multi_relations": 24,
+    "num_edus": {
+      "mean": 242.57142857142858,
+      "min": 49.0,
+      "max": 526.0,
+      "Q1": 154.75,
+      "median": 240.0,
+      "Q3": 334.75
+    },
+    "num_relations": {
+      "mean": 259.67857142857144,
+      "min": 52.0,
+      "max": 551.0,
+      "Q1": 163.25,
+      "median": 251.5,
+      "Q3": 355.0
+    },
+    "num_speakers": {
+      "mean": 10.0,
+      "min": 4.0,
+      "max": 18.0,
+      "Q1": 6.0,
+      "median": 10.0,
+      "Q3": 13.0
+    },
+    "num_non_verbal_actions": {
+      "mean": 7.75,
+      "min": 1.0,
+      "max": 32.0,
+      "Q1": 3.0,
+      "median": 4.0,
+      "Q3": 10.75
+    },
+    "num_multi_parent_nodes": {
+      "mean": 44.535714285714285,
+      "min": 9.0,
+      "max": 95.0,
+      "Q1": 26.75,
+      "median": 40.5,
+      "Q3": 59.5
+    },
+    "num_multi_child_nodes": {
+      "mean": 18.285714285714285,
+      "min": 1.0,
+      "max": 54.0,
+      "Q1": 6.0,
+      "median": 16.0,
+      "Q3": 26.25
+    },
+    "num_pairs_with_multi_relations": {
+      "mean": 0.8571428571428571,
+      "min": 0.0,
+      "max": 6.0,
+      "Q1": 0.0,
+      "median": 0.0,
+      "Q3": 1.0
+    },
+    "relation_distance": {
+      "mean": 1.8960253060101775,
+      "min": 1,
+      "max": 166,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "edu_char_length": {
+      "mean": 59.995877502944644,
+      "min": 3,
+      "max": 554,
+      "median": 43.0,
+      "Q1": 24.0,
+      "Q3": 78.0
+    },
+    "doc_char_length": {
+      "mean": 14553.285714285714,
+      "min": 2089.0,
+      "max": 28632.0,
+      "Q1": 7134.5,
+      "median": 15770.0,
+      "Q3": 21721.75
+    },
+    "date_range": {
+      "min": "19/12/2022",
+      "max": "30/11/2023",
+      "range_days": 346,
+      "unique_days": 25,
+      "agendas_per_day": {
+        "02032023": 1,
+        "02112023": 2,
+        "03042023": 1,
+        "04042023": 1,
+        "11092023": 1,
+        "11102023": 1,
+        "15062023": 1,
+        "16102023": 1,
+        "17102023": 2,
+        "18102023": 1,
+        "19102023": 1,
+        "19122022": 2,
+        "20022023": 1,
+        "20122022": 1,
+        "21032023": 1,
+        "22022023": 1,
+        "22052023": 1,
+        "23052023": 1,
+        "23102023": 1,
+        "26102023": 1,
+        "28022023": 1,
+        "28032023": 1,
+        "29112023": 1,
+        "30032023": 1,
+        "30112023": 1
+      }
+    },
+    "relation_types": {
+      "Acknowledgement": 733,
+      "Elaboration": 1297,
+      "Continuation": 2160,
+      "Question-answer_pair": 221,
+      "Result": 516,
+      "Contrast": 349,
+      "Background": 163,
+      "Explanation": 352,
+      "Q-Elab": 22,
+      "Interruption": 532,
+      "Parallel": 196,
+      "Narration": 125,
+      "Clarification_question": 118,
+      "Alternation": 29,
+      "Comment": 210,
+      "Conditional": 195,
+      "Correction": 53
+    },
+    "relation_distances_distribution": {
+      "1": 5768,
+      "2": 786,
+      "3": 264,
+      "4": 110,
+      "5": 68,
+      "6": 51,
+      "7": 33,
+      "8": 29,
+      "9": 22,
+      "10": 15,
+      "11": 8,
+      "12": 11,
+      "13": 8,
+      "14": 5,
+      "15": 9,
+      "16": 9,
+      "17": 6,
+      "18": 3,
+      "19": 3,
+      "20": 6,
+      "21": 6,
+      "22": 4,
+      "23": 4,
+      "24": 5,
+      "25": 1,
+      "26": 2,
+      "27": 2,
+      "28": 1,
+      "29": 1,
+      "30": 2,
+      "31": 1,
+      "32": 1,
+      "33": 4,
+      "34": 1,
+      "35": 1,
+      "36": 1,
+      "37": 2,
+      "42": 1,
+      "44": 1,
+      "52": 1,
+      "55": 2,
+      "58": 1,
+      "60": 1,
+      "69": 1,
+      "83": 1,
+      "103": 1,
+      "111": 1,
+      "116": 1,
+      "123": 1,
+      "128": 1,
+      "137": 1,
+      "140": 1,
+      "161": 1,
+      "166": 1
+    },
+    "relation_distances_distribution_grouped": {
+      "1": 5768,
+      "2": 786,
+      "3": 264,
+      "4": 110,
+      "5": 68,
+      "6-10": 150,
+      "11-99": 116,
+      ">=100": 9
+    },
+    "num_addressees": {
+      "mean": 1.058303886925795,
+      "min": 1,
+      "max": 6,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "multi_addressees": {
+      "1": 5412,
+      "2": 387,
+      "3": 2,
+      "6": 1,
+      "everyone": 990
+    },
+    "relation_distance_acknowledgement": {
+      "mean": 2.7939972714870396,
+      "min": 1,
+      "max": 128,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_acknowledgement": {
+      "median": 1.0,
+      "% d=1": 79.53615279672579,
+      "% d=2": 8.321964529331515,
+      "% d=3": 3.0013642564802185,
+      "% d>=4": 9.140518417462483
+    },
+    "relation_distance_elaboration": {
+      "mean": 1.7902852737085582,
+      "min": 1,
+      "max": 36,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_elaboration": {
+      "median": 1.0,
+      "% d=1": 75.86738627602159,
+      "% d=2": 11.7964533538936,
+      "% d=3": 4.471858134155744,
+      "% d>=4": 7.864302235929068
+    },
+    "relation_distance_continuation": {
+      "mean": 1.1634259259259259,
+      "min": 1,
+      "max": 7,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_continuation": {
+      "median": 1.0,
+      "% d=1": 88.51851851851852,
+      "% d=2": 8.194444444444445,
+      "% d=3": 2.361111111111111,
+      "% d>=4": 0.9259259259259258
+    },
+    "relation_distance_question-answer_pair": {
+      "mean": 8.054298642533936,
+      "min": 1,
+      "max": 166,
+      "median": 4.0,
+      "Q1": 1.0,
+      "Q3": 8.0
+    },
+    "relation_distance_distance_stat_question-answer_pair": {
+      "median": 4.0,
+      "% d=1": 25.339366515837103,
+      "% d=2": 10.85972850678733,
+      "% d=3": 8.144796380090497,
+      "% d>=4": 55.65610859728507
+    },
+    "relation_distance_result": {
+      "mean": 1.75,
+      "min": 1,
+      "max": 30,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_result": {
+      "median": 1.0,
+      "% d=1": 60.65891472868217,
+      "% d=2": 25.775193798449614,
+      "% d=3": 6.395348837209303,
+      "% d>=4": 7.170542635658915
+    },
+    "relation_distance_contrast": {
+      "mean": 1.329512893982808,
+      "min": 1,
+      "max": 18,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_contrast": {
+      "median": 1.0,
+      "% d=1": 81.08882521489971,
+      "% d=2": 14.040114613180515,
+      "% d=3": 3.151862464183381,
+      "% d>=4": 1.7191977077363898
+    },
+    "relation_distance_background": {
+      "mean": 1.3312883435582823,
+      "min": 1,
+      "max": 17,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_background": {
+      "median": 1.0,
+      "% d=1": 88.95705521472392,
+      "% d=2": 5.521472392638037,
+      "% d=3": 2.4539877300613497,
+      "% d>=4": 3.067484662576687
+    },
+    "relation_distance_explanation": {
+      "mean": 1.1988636363636365,
+      "min": 1,
+      "max": 5,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_explanation": {
+      "median": 1.0,
+      "% d=1": 85.22727272727273,
+      "% d=2": 11.079545454545455,
+      "% d=3": 2.556818181818182,
+      "% d>=4": 1.1363636363636365
+    },
+    "relation_distance_q-elab": {
+      "mean": 1.2272727272727273,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_q-elab": {
+      "median": 1.0,
+      "% d=1": 81.81818181818183,
+      "% d=2": 13.636363636363635,
+      "% d=3": 4.545454545454546,
+      "% d>=4": 0.0
+    },
+    "relation_distance_interruption": {
+      "mean": 1.018796992481203,
+      "min": 1,
+      "max": 2,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_interruption": {
+      "median": 1.0,
+      "% d=1": 98.1203007518797,
+      "% d=2": 1.8796992481203008,
+      "% d=3": 0.0,
+      "% d>=4": 0.0
+    },
+    "relation_distance_parallel": {
+      "mean": 1.5051020408163265,
+      "min": 1,
+      "max": 17,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_parallel": {
+      "median": 1.0,
+      "% d=1": 77.55102040816327,
+      "% d=2": 15.306122448979592,
+      "% d=3": 3.061224489795918,
+      "% d>=4": 4.081632653061225
+    },
+    "relation_distance_narration": {
+      "mean": 1.664,
+      "min": 1,
+      "max": 16,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_narration": {
+      "median": 1.0,
+      "% d=1": 70.39999999999999,
+      "% d=2": 19.2,
+      "% d=3": 4.0,
+      "% d>=4": 6.4
+    },
+    "relation_distance_clarification_question": {
+      "mean": 4.194915254237288,
+      "min": 1,
+      "max": 58,
+      "median": 2.0,
+      "Q1": 1.0,
+      "Q3": 3.0
+    },
+    "relation_distance_distance_stat_clarification_question": {
+      "median": 2.0,
+      "% d=1": 41.52542372881356,
+      "% d=2": 16.101694915254235,
+      "% d=3": 18.64406779661017,
+      "% d>=4": 23.728813559322035
+    },
+    "relation_distance_alternation": {
+      "mean": 1.103448275862069,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_alternation": {
+      "median": 1.0,
+      "% d=1": 93.10344827586206,
+      "% d=2": 3.4482758620689653,
+      "% d=3": 3.4482758620689653,
+      "% d>=4": 0.0
+    },
+    "relation_distance_comment": {
+      "mean": 5.819047619047619,
+      "min": 1,
+      "max": 161,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 3.0
+    },
+    "relation_distance_distance_stat_comment": {
+      "median": 1.0,
+      "% d=1": 56.666666666666664,
+      "% d=2": 16.19047619047619,
+      "% d=3": 6.666666666666667,
+      "% d>=4": 20.476190476190474
+    },
+    "relation_distance_conditional": {
+      "mean": 1.0717948717948718,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_conditional": {
+      "median": 1.0,
+      "% d=1": 93.33333333333333,
+      "% d=2": 6.153846153846154,
+      "% d=3": 0.5128205128205128,
+      "% d>=4": 0.0
+    },
+    "relation_distance_correction": {
+      "mean": 1.6415094339622642,
+      "min": 1,
+      "max": 8,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_correction": {
+      "median": 1.0,
+      "% d=1": 66.0377358490566,
+      "% d=2": 15.09433962264151,
+      "% d=3": 15.09433962264151,
+      "% d>=4": 3.7735849056603774
+    },
+    "relation_distances_distribution_acknowledgement": {
+      "1": 583,
+      "2": 61,
+      "3": 22,
+      "4": 11,
+      "5": 7,
+      "6": 6,
+      "7": 4,
+      "8": 4,
+      "9": 5,
+      "12": 2,
+      "13": 1,
+      "14": 1,
+      "15": 3,
+      "17": 1,
+      "19": 2,
+      "20": 3,
+      "22": 1,
+      "23": 2,
+      "24": 2,
+      "26": 1,
+      "32": 1,
+      "33": 1,
+      "37": 2,
+      "42": 1,
+      "44": 1,
+      "55": 1,
+      "69": 1,
+      "111": 1,
+      "116": 1,
+      "128": 1
+    },
+    "relation_distances_distribution_acknowledgement_grouped": {
+      "1": 583,
+      "2": 61,
+      "3": 22,
+      "4": 11,
+      "5": 7,
+      "6-10": 19,
+      "11-99": 27,
+      ">=100": 3
+    },
+    "relation_distances_distribution_elaboration": {
+      "1": 984,
+      "2": 153,
+      "3": 58,
+      "4": 29,
+      "5": 16,
+      "6": 11,
+      "7": 9,
+      "8": 6,
+      "9": 6,
+      "10": 6,
+      "11": 1,
+      "12": 3,
+      "13": 2,
+      "14": 2,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "21": 1,
+      "22": 1,
+      "25": 1,
+      "26": 1,
+      "28": 1,
+      "30": 1,
+      "34": 1,
+      "36": 1
+    },
+    "relation_distances_distribution_elaboration_grouped": {
+      "1": 984,
+      "2": 153,
+      "3": 58,
+      "4": 29,
+      "5": 16,
+      "6-10": 38,
+      "11-99": 19,
+      ">=100": 0
+    },
+    "relation_distances_distribution_continuation": {
+      "1": 1912,
+      "2": 177,
+      "3": 51,
+      "4": 12,
+      "5": 3,
+      "6": 4,
+      "7": 1
+    },
+    "relation_distances_distribution_continuation_grouped": {
+      "1": 1912,
+      "2": 177,
+      "3": 51,
+      "4": 12,
+      "5": 3,
+      "6-10": 5,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_question-answer_pair": {
+      "1": 56,
+      "2": 24,
+      "3": 18,
+      "4": 15,
+      "5": 21,
+      "6": 12,
+      "7": 7,
+      "8": 14,
+      "9": 5,
+      "10": 6,
+      "11": 1,
+      "12": 4,
+      "13": 3,
+      "14": 1,
+      "15": 2,
+      "16": 6,
+      "17": 2,
+      "18": 2,
+      "20": 3,
+      "21": 4,
+      "22": 2,
+      "23": 2,
+      "24": 2,
+      "27": 2,
+      "29": 1,
+      "31": 1,
+      "33": 2,
+      "60": 1,
+      "123": 1,
+      "166": 1
+    },
+    "relation_distances_distribution_question-answer_pair_grouped": {
+      "1": 56,
+      "2": 24,
+      "3": 18,
+      "4": 15,
+      "5": 21,
+      "6-10": 44,
+      "11-99": 41,
+      ">=100": 2
+    },
+    "relation_distances_distribution_result": {
+      "1": 313,
+      "2": 133,
+      "3": 33,
+      "4": 18,
+      "5": 3,
+      "6": 6,
+      "7": 6,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "30": 1
+    },
+    "relation_distances_distribution_result_grouped": {
+      "1": 313,
+      "2": 133,
+      "3": 33,
+      "4": 18,
+      "5": 3,
+      "6-10": 14,
+      "11-99": 2,
+      ">=100": 0
+    },
+    "relation_distances_distribution_contrast": {
+      "1": 283,
+      "2": 49,
+      "3": 11,
+      "4": 2,
+      "5": 1,
+      "6": 1,
+      "13": 1,
+      "18": 1
+    },
+    "relation_distances_distribution_contrast_grouped": {
+      "1": 283,
+      "2": 49,
+      "3": 11,
+      "4": 2,
+      "5": 1,
+      "6-10": 1,
+      "11-99": 2,
+      ">=100": 0
+    },
+    "relation_distances_distribution_background": {
+      "1": 145,
+      "2": 9,
+      "3": 4,
+      "5": 1,
+      "6": 1,
+      "7": 2,
+      "17": 1
+    },
+    "relation_distances_distribution_background_grouped": {
+      "1": 145,
+      "2": 9,
+      "3": 4,
+      "4": 0,
+      "5": 1,
+      "6-10": 3,
+      "11-99": 1,
+      ">=100": 0
+    },
+    "relation_distances_distribution_explanation": {
+      "1": 300,
+      "2": 39,
+      "3": 9,
+      "4": 3,
+      "5": 1
+    },
+    "relation_distances_distribution_explanation_grouped": {
+      "1": 300,
+      "2": 39,
+      "3": 9,
+      "4": 3,
+      "5": 1,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_q-elab": {
+      "1": 18,
+      "2": 3,
+      "3": 1
+    },
+    "relation_distances_distribution_q-elab_grouped": {
+      "1": 18,
+      "2": 3,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_interruption": {
+      "1": 522,
+      "2": 10
+    },
+    "relation_distances_distribution_interruption_grouped": {
+      "1": 522,
+      "2": 10,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_parallel": {
+      "1": 152,
+      "2": 30,
+      "3": 6,
+      "4": 3,
+      "5": 1,
+      "6": 1,
+      "11": 1,
+      "14": 1,
+      "17": 1
+    },
+    "relation_distances_distribution_parallel_grouped": {
+      "1": 152,
+      "2": 30,
+      "3": 6,
+      "4": 3,
+      "5": 1,
+      "6-10": 1,
+      "11-99": 3,
+      ">=100": 0
+    },
+    "relation_distances_distribution_narration": {
+      "1": 88,
+      "2": 24,
+      "3": 5,
+      "4": 4,
+      "6": 1,
+      "8": 1,
+      "11": 1,
+      "16": 1
+    },
+    "relation_distances_distribution_narration_grouped": {
+      "1": 88,
+      "2": 24,
+      "3": 5,
+      "4": 4,
+      "5": 0,
+      "6-10": 2,
+      "11-99": 2,
+      ">=100": 0
+    },
+    "relation_distances_distribution_clarification_question": {
+      "1": 49,
+      "2": 19,
+      "3": 22,
+      "4": 8,
+      "5": 6,
+      "6": 2,
+      "7": 1,
+      "8": 2,
+      "11": 2,
+      "12": 1,
+      "15": 2,
+      "16": 1,
+      "52": 1,
+      "55": 1,
+      "58": 1
+    },
+    "relation_distances_distribution_clarification_question_grouped": {
+      "1": 49,
+      "2": 19,
+      "3": 22,
+      "4": 8,
+      "5": 6,
+      "6-10": 5,
+      "11-99": 9,
+      ">=100": 0
+    },
+    "relation_distances_distribution_alternation": {
+      "1": 27,
+      "2": 1,
+      "3": 1
+    },
+    "relation_distances_distribution_alternation_grouped": {
+      "1": 27,
+      "2": 1,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_comment": {
+      "1": 119,
+      "2": 34,
+      "3": 14,
+      "4": 4,
+      "5": 8,
+      "6": 6,
+      "7": 3,
+      "8": 1,
+      "9": 5,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "15": 1,
+      "19": 1,
+      "21": 1,
+      "24": 1,
+      "33": 1,
+      "35": 1,
+      "83": 1,
+      "103": 1,
+      "137": 1,
+      "140": 1,
+      "161": 1
+    },
+    "relation_distances_distribution_comment_grouped": {
+      "1": 119,
+      "2": 34,
+      "3": 14,
+      "4": 4,
+      "5": 8,
+      "6-10": 17,
+      "11-99": 10,
+      ">=100": 4
+    },
+    "relation_distances_distribution_conditional": {
+      "1": 182,
+      "2": 12,
+      "3": 1
+    },
+    "relation_distances_distribution_conditional_grouped": {
+      "1": 182,
+      "2": 12,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_correction": {
+      "1": 35,
+      "2": 8,
+      "3": 8,
+      "4": 1,
+      "8": 1
+    },
+    "relation_distances_distribution_correction_grouped": {
+      "1": 35,
+      "2": 8,
+      "3": 8,
+      "4": 1,
+      "5": 0,
+      "6-10": 1,
+      "11-99": 0,
+      ">=100": 0
+    }
+  },
+  "dev": {
+    "total_num_edus": 1535,
+    "total_num_relations": 1647,
+    "total_num_speakers": 54,
+    "total_num_non_verbal_actions": 49,
+    "total_num_multi_parent_nodes": 250,
+    "total_num_multi_child_nodes": 120,
+    "total_num_pairs_with_multi_relations": 5,
+    "num_edus": {
+      "mean": 255.83333333333334,
+      "min": 80.0,
+      "max": 445.0,
+      "Q1": 140.5,
+      "median": 267.5,
+      "Q3": 349.5
+    },
+    "num_relations": {
+      "mean": 274.5,
+      "min": 81.0,
+      "max": 498.0,
+      "Q1": 143.75,
+      "median": 287.5,
+      "Q3": 369.75
+    },
+    "num_speakers": {
+      "mean": 9.0,
+      "min": 4.0,
+      "max": 14.0,
+      "Q1": 6.25,
+      "median": 10.0,
+      "Q3": 10.75
+    },
+    "num_non_verbal_actions": {
+      "mean": 8.166666666666666,
+      "min": 2.0,
+      "max": 20.0,
+      "Q1": 2.5,
+      "median": 5.0,
+      "Q3": 12.75
+    },
+    "num_multi_parent_nodes": {
+      "mean": 41.666666666666664,
+      "min": 15.0,
+      "max": 80.0,
+      "Q1": 28.25,
+      "median": 42.0,
+      "Q3": 46.0
+    },
+    "num_multi_child_nodes": {
+      "mean": 20.0,
+      "min": 2.0,
+      "max": 56.0,
+      "Q1": 4.25,
+      "median": 15.0,
+      "Q3": 27.25
+    },
+    "num_pairs_with_multi_relations": {
+      "mean": 0.8333333333333334,
+      "min": 0.0,
+      "max": 2.0,
+      "Q1": 0.0,
+      "median": 0.5,
+      "Q3": 1.75
+    },
+    "relation_distance": {
+      "mean": 1.4207650273224044,
+      "min": 1,
+      "max": 24,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "edu_char_length": {
+      "mean": 52.63387622149837,
+      "min": 3,
+      "max": 521,
+      "median": 39.0,
+      "Q1": 22.0,
+      "Q3": 67.0
+    },
+    "doc_char_length": {
+      "mean": 13465.5,
+      "min": 3848.0,
+      "max": 21608.0,
+      "Q1": 9200.75,
+      "median": 13110.5,
+      "Q3": 19191.5
+    },
+    "date_range": {
+      "min": "20/12/2022",
+      "max": "24/10/2023",
+      "range_days": 308,
+      "unique_days": 5,
+      "agendas_per_day": {
+        "04042023": 1,
+        "19102023": 1,
+        "20122022": 1,
+        "23032023": 1,
+        "24102023": 2
+      }
+    },
+    "relation_types": {
+      "Background": 35,
+      "Continuation": 606,
+      "Narration": 18,
+      "Comment": 86,
+      "Elaboration": 227,
+      "Parallel": 28,
+      "Contrast": 71,
+      "Result": 116,
+      "Clarification_question": 46,
+      "Question-answer_pair": 50,
+      "Acknowledgement": 139,
+      "Interruption": 88,
+      "Correction": 9,
+      "Explanation": 70,
+      "Q-Elab": 4,
+      "Conditional": 45,
+      "Alternation": 9
+    },
+    "relation_distances_distribution": {
+      "1": 1366,
+      "2": 174,
+      "3": 51,
+      "4": 16,
+      "5": 9,
+      "6": 5,
+      "7": 3,
+      "8": 3,
+      "9": 2,
+      "10": 1,
+      "11": 3,
+      "12": 4,
+      "13": 3,
+      "16": 2,
+      "20": 1,
+      "21": 1,
+      "22": 2,
+      "24": 1
+    },
+    "relation_distances_distribution_grouped": {
+      "1": 1366,
+      "2": 174,
+      "3": 51,
+      "4": 16,
+      "5": 9,
+      "6-10": 14,
+      "11-99": 17,
+      ">=100": 0
+    },
+    "num_addressees": {
+      "mean": 1.0078175895765473,
+      "min": 1,
+      "max": 2,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "multi_addressees": {
+      "1": 1339,
+      "2": 12,
+      "everyone": 184
+    },
+    "relation_distance_background": {
+      "mean": 1.1142857142857143,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_background": {
+      "median": 1.0,
+      "% d=1": 91.42857142857143,
+      "% d=2": 5.714285714285714,
+      "% d=3": 2.857142857142857,
+      "% d>=4": 0.0
+    },
+    "relation_distance_continuation": {
+      "mean": 1.136963696369637,
+      "min": 1,
+      "max": 5,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_continuation": {
+      "median": 1.0,
+      "% d=1": 89.27392739273927,
+      "% d=2": 8.25082508250825,
+      "% d=3": 2.145214521452145,
+      "% d>=4": 0.33003300330033003
+    },
+    "relation_distance_narration": {
+      "mean": 1.1111111111111112,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_narration": {
+      "median": 1.0,
+      "% d=1": 94.44444444444444,
+      "% d=2": 0.0,
+      "% d=3": 5.555555555555555,
+      "% d>=4": 0.0
+    },
+    "relation_distance_comment": {
+      "mean": 2.13953488372093,
+      "min": 1,
+      "max": 24,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_comment": {
+      "median": 1.0,
+      "% d=1": 72.09302325581395,
+      "% d=2": 16.27906976744186,
+      "% d=3": 2.3255813953488373,
+      "% d>=4": 9.30232558139535
+    },
+    "relation_distance_elaboration": {
+      "mean": 1.2863436123348018,
+      "min": 1,
+      "max": 13,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_elaboration": {
+      "median": 1.0,
+      "% d=1": 85.02202643171806,
+      "% d=2": 7.929515418502203,
+      "% d=3": 4.845814977973569,
+      "% d>=4": 2.2026431718061676
+    },
+    "relation_distance_parallel": {
+      "mean": 1.6071428571428572,
+      "min": 1,
+      "max": 5,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_parallel": {
+      "median": 1.0,
+      "% d=1": 67.85714285714286,
+      "% d=2": 14.285714285714285,
+      "% d=3": 10.714285714285714,
+      "% d>=4": 7.142857142857142
+    },
+    "relation_distance_contrast": {
+      "mean": 1.4507042253521127,
+      "min": 1,
+      "max": 8,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_contrast": {
+      "median": 1.0,
+      "% d=1": 77.46478873239437,
+      "% d=2": 14.084507042253522,
+      "% d=3": 2.8169014084507045,
+      "% d>=4": 5.633802816901409
+    },
+    "relation_distance_result": {
+      "mean": 1.456896551724138,
+      "min": 1,
+      "max": 8,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_result": {
+      "median": 1.0,
+      "% d=1": 67.24137931034483,
+      "% d=2": 25.862068965517242,
+      "% d=3": 4.310344827586207,
+      "% d>=4": 2.586206896551724
+    },
+    "relation_distance_clarification_question": {
+      "mean": 1.391304347826087,
+      "min": 1,
+      "max": 5,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_clarification_question": {
+      "median": 1.0,
+      "% d=1": 78.26086956521739,
+      "% d=2": 15.217391304347828,
+      "% d=3": 0.0,
+      "% d>=4": 6.521739130434782
+    },
+    "relation_distance_question-answer_pair": {
+      "mean": 5.06,
+      "min": 1,
+      "max": 22,
+      "median": 2.0,
+      "Q1": 1.0,
+      "Q3": 7.0
+    },
+    "relation_distance_distance_stat_question-answer_pair": {
+      "median": 2.0,
+      "% d=1": 46.0,
+      "% d=2": 16.0,
+      "% d=3": 0.0,
+      "% d>=4": 38.0
+    },
+    "relation_distance_acknowledgement": {
+      "mean": 1.5035971223021583,
+      "min": 1,
+      "max": 12,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_acknowledgement": {
+      "median": 1.0,
+      "% d=1": 80.57553956834532,
+      "% d=2": 9.352517985611511,
+      "% d=3": 5.0359712230215825,
+      "% d>=4": 5.0359712230215825
+    },
+    "relation_distance_interruption": {
+      "mean": 1.1363636363636365,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_interruption": {
+      "median": 1.0,
+      "% d=1": 88.63636363636364,
+      "% d=2": 9.090909090909092,
+      "% d=3": 2.272727272727273,
+      "% d>=4": 0.0
+    },
+    "relation_distance_correction": {
+      "mean": 1.5555555555555556,
+      "min": 1,
+      "max": 3,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_correction": {
+      "median": 1.0,
+      "% d=1": 66.66666666666666,
+      "% d=2": 11.11111111111111,
+      "% d=3": 22.22222222222222,
+      "% d>=4": 0.0
+    },
+    "relation_distance_explanation": {
+      "mean": 1.2571428571428571,
+      "min": 1,
+      "max": 5,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_explanation": {
+      "median": 1.0,
+      "% d=1": 84.28571428571429,
+      "% d=2": 10.0,
+      "% d=3": 2.857142857142857,
+      "% d>=4": 2.857142857142857
+    },
+    "relation_distance_q-elab": {
+      "mean": 3.75,
+      "min": 1,
+      "max": 12,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 3.75
+    },
+    "relation_distance_distance_stat_q-elab": {
+      "median": 1.0,
+      "% d=1": 75.0,
+      "% d=2": 0.0,
+      "% d=3": 0.0,
+      "% d>=4": 25.0
+    },
+    "relation_distance_conditional": {
+      "mean": 1.0222222222222221,
+      "min": 1,
+      "max": 2,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_conditional": {
+      "median": 1.0,
+      "% d=1": 97.77777777777777,
+      "% d=2": 2.2222222222222223,
+      "% d=3": 0.0,
+      "% d>=4": 0.0
+    },
+    "relation_distance_alternation": {
+      "mean": 1.1111111111111112,
+      "min": 1,
+      "max": 2,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_alternation": {
+      "median": 1.0,
+      "% d=1": 88.88888888888889,
+      "% d=2": 11.11111111111111,
+      "% d=3": 0.0,
+      "% d>=4": 0.0
+    },
+    "relation_distances_distribution_background": {
+      "1": 32,
+      "2": 2,
+      "3": 1
+    },
+    "relation_distances_distribution_background_grouped": {
+      "1": 32,
+      "2": 2,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_continuation": {
+      "1": 541,
+      "2": 50,
+      "3": 13,
+      "4": 1,
+      "5": 1
+    },
+    "relation_distances_distribution_continuation_grouped": {
+      "1": 541,
+      "2": 50,
+      "3": 13,
+      "4": 1,
+      "5": 1,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_narration": {
+      "1": 17,
+      "3": 1
+    },
+    "relation_distances_distribution_narration_grouped": {
+      "1": 17,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_comment": {
+      "1": 62,
+      "2": 14,
+      "3": 2,
+      "4": 1,
+      "6": 1,
+      "7": 1,
+      "9": 1,
+      "11": 2,
+      "16": 1,
+      "24": 1
+    },
+    "relation_distances_distribution_comment_grouped": {
+      "1": 62,
+      "2": 14,
+      "3": 2,
+      "4": 1,
+      "5": 0,
+      "6-10": 3,
+      "11-99": 4,
+      ">=100": 0
+    },
+    "relation_distances_distribution_elaboration": {
+      "1": 193,
+      "2": 18,
+      "3": 11,
+      "4": 3,
+      "5": 1,
+      "13": 1
+    },
+    "relation_distances_distribution_elaboration_grouped": {
+      "1": 193,
+      "2": 18,
+      "3": 11,
+      "4": 3,
+      "5": 1,
+      "6-10": 0,
+      "11-99": 1,
+      ">=100": 0
+    },
+    "relation_distances_distribution_parallel": {
+      "1": 19,
+      "2": 4,
+      "3": 3,
+      "4": 1,
+      "5": 1
+    },
+    "relation_distances_distribution_parallel_grouped": {
+      "1": 19,
+      "2": 4,
+      "3": 3,
+      "4": 1,
+      "5": 1,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_contrast": {
+      "1": 55,
+      "2": 10,
+      "3": 2,
+      "4": 2,
+      "6": 1,
+      "8": 1
+    },
+    "relation_distances_distribution_contrast_grouped": {
+      "1": 55,
+      "2": 10,
+      "3": 2,
+      "4": 2,
+      "5": 0,
+      "6-10": 2,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_result": {
+      "1": 78,
+      "2": 30,
+      "3": 5,
+      "4": 2,
+      "8": 1
+    },
+    "relation_distances_distribution_result_grouped": {
+      "1": 78,
+      "2": 30,
+      "3": 5,
+      "4": 2,
+      "5": 0,
+      "6-10": 1,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_clarification_question": {
+      "1": 36,
+      "2": 7,
+      "4": 1,
+      "5": 2
+    },
+    "relation_distances_distribution_clarification_question_grouped": {
+      "1": 36,
+      "2": 7,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_question-answer_pair": {
+      "1": 23,
+      "2": 8,
+      "4": 3,
+      "5": 1,
+      "6": 1,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1,
+      "13": 2,
+      "16": 1,
+      "20": 1,
+      "21": 1,
+      "22": 2
+    },
+    "relation_distances_distribution_question-answer_pair_grouped": {
+      "1": 23,
+      "2": 8,
+      "3": 0,
+      "4": 3,
+      "5": 1,
+      "6-10": 6,
+      "11-99": 9,
+      ">=100": 0
+    },
+    "relation_distances_distribution_acknowledgement": {
+      "1": 112,
+      "2": 13,
+      "3": 7,
+      "4": 1,
+      "5": 2,
+      "6": 2,
+      "12": 2
+    },
+    "relation_distances_distribution_acknowledgement_grouped": {
+      "1": 112,
+      "2": 13,
+      "3": 7,
+      "4": 1,
+      "5": 2,
+      "6-10": 2,
+      "11-99": 2,
+      ">=100": 0
+    },
+    "relation_distances_distribution_interruption": {
+      "1": 78,
+      "2": 8,
+      "3": 2
+    },
+    "relation_distances_distribution_interruption_grouped": {
+      "1": 78,
+      "2": 8,
+      "3": 2,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_correction": {
+      "1": 6,
+      "2": 1,
+      "3": 2
+    },
+    "relation_distances_distribution_correction_grouped": {
+      "1": 6,
+      "2": 1,
+      "3": 2,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_explanation": {
+      "1": 59,
+      "2": 7,
+      "3": 2,
+      "4": 1,
+      "5": 1
+    },
+    "relation_distances_distribution_explanation_grouped": {
+      "1": 59,
+      "2": 7,
+      "3": 2,
+      "4": 1,
+      "5": 1,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_q-elab": {
+      "1": 3,
+      "12": 1
+    },
+    "relation_distances_distribution_q-elab_grouped": {
+      "1": 3,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 1,
+      ">=100": 0
+    },
+    "relation_distances_distribution_conditional": {
+      "1": 44,
+      "2": 1
+    },
+    "relation_distances_distribution_conditional_grouped": {
+      "1": 44,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_alternation": {
+      "1": 8,
+      "2": 1
+    },
+    "relation_distances_distribution_alternation_grouped": {
+      "1": 8,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    }
+  },
+  "test": {
+    "total_num_edus": 1465,
+    "total_num_relations": 1576,
+    "total_num_speakers": 62,
+    "total_num_non_verbal_actions": 45,
+    "total_num_multi_parent_nodes": 282,
+    "total_num_multi_child_nodes": 114,
+    "total_num_pairs_with_multi_relations": 12,
+    "num_edus": {
+      "mean": 244.16666666666666,
+      "min": 111.0,
+      "max": 362.0,
+      "Q1": 171.25,
+      "median": 269.0,
+      "Q3": 303.75
+    },
+    "num_relations": {
+      "mean": 262.6666666666667,
+      "min": 114.0,
+      "max": 383.0,
+      "Q1": 181.25,
+      "median": 294.0,
+      "Q3": 334.0
+    },
+    "num_speakers": {
+      "mean": 10.333333333333334,
+      "min": 3.0,
+      "max": 18.0,
+      "Q1": 6.75,
+      "median": 10.0,
+      "Q3": 14.0
+    },
+    "num_non_verbal_actions": {
+      "mean": 7.5,
+      "min": 2.0,
+      "max": 14.0,
+      "Q1": 3.75,
+      "median": 6.5,
+      "Q3": 11.5
+    },
+    "num_multi_parent_nodes": {
+      "mean": 47.0,
+      "min": 25.0,
+      "max": 64.0,
+      "Q1": 34.0,
+      "median": 53.5,
+      "Q3": 57.25
+    },
+    "num_multi_child_nodes": {
+      "mean": 19.0,
+      "min": 4.0,
+      "max": 33.0,
+      "Q1": 7.75,
+      "median": 20.0,
+      "Q3": 30.0
+    },
+    "num_pairs_with_multi_relations": {
+      "mean": 2.0,
+      "min": 0.0,
+      "max": 5.0,
+      "Q1": 0.25,
+      "median": 1.5,
+      "Q3": 3.5
+    },
+    "relation_distance": {
+      "mean": 2.262690355329949,
+      "min": 1,
+      "max": 234,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "edu_char_length": {
+      "mean": 54.8580204778157,
+      "min": 3,
+      "max": 399,
+      "median": 37.0,
+      "Q1": 22.0,
+      "Q3": 72.0
+    },
+    "doc_char_length": {
+      "mean": 13394.5,
+      "min": 4709.0,
+      "max": 25545.0,
+      "Q1": 8750.0,
+      "median": 11276.0,
+      "Q3": 17558.75
+    },
+    "date_range": {
+      "min": "16/02/2023",
+      "max": "06/11/2023",
+      "range_days": 263,
+      "unique_days": 5,
+      "agendas_per_day": {
+        "06112023": 1,
+        "16022023": 2,
+        "16032023": 1,
+        "23022023": 1,
+        "30032023": 1
+      }
+    },
+    "relation_types": {
+      "Explanation": 61,
+      "Acknowledgement": 167,
+      "Interruption": 129,
+      "Conditional": 39,
+      "Narration": 44,
+      "Clarification_question": 36,
+      "Question-answer_pair": 46,
+      "Continuation": 417,
+      "Elaboration": 314,
+      "Result": 122,
+      "Parallel": 34,
+      "Contrast": 74,
+      "Alternation": 10,
+      "Comment": 52,
+      "Background": 16,
+      "Correction": 11,
+      "Q-Elab": 4
+    },
+    "relation_distances_distribution": {
+      "1": 1216,
+      "2": 166,
+      "3": 55,
+      "4": 33,
+      "5": 21,
+      "6": 15,
+      "7": 11,
+      "8": 5,
+      "9": 7,
+      "10": 4,
+      "11": 2,
+      "12": 6,
+      "13": 1,
+      "14": 4,
+      "15": 2,
+      "16": 2,
+      "17": 1,
+      "19": 1,
+      "20": 2,
+      "21": 2,
+      "22": 2,
+      "23": 2,
+      "24": 2,
+      "25": 1,
+      "26": 2,
+      "27": 2,
+      "28": 1,
+      "47": 1,
+      "51": 2,
+      "52": 1,
+      "53": 1,
+      "60": 1,
+      "118": 1,
+      "234": 1
+    },
+    "relation_distances_distribution_grouped": {
+      "1": 1216,
+      "2": 166,
+      "3": 55,
+      "4": 33,
+      "5": 21,
+      "6-10": 42,
+      "11-99": 41,
+      ">=100": 2
+    },
+    "num_addressees": {
+      "mean": 1.030716723549488,
+      "min": 1,
+      "max": 4,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "multi_addressees": {
+      "1": 1196,
+      "2": 37,
+      "3": 1,
+      "4": 2,
+      "everyone": 229
+    },
+    "relation_distance_explanation": {
+      "mean": 1.2131147540983607,
+      "min": 1,
+      "max": 4,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_explanation": {
+      "median": 1.0,
+      "% d=1": 86.88524590163934,
+      "% d=2": 6.557377049180328,
+      "% d=3": 4.918032786885246,
+      "% d>=4": 1.639344262295082
+    },
+    "relation_distance_acknowledgement": {
+      "mean": 2.431137724550898,
+      "min": 1,
+      "max": 118,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_acknowledgement": {
+      "median": 1.0,
+      "% d=1": 82.03592814371258,
+      "% d=2": 7.18562874251497,
+      "% d=3": 3.592814371257485,
+      "% d>=4": 7.18562874251497
+    },
+    "relation_distance_interruption": {
+      "mean": 1.0387596899224807,
+      "min": 1,
+      "max": 2,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_interruption": {
+      "median": 1.0,
+      "% d=1": 96.12403100775194,
+      "% d=2": 3.875968992248062,
+      "% d=3": 0.0,
+      "% d>=4": 0.0
+    },
+    "relation_distance_conditional": {
+      "mean": 1.0769230769230769,
+      "min": 1,
+      "max": 2,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_conditional": {
+      "median": 1.0,
+      "% d=1": 92.3076923076923,
+      "% d=2": 7.6923076923076925,
+      "% d=3": 0.0,
+      "% d>=4": 0.0
+    },
+    "relation_distance_narration": {
+      "mean": 1.6363636363636365,
+      "min": 1,
+      "max": 12,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.25
+    },
+    "relation_distance_distance_stat_narration": {
+      "median": 1.0,
+      "% d=1": 75.0,
+      "% d=2": 13.636363636363635,
+      "% d=3": 6.8181818181818175,
+      "% d>=4": 4.545454545454546
+    },
+    "relation_distance_clarification_question": {
+      "mean": 5.888888888888889,
+      "min": 1,
+      "max": 53,
+      "median": 1.5,
+      "Q1": 1.0,
+      "Q3": 4.5
+    },
+    "relation_distance_distance_stat_clarification_question": {
+      "median": 1.5,
+      "% d=1": 50.0,
+      "% d=2": 13.88888888888889,
+      "% d=3": 8.333333333333332,
+      "% d>=4": 27.77777777777778
+    },
+    "relation_distance_question-answer_pair": {
+      "mean": 6.282608695652174,
+      "min": 1,
+      "max": 60,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 5.0
+    },
+    "relation_distance_distance_stat_question-answer_pair": {
+      "median": 1.0,
+      "% d=1": 52.17391304347826,
+      "% d=2": 2.1739130434782608,
+      "% d=3": 0.0,
+      "% d>=4": 45.65217391304348
+    },
+    "relation_distance_continuation": {
+      "mean": 1.1414868105515588,
+      "min": 1,
+      "max": 9,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_continuation": {
+      "median": 1.0,
+      "% d=1": 91.12709832134293,
+      "% d=2": 6.71462829736211,
+      "% d=3": 1.1990407673860912,
+      "% d>=4": 0.9592326139088728
+    },
+    "relation_distance_elaboration": {
+      "mean": 2.659235668789809,
+      "min": 1,
+      "max": 27,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_elaboration": {
+      "median": 1.0,
+      "% d=1": 64.96815286624204,
+      "% d=2": 13.375796178343949,
+      "% d=3": 6.369426751592357,
+      "% d>=4": 15.286624203821656
+    },
+    "relation_distance_result": {
+      "mean": 2.0081967213114753,
+      "min": 1,
+      "max": 28,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 2.0
+    },
+    "relation_distance_distance_stat_result": {
+      "median": 1.0,
+      "% d=1": 59.01639344262295,
+      "% d=2": 26.229508196721312,
+      "% d=3": 4.098360655737705,
+      "% d>=4": 10.655737704918032
+    },
+    "relation_distance_parallel": {
+      "mean": 3.0588235294117645,
+      "min": 1,
+      "max": 51,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.75
+    },
+    "relation_distance_distance_stat_parallel": {
+      "median": 1.0,
+      "% d=1": 73.52941176470588,
+      "% d=2": 5.88235294117647,
+      "% d=3": 5.88235294117647,
+      "% d>=4": 14.705882352941178
+    },
+    "relation_distance_contrast": {
+      "mean": 1.2432432432432432,
+      "min": 1,
+      "max": 4,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_contrast": {
+      "median": 1.0,
+      "% d=1": 81.08108108108108,
+      "% d=2": 14.864864864864865,
+      "% d=3": 2.7027027027027026,
+      "% d>=4": 1.3513513513513513
+    },
+    "relation_distance_alternation": {
+      "mean": 1.0,
+      "min": 1,
+      "max": 1,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_alternation": {
+      "median": 1.0,
+      "% d=1": 100.0,
+      "% d=2": 0.0,
+      "% d=3": 0.0,
+      "% d>=4": 0.0
+    },
+    "relation_distance_comment": {
+      "mean": 5.25,
+      "min": 1,
+      "max": 52,
+      "median": 2.0,
+      "Q1": 1.0,
+      "Q3": 6.0
+    },
+    "relation_distance_distance_stat_comment": {
+      "median": 2.0,
+      "% d=1": 38.46153846153847,
+      "% d=2": 19.230769230769234,
+      "% d=3": 9.615384615384617,
+      "% d>=4": 32.69230769230769
+    },
+    "relation_distance_background": {
+      "mean": 1.1875,
+      "min": 1,
+      "max": 2,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.0
+    },
+    "relation_distance_distance_stat_background": {
+      "median": 1.0,
+      "% d=1": 81.25,
+      "% d=2": 18.75,
+      "% d=3": 0.0,
+      "% d>=4": 0.0
+    },
+    "relation_distance_correction": {
+      "mean": 25.272727272727273,
+      "min": 1,
+      "max": 234,
+      "median": 3.0,
+      "Q1": 1.0,
+      "Q3": 5.5
+    },
+    "relation_distance_distance_stat_correction": {
+      "median": 3.0,
+      "% d=1": 36.36363636363637,
+      "% d=2": 9.090909090909092,
+      "% d=3": 9.090909090909092,
+      "% d>=4": 45.45454545454545
+    },
+    "relation_distance_q-elab": {
+      "mean": 1.25,
+      "min": 1,
+      "max": 2,
+      "median": 1.0,
+      "Q1": 1.0,
+      "Q3": 1.25
+    },
+    "relation_distance_distance_stat_q-elab": {
+      "median": 1.0,
+      "% d=1": 75.0,
+      "% d=2": 25.0,
+      "% d=3": 0.0,
+      "% d>=4": 0.0
+    },
+    "relation_distances_distribution_explanation": {
+      "1": 53,
+      "2": 4,
+      "3": 3,
+      "4": 1
+    },
+    "relation_distances_distribution_explanation_grouped": {
+      "1": 53,
+      "2": 4,
+      "3": 3,
+      "4": 1,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_acknowledgement": {
+      "1": 137,
+      "2": 12,
+      "3": 6,
+      "4": 2,
+      "5": 1,
+      "6": 2,
+      "7": 1,
+      "10": 1,
+      "12": 2,
+      "21": 1,
+      "22": 1,
+      "118": 1
+    },
+    "relation_distances_distribution_acknowledgement_grouped": {
+      "1": 137,
+      "2": 12,
+      "3": 6,
+      "4": 2,
+      "5": 1,
+      "6-10": 4,
+      "11-99": 4,
+      ">=100": 1
+    },
+    "relation_distances_distribution_interruption": {
+      "1": 124,
+      "2": 5
+    },
+    "relation_distances_distribution_interruption_grouped": {
+      "1": 124,
+      "2": 5,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_conditional": {
+      "1": 36,
+      "2": 3
+    },
+    "relation_distances_distribution_conditional_grouped": {
+      "1": 36,
+      "2": 3,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_narration": {
+      "1": 33,
+      "2": 6,
+      "3": 3,
+      "6": 1,
+      "12": 1
+    },
+    "relation_distances_distribution_narration_grouped": {
+      "1": 33,
+      "2": 6,
+      "3": 3,
+      "4": 0,
+      "5": 0,
+      "6-10": 1,
+      "11-99": 1,
+      ">=100": 0
+    },
+    "relation_distances_distribution_clarification_question": {
+      "1": 18,
+      "2": 5,
+      "3": 3,
+      "4": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "11": 1,
+      "12": 1,
+      "14": 1,
+      "51": 1,
+      "53": 1
+    },
+    "relation_distances_distribution_clarification_question_grouped": {
+      "1": 18,
+      "2": 5,
+      "3": 3,
+      "4": 1,
+      "5": 0,
+      "6-10": 4,
+      "11-99": 5,
+      ">=100": 0
+    },
+    "relation_distances_distribution_question-answer_pair": {
+      "1": 24,
+      "2": 1,
+      "4": 6,
+      "5": 4,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "12": 1,
+      "13": 1,
+      "15": 1,
+      "17": 1,
+      "24": 1,
+      "47": 1,
+      "60": 1
+    },
+    "relation_distances_distribution_question-answer_pair_grouped": {
+      "1": 24,
+      "2": 1,
+      "3": 0,
+      "4": 6,
+      "5": 4,
+      "6-10": 4,
+      "11-99": 7,
+      ">=100": 0
+    },
+    "relation_distances_distribution_continuation": {
+      "1": 380,
+      "2": 28,
+      "3": 5,
+      "4": 1,
+      "5": 1,
+      "7": 1,
+      "9": 1
+    },
+    "relation_distances_distribution_continuation_grouped": {
+      "1": 380,
+      "2": 28,
+      "3": 5,
+      "4": 1,
+      "5": 1,
+      "6-10": 2,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_elaboration": {
+      "1": 204,
+      "2": 42,
+      "3": 20,
+      "4": 11,
+      "5": 10,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "9": 3,
+      "10": 3,
+      "12": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "19": 1,
+      "20": 1,
+      "21": 1,
+      "22": 1,
+      "23": 1,
+      "24": 1,
+      "25": 1,
+      "26": 2,
+      "27": 1
+    },
+    "relation_distances_distribution_elaboration_grouped": {
+      "1": 204,
+      "2": 42,
+      "3": 20,
+      "4": 11,
+      "5": 10,
+      "6-10": 13,
+      "11-99": 14,
+      ">=100": 0
+    },
+    "relation_distances_distribution_result": {
+      "1": 72,
+      "2": 32,
+      "3": 5,
+      "4": 4,
+      "5": 3,
+      "6": 2,
+      "7": 2,
+      "9": 1,
+      "28": 1
+    },
+    "relation_distances_distribution_result_grouped": {
+      "1": 72,
+      "2": 32,
+      "3": 5,
+      "4": 4,
+      "5": 3,
+      "6-10": 5,
+      "11-99": 1,
+      ">=100": 0
+    },
+    "relation_distances_distribution_parallel": {
+      "1": 25,
+      "2": 2,
+      "3": 2,
+      "4": 3,
+      "6": 1,
+      "51": 1
+    },
+    "relation_distances_distribution_parallel_grouped": {
+      "1": 25,
+      "2": 2,
+      "3": 2,
+      "4": 3,
+      "5": 0,
+      "6-10": 1,
+      "11-99": 1,
+      ">=100": 0
+    },
+    "relation_distances_distribution_contrast": {
+      "1": 60,
+      "2": 11,
+      "3": 2,
+      "4": 1
+    },
+    "relation_distances_distribution_contrast_grouped": {
+      "1": 60,
+      "2": 11,
+      "3": 2,
+      "4": 1,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_alternation": {
+      "1": 10
+    },
+    "relation_distances_distribution_alternation_grouped": {
+      "1": 10,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_comment": {
+      "1": 20,
+      "2": 10,
+      "3": 5,
+      "4": 1,
+      "5": 2,
+      "6": 4,
+      "7": 1,
+      "8": 2,
+      "11": 1,
+      "14": 2,
+      "16": 1,
+      "23": 1,
+      "27": 1,
+      "52": 1
+    },
+    "relation_distances_distribution_comment_grouped": {
+      "1": 20,
+      "2": 10,
+      "3": 5,
+      "4": 1,
+      "5": 2,
+      "6-10": 7,
+      "11-99": 7,
+      ">=100": 0
+    },
+    "relation_distances_distribution_background": {
+      "1": 13,
+      "2": 3
+    },
+    "relation_distances_distribution_background_grouped": {
+      "1": 13,
+      "2": 3,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    },
+    "relation_distances_distribution_correction": {
+      "1": 4,
+      "2": 1,
+      "3": 1,
+      "4": 2,
+      "7": 1,
+      "20": 1,
+      "234": 1
+    },
+    "relation_distances_distribution_correction_grouped": {
+      "1": 4,
+      "2": 1,
+      "3": 1,
+      "4": 2,
+      "5": 0,
+      "6-10": 1,
+      "11-99": 1,
+      ">=100": 1
+    },
+    "relation_distances_distribution_q-elab": {
+      "1": 3,
+      "2": 1
+    },
+    "relation_distances_distribution_q-elab_grouped": {
+      "1": 3,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6-10": 0,
+      "11-99": 0,
+      ">=100": 0
+    }
+  }
+}

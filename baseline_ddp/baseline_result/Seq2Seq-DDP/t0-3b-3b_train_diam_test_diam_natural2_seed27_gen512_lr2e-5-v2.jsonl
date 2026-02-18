@@ -1,0 +1,1465 @@
+{"id": "DR-06112023-03_00", "gen_output": "root"}
+{"id": "DR-06112023-03_01", "gen_output": "Conditional of [edu0]"}
+{"id": "DR-06112023-03_02", "gen_output": "Continuation of [edu1]"}
+{"id": "DR-06112023-03_03", "gen_output": "Narration of [edu1]"}
+{"id": "DR-06112023-03_04", "gen_output": "Clarification_question of [edu0] Clarification_question of [edu1]"}
+{"id": "DR-06112023-03_05", "gen_output": "Question-answer_pair of [edu3]"}
+{"id": "DR-06112023-03_06", "gen_output": "Acknowledgement of [edu5]"}
+{"id": "DR-06112023-03_07", "gen_output": "Continuation of [edu7]"}
+{"id": "DR-06112023-03_08", "gen_output": "Elaboration of [edu7]"}
+{"id": "DR-06112023-03_09", "gen_output": "Result of [edu7]"}
+{"id": "DR-06112023-03_10", "gen_output": "Acknowledgement of [edu7]"}
+{"id": "DR-06112023-03_11", "gen_output": "Continuation of [edu7]"}
+{"id": "DR-06112023-03_12", "gen_output": "Elaboration of [edu11]"}
+{"id": "DR-06112023-03_13", "gen_output": "Continuation of [edu13]"}
+{"id": "DR-06112023-03_14", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-06112023-03_15", "gen_output": "Parallel of [edu15]"}
+{"id": "DR-06112023-03_16", "gen_output": "Result of [edu15]"}
+{"id": "DR-06112023-03_17", "gen_output": "Contrast of [edu15]"}
+{"id": "DR-06112023-03_18", "gen_output": "Clarification_question of [edu16]"}
+{"id": "DR-06112023-03_19", "gen_output": "Explanation of [edu15]"}
+{"id": "DR-06112023-03_20", "gen_output": "Conditional of [edu19]"}
+{"id": "DR-06112023-03_21", "gen_output": "Alternation of [edu20]"}
+{"id": "DR-06112023-03_22", "gen_output": "Elaboration of [edu22]"}
+{"id": "DR-06112023-03_23", "gen_output": "Explanation of [edu22]"}
+{"id": "DR-06112023-03_24", "gen_output": "Acknowledgement of [edu20]"}
+{"id": "DR-06112023-03_25", "gen_output": "Clarification_question of [edu22]"}
+{"id": "DR-06112023-03_26", "gen_output": "Alternation of [edu25]"}
+{"id": "DR-06112023-03_27", "gen_output": "Interruption of [edu26]"}
+{"id": "DR-06112023-03_28", "gen_output": "Acknowledgement of [edu27]"}
+{"id": "DR-06112023-03_29", "gen_output": "Continuation of [edu28]"}
+{"id": "DR-06112023-03_30", "gen_output": "Elaboration of [edu37]"}
+{"id": "DR-06112023-03_31", "gen_output": "Elaboration of [edu28]"}
+{"id": "DR-06112023-03_32", "gen_output": "Contrast of [edu31]"}
+{"id": "DR-06112023-03_33", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-06112023-03_34", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-06112023-03_35", "gen_output": "Acknowledgement of [edu34]"}
+{"id": "DR-06112023-03_36", "gen_output": "Clarification_question of [edu34]"}
+{"id": "DR-06112023-03_37", "gen_output": "Acknowledgement of [edu31]"}
+{"id": "DR-06112023-03_38", "gen_output": "Question-answer_pair of [edu31]"}
+{"id": "DR-06112023-03_39", "gen_output": "Contrast of [edu31]"}
+{"id": "DR-06112023-03_40", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-06112023-03_41", "gen_output": "Acknowledgement of [ edu40]"}
+{"id": "DR-06112023-03_42", "gen_output": "Interruption of [ edu41]"}
+{"id": "DR-06112023-03_43", "gen_output": "Interruption of [ edu42] Clarification_question of [ edu42]"}
+{"id": "DR-06112023-03_44", "gen_output": "Continuation of [ edu42]"}
+{"id": "DR-06112023-03_45", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-06112023-03_46", "gen_output": "Parallel of [ edu45]"}
+{"id": "DR-06112023-03_47", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-06112023-03_48", "gen_output": "Elaboration of [ edu47]"}
+{"id": "DR-06112023-03_49", "gen_output": "Narration of [ edu48]"}
+{"id": "DR-06112023-03_50", "gen_output": "Elaboration of [ edu49]"}
+{"id": "DR-06112023-03_51", "gen_output": "Explanation of [ edu50]"}
+{"id": "DR-06112023-03_52", "gen_output": "Elaboration of [ edu51]"}
+{"id": "DR-06112023-03_53", "gen_output": "Contrast of [ edu52]"}
+{"id": "DR-06112023-03_54", "gen_output": "Elaboration of [ edu53]"}
+{"id": "DR-06112023-03_55", "gen_output": "Elaboration of [ edu51]"}
+{"id": "DR-06112023-03_56", "gen_output": "Elaboration of [ edu55]"}
+{"id": "DR-06112023-03_57", "gen_output": "Continuation of [ edu56]"}
+{"id": "DR-06112023-03_58", "gen_output": "Continuation of [ edu57]"}
+{"id": "DR-06112023-03_59", "gen_output": "Continuation of [ edu58]"}
+{"id": "DR-06112023-03_60", "gen_output": "Continuation of [ edu59]"}
+{"id": "DR-06112023-03_61", "gen_output": "Acknowledgement of [ edu60]"}
+{"id": "DR-06112023-03_62", "gen_output": "Continuation of [ edu60]"}
+{"id": "DR-06112023-03_63", "gen_output": "Continuation of [ edu62]"}
+{"id": "DR-06112023-03_64", "gen_output": "Interruption of [ edu63]"}
+{"id": "DR-06112023-03_65", "gen_output": "Elaboration of [ edu63]"}
+{"id": "DR-06112023-03_66", "gen_output": "Elaboration of [ edu65]"}
+{"id": "DR-06112023-03_67", "gen_output": "Result of [ edu65]"}
+{"id": "DR-06112023-03_68", "gen_output": "Result of [ edu67]"}
+{"id": "DR-06112023-03_69", "gen_output": "Result of [ edu68]"}
+{"id": "DR-06112023-03_70", "gen_output": "Elaboration of [ edu69]"}
+{"id": "DR-06112023-03_71", "gen_output": "Acknowledgement of [ edu70]"}
+{"id": "DR-06112023-03_72", "gen_output": "Interruption of [ edu71]"}
+{"id": "DR-06112023-03_73", "gen_output": "Continuation of [ edu72]"}
+{"id": "DR-06112023-03_74", "gen_output": "Interruption of [ edu73]"}
+{"id": "DR-06112023-03_75", "gen_output": "Explanation of [ edu74]"}
+{"id": "DR-06112023-03_76", "gen_output": "Contrast of [ edu75]"}
+{"id": "DR-06112023-03_77", "gen_output": "Interruption of [ edu76]"}
+{"id": "DR-06112023-03_78", "gen_output": "Contrast of [ edu76]"}
+{"id": "DR-06112023-03_79", "gen_output": "Result of [ edu78]"}
+{"id": "DR-06112023-03_80", "gen_output": "Interruption of [ edu79]"}
+{"id": "DR-06112023-03_81", "gen_output": "Continuation of [ edu78]"}
+{"id": "DR-06112023-03_82", "gen_output": "Continuation of [ edu81]"}
+{"id": "DR-06112023-03_83", "gen_output": "Elaboration of [ edu82]"}
+{"id": "DR-06112023-03_84", "gen_output": "Contrast of [ edu83]"}
+{"id": "DR-06112023-03_85", "gen_output": "Interruption of [ edu84]"}
+{"id": "DR-06112023-03_86", "gen_output": "Comment of [ edu85]"}
+{"id": "DR-06112023-03_87", "gen_output": "Interruption of [ edu86]"}
+{"id": "DR-06112023-03_88", "gen_output": "Interruption of [ edu87] Continuation of [ edu86]"}
+{"id": "DR-06112023-03_89", "gen_output": "Interruption of [ edu88]"}
+{"id": "DR-06112023-03_90", "gen_output": "Continuation of [ edu89]"}
+{"id": "DR-06112023-03_91", "gen_output": "Continuation of [ edu90]"}
+{"id": "DR-06112023-03_92", "gen_output": "Continuation of [ edu91]"}
+{"id": "DR-06112023-03_93", "gen_output": "Interruption of [ edu92]"}
+{"id": "DR-06112023-03_94", "gen_output": "Continuation of [ edu93]"}
+{"id": "DR-06112023-03_95", "gen_output": "Acknowledgement of [ edu94]"}
+{"id": "DR-06112023-03_96", "gen_output": "Continuation of [ edu95]"}
+{"id": "DR-06112023-03_97", "gen_output": "Explanation of [ edu94]"}
+{"id": "DR-06112023-03_98", "gen_output": "Result of [ edu97]"}
+{"id": "DR-06112023-03_99", "gen_output": "Continuation of [ edu98]"}
+{"id": "DR-06112023-03_100", "gen_output": "Acknowledgement of [ edu99]"}
+{"id": "DR-06112023-03_101", "gen_output": "Continuation of [ edu100]"}
+{"id": "DR-06112023-03_102", "gen_output": "Continuation of [ edu101]"}
+{"id": "DR-06112023-03_103", "gen_output": "Interruption of [ edu102] Correction of [ edu100]"}
+{"id": "DR-06112023-03_104", "gen_output": "Acknowledgement of [ edu103]"}
+{"id": "DR-06112023-03_105", "gen_output": "Continuation of [ edu104]"}
+{"id": "DR-06112023-03_106", "gen_output": "Conditional of [ edu105]"}
+{"id": "DR-06112023-03_107", "gen_output": "Continuation of [ edu106]"}
+{"id": "DR-06112023-03_108", "gen_output": "Continuation of [ edu107]"}
+{"id": "DR-06112023-03_109", "gen_output": "Interruption of [ edu108]"}
+{"id": "DR-06112023-03_110", "gen_output": "Elaboration of [ edu109]"}
+{"id": "DR-06112023-03_111", "gen_output": "Continuation of [ edu110]"}
+{"id": "DR-06112023-03_112", "gen_output": "Acknowledgement of [ edu111]"}
+{"id": "DR-06112023-03_113", "gen_output": "Continuation of [ edu112]"}
+{"id": "DR-06112023-03_114", "gen_output": "Continuation of [ edu113]"}
+{"id": "DR-06112023-03_115", "gen_output": "Background of [ edu114]"}
+{"id": "DR-06112023-03_116", "gen_output": "Continuation of [ edu115]"}
+{"id": "DR-06112023-03_117", "gen_output": "Contrast of [ edu116]"}
+{"id": "DR-06112023-03_118", "gen_output": "Interruption of [ edu117]"}
+{"id": "DR-06112023-03_119", "gen_output": "Interruption of [ edu118]"}
+{"id": "DR-06112023-03_120", "gen_output": "Continuation of [ edu119]"}
+{"id": "DR-06112023-03_121", "gen_output": "Interruption of [ edu120]"}
+{"id": "DR-06112023-03_122", "gen_output": "Correction of [ edu121]"}
+{"id": "DR-06112023-03_123", "gen_output": "Continuation of [ edu122]"}
+{"id": "DR-06112023-03_124", "gen_output": "Result of [ edu123]"}
+{"id": "DR-06112023-03_125", "gen_output": "Explanation of [ edu124]"}
+{"id": "DR-06112023-03_126", "gen_output": "Continuation of [ edu125]"}
+{"id": "DR-06112023-03_127", "gen_output": "Acknowledgement of [ edu126]"}
+{"id": "DR-06112023-03_128", "gen_output": "Acknowledgement of [ edu127]"}
+{"id": "DR-06112023-03_129", "gen_output": "Interruption of [ edu128]"}
+{"id": "DR-06112023-03_130", "gen_output": "Acknowledgement of [ edu129]"}
+{"id": "DR-06112023-03_131", "gen_output": "Acknowledgement of [ edu130]"}
+{"id": "DR-06112023-03_132", "gen_output": "Explanation of [ edu131]"}
+{"id": "DR-06112023-03_133", "gen_output": "Acknowledgement of [ edu132]"}
+{"id": "DR-06112023-03_134", "gen_output": "Continuation of [ edu133]"}
+{"id": "DR-06112023-03_135", "gen_output": "Elaboration of [ edu134]"}
+{"id": "DR-06112023-03_136", "gen_output": "Acknowledgement of [ edu135]"}
+{"id": "DR-06112023-03_137", "gen_output": "Elaboration of [ edu135]"}
+{"id": "DR-06112023-03_138", "gen_output": "Acknowledgement of [ edu137]"}
+{"id": "DR-06112023-03_139", "gen_output": "Continuation of [ edu137]"}
+{"id": "DR-06112023-03_140", "gen_output": "Elaboration of [ edu139]"}
+{"id": "DR-06112023-03_141", "gen_output": "Parallel of [ edu140]"}
+{"id": "DR-06112023-03_142", "gen_output": "Elaboration of [ edu139]"}
+{"id": "DR-06112023-03_143", "gen_output": "Elaboration of [ edu142]"}
+{"id": "DR-06112023-03_144", "gen_output": "Parallel of [ edu143]"}
+{"id": "DR-06112023-03_145", "gen_output": "Continuation of [ edu144]"}
+{"id": "DR-06112023-03_146", "gen_output": "Elaboration of [ edu145]"}
+{"id": "DR-06112023-03_147", "gen_output": "Continuation of [ edu146]"}
+{"id": "DR-06112023-03_148", "gen_output": "Acknowledgement of [ edu147]"}
+{"id": "DR-06112023-03_149", "gen_output": "Continuation of [ edu148]"}
+{"id": "DR-06112023-03_150", "gen_output": "Elaboration of [ edu149]"}
+{"id": "DR-06112023-03_151", "gen_output": "Elaboration of [ edu149]"}
+{"id": "DR-06112023-03_152", "gen_output": "Continuation of [ edu151]"}
+{"id": "DR-06112023-03_153", "gen_output": "Acknowledgement of [ edu152]"}
+{"id": "DR-06112023-03_154", "gen_output": "Interruption of [ edu153]"}
+{"id": "DR-06112023-03_155", "gen_output": "Interruption of [ edu154]"}
+{"id": "DR-06112023-03_156", "gen_output": "Interruption of [ edu155]"}
+{"id": "DR-06112023-03_157", "gen_output": "Acknowledgement of [ edu156]"}
+{"id": "DR-06112023-03_158", "gen_output": "Acknowledgement of [ edu157]"}
+{"id": "DR-06112023-03_159", "gen_output": "Continuation of [ edu158]"}
+{"id": "DR-06112023-03_160", "gen_output": "Elaboration of [ edu159]"}
+{"id": "DR-06112023-03_161", "gen_output": "Elaboration of [ edu160]"}
+{"id": "DR-06112023-03_162", "gen_output": "Parallel of [ edu161]"}
+{"id": "DR-06112023-03_163", "gen_output": "Elaboration of [ edu162]"}
+{"id": "DR-06112023-03_164", "gen_output": "Continuation of [ edu163]"}
+{"id": "DR-06112023-03_165", "gen_output": "Elaboration of [ edu164]"}
+{"id": "DR-06112023-03_166", "gen_output": "Parallel of [ edu164]"}
+{"id": "DR-06112023-03_167", "gen_output": "Interruption of [ edu166] Correction of [ edu166]"}
+{"id": "DR-06112023-03_168", "gen_output": "Interruption of [ edu167] Clarification_question of [ edu165]"}
+{"id": "DR-06112023-03_169", "gen_output": "Comment of [ edu168]"}
+{"id": "DR-06112023-03_170", "gen_output": "Elaboration of [ edu169]"}
+{"id": "DR-06112023-03_171", "gen_output": "Interruption of [ edu170] Clarification_question of [ edu169]"}
+{"id": "DR-06112023-03_172", "gen_output": "Elaboration of [ edu170]"}
+{"id": "DR-06112023-03_173", "gen_output": "Result of [ edu172]"}
+{"id": "DR-06112023-03_174", "gen_output": "Interruption of [ edu173] Clarification_question of [ edu169]"}
+{"id": "DR-06112023-03_175", "gen_output": "Elaboration of [ edu174]"}
+{"id": "DR-06112023-03_176", "gen_output": "Elaboration of [ edu175]"}
+{"id": "DR-06112023-03_177", "gen_output": "Interruption of [ edu176] Continuation of [ edu173]"}
+{"id": "DR-06112023-03_178", "gen_output": "Acknowledgement of [ edu177]"}
+{"id": "DR-06112023-03_179", "gen_output": "Continuation of [ edu178]"}
+{"id": "DR-06112023-03_180", "gen_output": "Interruption of [ edu179] Continuation of [ edu177]"}
+{"id": "DR-06112023-03_181", "gen_output": "Result of [ edu180]"}
+{"id": "DR-06112023-03_182", "gen_output": "Interruption of [ edu181]"}
+{"id": "DR-06112023-03_183", "gen_output": "Interruption of [ edu182]"}
+{"id": "DR-06112023-03_184", "gen_output": "Acknowledgement of [ edu183]"}
+{"id": "DR-06112023-03_185", "gen_output": "Continuation of [ edu183]"}
+{"id": "DR-06112023-03_186", "gen_output": "Elaboration of [ edu185]"}
+{"id": "DR-06112023-03_187", "gen_output": "Continuation of [ edu186]"}
+{"id": "DR-06112023-03_188", "gen_output": "Narration of [ edu187]"}
+{"id": "DR-06112023-03_189", "gen_output": "Result of [ edu187]"}
+{"id": "DR-06112023-03_190", "gen_output": "Elaboration of [ edu189]"}
+{"id": "DR-06112023-03_191", "gen_output": "Result of [ edu189]"}
+{"id": "DR-06112023-03_192", "gen_output": "Elaboration of [ edu191]"}
+{"id": "DR-06112023-03_193", "gen_output": "Interruption of [ edu192]"}
+{"id": "DR-06112023-03_194", "gen_output": "Clarification_question of [ edu193]"}
+{"id": "DR-06112023-03_195", "gen_output": "Question-answer_pair of [ edu194]"}
+{"id": "DR-06112023-03_196", "gen_output": "Interruption of [ edu195]"}
+{"id": "DR-06112023-03_197", "gen_output": "Acknowledgement of [ edu196]"}
+{"id": "DR-06112023-03_198", "gen_output": "Continuation of [ edu197]"}
+{"id": "DR-06112023-03_199", "gen_output": "Explanation of [ edu198]"}
+{"id": "DR-06112023-03_200", "gen_output": "Acknowledgement of [ edu199]"}
+{"id": "DR-06112023-03_201", "gen_output": "Continuation of [ edu200]"}
+{"id": "DR-06112023-03_202", "gen_output": "Result of [ edu200]"}
+{"id": "DR-06112023-03_203", "gen_output": "Continuation of [ edu202]"}
+{"id": "DR-06112023-03_204", "gen_output": "Result of [ edu203]"}
+{"id": "DR-06112023-03_205", "gen_output": "Continuation of [ edu204]"}
+{"id": "DR-06112023-03_206", "gen_output": "Conditional of [ edu205]"}
+{"id": "DR-06112023-03_207", "gen_output": "Conditional of [ edu206]"}
+{"id": "DR-06112023-03_208", "gen_output": "Elaboration of [ edu207]"}
+{"id": "DR-06112023-03_209", "gen_output": "Continuation of [ edu208]"}
+{"id": "DR-06112023-03_210", "gen_output": "Continuation of [ edu209]"}
+{"id": "DR-06112023-03_211", "gen_output": "Elaboration of [ edu210]"}
+{"id": "DR-06112023-03_212", "gen_output": "Elaboration of [ edu210]"}
+{"id": "DR-06112023-03_213", "gen_output": "Continuation of [ edu212]"}
+{"id": "DR-06112023-03_214", "gen_output": "Result of [ edu213]"}
+{"id": "DR-06112023-03_215", "gen_output": "Elaboration of [ edu214]"}
+{"id": "DR-06112023-03_216", "gen_output": "Elaboration of [ edu215]"}
+{"id": "DR-06112023-03_217", "gen_output": "Result of [ edu215]"}
+{"id": "DR-06112023-03_218", "gen_output": "Elaboration of [ edu217]"}
+{"id": "DR-06112023-03_219", "gen_output": "Elaboration of [ edu218]"}
+{"id": "DR-06112023-03_220", "gen_output": "Elaboration of [ edu219]"}
+{"id": "DR-06112023-03_221", "gen_output": "Elaboration of [ edu220]"}
+{"id": "DR-06112023-03_222", "gen_output": "Continuation of [ edu221]"}
+{"id": "DR-06112023-03_223", "gen_output": "Continuation of [ edu222]"}
+{"id": "DR-06112023-03_224", "gen_output": "Elaboration of [ edu222]"}
+{"id": "DR-06112023-03_225", "gen_output": "Continuation of [ edu224]"}
+{"id": "DR-06112023-03_226", "gen_output": "Elaboration of [ edu222]"}
+{"id": "DR-06112023-03_227", "gen_output": "Conditional of [ edu226]"}
+{"id": "DR-06112023-03_228", "gen_output": "Acknowledgement of [ edu227]"}
+{"id": "DR-06112023-03_229", "gen_output": "Continuation of [ edu227]"}
+{"id": "DR-06112023-03_230", "gen_output": "Continuation of [ edu229]"}
+{"id": "DR-06112023-03_231", "gen_output": "Elaboration of [ edu229]"}
+{"id": "DR-06112023-03_232", "gen_output": "Background of [ edu231]"}
+{"id": "DR-06112023-03_233", "gen_output": "Elaboration of [ edu232]"}
+{"id": "DR-06112023-03_234", "gen_output": "Elaboration of [ edu231]"}
+{"id": "DR-06112023-03_235", "gen_output": "Continuation of [ edu234]"}
+{"id": "DR-06112023-03_236", "gen_output": "Continuation of [ edu235]"}
+{"id": "DR-06112023-03_237", "gen_output": "Elaboration of [ edu236]"}
+{"id": "DR-06112023-03_238", "gen_output": "Conditional of [ edu237]"}
+{"id": "DR-06112023-03_239", "gen_output": "Continuation of [ edu238]"}
+{"id": "DR-06112023-03_240", "gen_output": "Continuation of [ edu239]"}
+{"id": "DR-06112023-03_241", "gen_output": "Result of [ edu240]"}
+{"id": "DR-06112023-03_242", "gen_output": "Continuation of [ edu241]"}
+{"id": "DR-06112023-03_243", "gen_output": "Acknowledgement of [ edu242]"}
+{"id": "DR-06112023-03_244", "gen_output": "Continuation of [ edu243]"}
+{"id": "DR-06112023-03_245", "gen_output": "Continuation of [ edu244]"}
+{"id": "DR-06112023-03_246", "gen_output": "Elaboration of [ edu245]"}
+{"id": "DR-06112023-03_247", "gen_output": "Elaboration of [ edu246]"}
+{"id": "DR-06112023-03_248", "gen_output": "Conditional of [ edu246]"}
+{"id": "DR-06112023-03_249", "gen_output": "Contrast of [ edu246]"}
+{"id": "DR-06112023-03_250", "gen_output": "Elaboration of [ edu249]"}
+{"id": "DR-06112023-03_251", "gen_output": "Alternation of [ edu250]"}
+{"id": "DR-06112023-03_252", "gen_output": "Contrast of [ edu251]"}
+{"id": "DR-06112023-03_253", "gen_output": "Explanation of [ edu252]"}
+{"id": "DR-06112023-03_254", "gen_output": "Acknowledgement of [ edu253]"}
+{"id": "DR-06112023-03_255", "gen_output": "Continuation of [ edu253]"}
+{"id": "DR-06112023-03_256", "gen_output": "Elaboration of [ edu255]"}
+{"id": "DR-06112023-03_257", "gen_output": "Parallel of [ edu256]"}
+{"id": "DR-06112023-03_258", "gen_output": "Explanation of [ edu255]"}
+{"id": "DR-06112023-03_259", "gen_output": "Continuation of [ edu258]"}
+{"id": "DR-06112023-03_260", "gen_output": "Elaboration of [ edu259]"}
+{"id": "DR-06112023-03_261", "gen_output": "Continuation of [ edu260]"}
+{"id": "DR-06112023-03_262", "gen_output": "Parallel of [ edu261]"}
+{"id": "DR-06112023-03_263", "gen_output": "Continuation of [ edu262]"}
+{"id": "DR-06112023-03_264", "gen_output": "Continuation of [ edu263]"}
+{"id": "DR-06112023-03_265", "gen_output": "Elaboration of [ edu264]"}
+{"id": "DR-06112023-03_266", "gen_output": "Result of [ edu264]"}
+{"id": "DR-06112023-03_267", "gen_output": "Continuation of [ edu266]"}
+{"id": "DR-06112023-03_268", "gen_output": "Result of [ edu266]"}
+{"id": "DR-06112023-03_269", "gen_output": "Elaboration of [ edu268]"}
+{"id": "DR-06112023-03_270", "gen_output": "Continuation of [ edu269]"}
+{"id": "DR-06112023-03_271", "gen_output": "Continuation of [ edu270]"}
+{"id": "DR-06112023-03_272", "gen_output": "Result of [ edu271]"}
+{"id": "DR-06112023-03_273", "gen_output": "Continuation of [ edu272]"}
+{"id": "DR-06112023-03_274", "gen_output": "Acknowledgement of [ edu273]"}
+{"id": "DR-06112023-03_275", "gen_output": "Acknowledgement of [ edu274]"}
+{"id": "DR-16022023-01_00", "gen_output": "root"}
+{"id": "DR-16022023-01_01", "gen_output": "Elaboration of [edu0]"}
+{"id": "DR-16022023-01_02", "gen_output": "Clarification_question of [edu0]"}
+{"id": "DR-16022023-01_03", "gen_output": "Acknowledgement of [edu3]"}
+{"id": "DR-16022023-01_04", "gen_output": "Contrast of [edu5]"}
+{"id": "DR-16022023-01_05", "gen_output": "Parallel of [edu6]"}
+{"id": "DR-16022023-01_06", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-16022023-01_07", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-16022023-01_08", "gen_output": "Parallel of [edu6]"}
+{"id": "DR-16022023-01_09", "gen_output": "Elaboration of [edu7]"}
+{"id": "DR-16022023-01_10", "gen_output": "Elaboration of [edu11]"}
+{"id": "DR-16022023-01_11", "gen_output": "Elaboration of [edu11]"}
+{"id": "DR-16022023-01_12", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16022023-01_13", "gen_output": "Continuation of [edu13]"}
+{"id": "DR-16022023-01_14", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16022023-01_15", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16022023-01_16", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16022023-01_17", "gen_output": "Result of [edu13]"}
+{"id": "DR-16022023-01_18", "gen_output": "Continuation of [edu15]"}
+{"id": "DR-16022023-01_19", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16022023-01_20", "gen_output": "Elaboration of [edu15]"}
+{"id": "DR-16022023-01_21", "gen_output": "Elaboration of [edu15]"}
+{"id": "DR-16022023-01_22", "gen_output": "Result of [edu22]"}
+{"id": "DR-16022023-01_23", "gen_output": "Elaboration of [edu22]"}
+{"id": "DR-16022023-01_24", "gen_output": "Continuation of [edu22]"}
+{"id": "DR-16022023-01_25", "gen_output": "Acknowledgement of [edu6]"}
+{"id": "DR-16022023-01_26", "gen_output": "Continuation of [edu26]"}
+{"id": "DR-16022023-01_27", "gen_output": "Continuation of [edu26]"}
+{"id": "DR-16022023-01_28", "gen_output": "Acknowledgement of [edu27]"}
+{"id": "DR-16022023-01_29", "gen_output": "Continuation of [edu28]"}
+{"id": "DR-16022023-01_30", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16022023-01_31", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-01_32", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-01_33", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-01_34", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-01_35", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-01_36", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16022023-01_37", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-01_38", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-01_39", "gen_output": "Background of [edu31]"}
+{"id": "DR-16022023-01_40", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16022023-01_41", "gen_output": "Conditional of [edu31]"}
+{"id": "DR-16022023-01_42", "gen_output": "Contrast of [ edu40]"}
+{"id": "DR-16022023-01_43", "gen_output": "Elaboration of [ edu41]"}
+{"id": "DR-16022023-01_44", "gen_output": "Result of [ edu42]"}
+{"id": "DR-16022023-01_45", "gen_output": "Continuation of [ edu43]"}
+{"id": "DR-16022023-01_46", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-01_47", "gen_output": "Elaboration of [ edu45]"}
+{"id": "DR-16022023-01_48", "gen_output": "Continuation of [ edu46]"}
+{"id": "DR-16022023-01_49", "gen_output": "Interruption of [ edu47]"}
+{"id": "DR-16022023-01_50", "gen_output": "Interruption of [ edu49]"}
+{"id": "DR-16022023-01_51", "gen_output": "Interruption of [ edu50]"}
+{"id": "DR-16022023-01_52", "gen_output": "Interruption of [ edu51]"}
+{"id": "DR-16022023-01_53", "gen_output": "Continuation of [ edu50]"}
+{"id": "DR-16022023-01_54", "gen_output": "Acknowledgement of [ edu53]"}
+{"id": "DR-16022023-01_55", "gen_output": "Continuation of [ edu54]"}
+{"id": "DR-16022023-01_56", "gen_output": "Continuation of [ edu55]"}
+{"id": "DR-16022023-01_57", "gen_output": "Elaboration of [ edu56]"}
+{"id": "DR-16022023-01_58", "gen_output": "Elaboration of [ edu57]"}
+{"id": "DR-16022023-01_59", "gen_output": "Result of [ edu56]"}
+{"id": "DR-16022023-01_60", "gen_output": "Elaboration of [ edu59]"}
+{"id": "DR-16022023-01_61", "gen_output": "Elaboration of [ edu60]"}
+{"id": "DR-16022023-01_62", "gen_output": "Continuation of [ edu61]"}
+{"id": "DR-16022023-01_63", "gen_output": "Elaboration of [ edu60]"}
+{"id": "DR-16022023-01_64", "gen_output": "Contrast of [ edu62]"}
+{"id": "DR-16022023-01_65", "gen_output": "Elaboration of [ edu60]"}
+{"id": "DR-16022023-01_66", "gen_output": "Contrast of [ edu64]"}
+{"id": "DR-16022023-01_67", "gen_output": "Result of [ edu64]"}
+{"id": "DR-16022023-01_68", "gen_output": "Continuation of [ edu67]"}
+{"id": "DR-16022023-01_69", "gen_output": "Acknowledgement of [ edu68]"}
+{"id": "DR-16022023-01_70", "gen_output": "Continuation of [ edu69]"}
+{"id": "DR-16022023-01_71", "gen_output": "Acknowledgement of [ edu70]"}
+{"id": "DR-16022023-01_72", "gen_output": "Continuation of [ edu71]"}
+{"id": "DR-16022023-01_73", "gen_output": "Continuation of [ edu72]"}
+{"id": "DR-16022023-01_74", "gen_output": "Continuation of [ edu73]"}
+{"id": "DR-16022023-01_75", "gen_output": "Elaboration of [ edu73]"}
+{"id": "DR-16022023-01_76", "gen_output": "Elaboration of [ edu74]"}
+{"id": "DR-16022023-01_77", "gen_output": "Elaboration of [ edu75]"}
+{"id": "DR-16022023-01_78", "gen_output": "Continuation of [ edu76]"}
+{"id": "DR-16022023-01_79", "gen_output": "Continuation of [ edu77]"}
+{"id": "DR-16022023-01_80", "gen_output": "Elaboration of [ edu78]"}
+{"id": "DR-16022023-01_81", "gen_output": "Elaboration of [ edu79]"}
+{"id": "DR-16022023-01_82", "gen_output": "Elaboration of [ edu80]"}
+{"id": "DR-16022023-01_83", "gen_output": "Continuation of [ edu81]"}
+{"id": "DR-16022023-01_84", "gen_output": "Continuation of [ edu82]"}
+{"id": "DR-16022023-01_85", "gen_output": "Explanation of [ edu83]"}
+{"id": "DR-16022023-01_86", "gen_output": "Elaboration of [ edu84]"}
+{"id": "DR-16022023-01_87", "gen_output": "Continuation of [ edu85]"}
+{"id": "DR-16022023-01_88", "gen_output": "Elaboration of [ edu86]"}
+{"id": "DR-16022023-01_89", "gen_output": "Elaboration of [ edu87]"}
+{"id": "DR-16022023-01_90", "gen_output": "Elaboration of [ edu88]"}
+{"id": "DR-16022023-01_91", "gen_output": "Parallel of [ edu89]"}
+{"id": "DR-16022023-01_92", "gen_output": "Continuation of [ edu90]"}
+{"id": "DR-16022023-01_93", "gen_output": "Contrast of [ edu91]"}
+{"id": "DR-16022023-01_94", "gen_output": "Continuation of [ edu91]"}
+{"id": "DR-16022023-01_95", "gen_output": "Result of [ edu92]"}
+{"id": "DR-16022023-01_96", "gen_output": "Continuation of [ edu94]"}
+{"id": "DR-16022023-01_97", "gen_output": "Elaboration of [ edu95]"}
+{"id": "DR-16022023-01_98", "gen_output": "Contrast of [ edu95]"}
+{"id": "DR-16022023-01_99", "gen_output": "Explanation of [ edu97]"}
+{"id": "DR-16022023-01_100", "gen_output": "Interruption of [ edu98]"}
+{"id": "DR-16022023-01_101", "gen_output": "Continuation of [ edu100]"}
+{"id": "DR-16022023-01_102", "gen_output": "Interruption of [ edu101]"}
+{"id": "DR-16022023-01_103", "gen_output": "Interruption of [ edu102]"}
+{"id": "DR-16022023-01_104", "gen_output": "Elaboration of [ edu103]"}
+{"id": "DR-16022023-01_105", "gen_output": "Conditional of [ edu104]"}
+{"id": "DR-16022023-01_106", "gen_output": "Conditional of [ edu105]"}
+{"id": "DR-16022023-01_107", "gen_output": "Result of [ edu103]"}
+{"id": "DR-16022023-01_108", "gen_output": "Interruption of [ edu107]"}
+{"id": "DR-16022023-01_109", "gen_output": "Interruption of [ edu108]"}
+{"id": "DR-16022023-01_110", "gen_output": "Continuation of [ edu108]"}
+{"id": "DR-16022023-01_111", "gen_output": "Continuation of [ edu110]"}
+{"id": "DR-16022023-01_112", "gen_output": "Elaboration of [ edu111]"}
+{"id": "DR-16022023-01_113", "gen_output": "Result of [ edu111]"}
+{"id": "DR-16022023-01_114", "gen_output": "Interruption of [ edu113]"}
+{"id": "DR-16022023-01_115", "gen_output": "Conditional of [ edu114]"}
+{"id": "DR-16022023-01_116", "gen_output": "Interruption of [ edu115]"}
+{"id": "DR-16022023-01_117", "gen_output": "Interruption of [ edu116]"}
+{"id": "DR-16022023-01_118", "gen_output": "Result of [ edu117]"}
+{"id": "DR-16022023-01_119", "gen_output": "Continuation of [ edu118]"}
+{"id": "DR-16022023-01_120", "gen_output": "Acknowledgement of [ edu119]"}
+{"id": "DR-16022023-01_121", "gen_output": "Elaboration of [ edu120]"}
+{"id": "DR-16022023-01_122", "gen_output": "Acknowledgement of [ edu121]"}
+{"id": "DR-16022023-01_123", "gen_output": "Acknowledgement of [ edu121]"}
+{"id": "DR-16022023-01_124", "gen_output": "Parallel of [ edu122]"}
+{"id": "DR-16022023-01_125", "gen_output": "Continuation of [ edu123]"}
+{"id": "DR-16022023-01_126", "gen_output": "Elaboration of [ edu124]"}
+{"id": "DR-16022023-01_127", "gen_output": "Elaboration of [ edu125]"}
+{"id": "DR-16022023-01_128", "gen_output": "Elaboration of [ edu126]"}
+{"id": "DR-16022023-01_129", "gen_output": "Continuation of [ edu126]"}
+{"id": "DR-16022023-01_130", "gen_output": "Elaboration of [ edu127]"}
+{"id": "DR-16022023-01_131", "gen_output": "Elaboration of [ edu127]"}
+{"id": "DR-16022023-01_132", "gen_output": "Elaboration of [ edu129]"}
+{"id": "DR-16022023-01_133", "gen_output": "Elaboration of [ edu129]"}
+{"id": "DR-16022023-01_134", "gen_output": "Elaboration of [ edu131]"}
+{"id": "DR-16022023-01_135", "gen_output": "Elaboration of [ edu132]"}
+{"id": "DR-16022023-01_136", "gen_output": "Elaboration of [ edu133]"}
+{"id": "DR-16022023-01_137", "gen_output": "Narration of [ edu134]"}
+{"id": "DR-16022023-01_138", "gen_output": "Elaboration of [ edu134]"}
+{"id": "DR-16022023-01_139", "gen_output": "Alternation of [ edu137]"}
+{"id": "DR-16022023-01_140", "gen_output": "Elaboration of [ edu138]"}
+{"id": "DR-16022023-01_141", "gen_output": "Elaboration of [ edu139]"}
+{"id": "DR-16022023-01_142", "gen_output": "Continuation of [ edu140]"}
+{"id": "DR-16022023-01_143", "gen_output": "Elaboration of [ edu141]"}
+{"id": "DR-16022023-01_144", "gen_output": "Continuation of [ edu142]"}
+{"id": "DR-16022023-01_145", "gen_output": "Parallel of [ edu143]"}
+{"id": "DR-16022023-01_146", "gen_output": "Continuation of [ edu144]"}
+{"id": "DR-16022023-01_147", "gen_output": "Elaboration of [ edu145]"}
+{"id": "DR-16022023-01_148", "gen_output": "Elaboration of [ edu145]"}
+{"id": "DR-16022023-01_149", "gen_output": "Elaboration of [ edu145]"}
+{"id": "DR-16022023-01_150", "gen_output": "Elaboration of [ edu145]"}
+{"id": "DR-16022023-01_151", "gen_output": "Elaboration of [ edu149]"}
+{"id": "DR-16022023-01_152", "gen_output": "Elaboration of [ edu150]"}
+{"id": "DR-16022023-01_153", "gen_output": "Acknowledgement of [ edu151]"}
+{"id": "DR-16022023-01_154", "gen_output": "Continuation of [ edu152]"}
+{"id": "DR-16022023-01_155", "gen_output": "Continuation of [ edu154]"}
+{"id": "DR-16022023-01_156", "gen_output": "Continuation of [ edu155]"}
+{"id": "DR-16022023-01_157", "gen_output": "Elaboration of [ edu156]"}
+{"id": "DR-16022023-01_158", "gen_output": "Continuation of [ edu157]"}
+{"id": "DR-16022023-01_159", "gen_output": "Continuation of [ edu158]"}
+{"id": "DR-16022023-01_160", "gen_output": "Acknowledgement of [ edu159] Question-answer_pair of [ edu155]"}
+{"id": "DR-16022023-01_161", "gen_output": "Continuation of [ edu160]"}
+{"id": "DR-16022023-01_162", "gen_output": "Elaboration of [ edu160]"}
+{"id": "DR-16022023-01_163", "gen_output": "Contrast of [ edu161]"}
+{"id": "DR-16022023-01_164", "gen_output": "Contrast of [ edu162]"}
+{"id": "DR-16022023-01_165", "gen_output": "Elaboration of [ edu162]"}
+{"id": "DR-16022023-01_166", "gen_output": "Elaboration of [ edu164]"}
+{"id": "DR-16022023-01_167", "gen_output": "Conditional of [ edu164]"}
+{"id": "DR-16022023-01_168", "gen_output": "Elaboration of [ edu166]"}
+{"id": "DR-16022023-01_169", "gen_output": "Elaboration of [ edu167]"}
+{"id": "DR-16022023-01_170", "gen_output": "Conditional of [ edu168]"}
+{"id": "DR-16022023-01_171", "gen_output": "Elaboration of [ edu169]"}
+{"id": "DR-16022023-01_172", "gen_output": "Narration of [ edu170]"}
+{"id": "DR-16022023-01_173", "gen_output": "Elaboration of [ edu171]"}
+{"id": "DR-16022023-01_174", "gen_output": "Elaboration of [ edu172]"}
+{"id": "DR-16022023-01_175", "gen_output": "Acknowledgement of [ edu172]"}
+{"id": "DR-16022023-01_176", "gen_output": "Acknowledgement of [ edu174]"}
+{"id": "DR-16022023-01_177", "gen_output": "Continuation of [ edu175]"}
+{"id": "DR-16022023-01_178", "gen_output": "Continuation of [ edu176]"}
+{"id": "DR-16022023-01_179", "gen_output": "Continuation of [ edu177]"}
+{"id": "DR-16022023-01_180", "gen_output": "Elaboration of [ edu179]"}
+{"id": "DR-16022023-01_181", "gen_output": "Elaboration of [ edu180]"}
+{"id": "DR-16022023-01_182", "gen_output": "Elaboration of [ edu181]"}
+{"id": "DR-16022023-01_183", "gen_output": "Acknowledgement of [ edu182]"}
+{"id": "DR-16022023-01_184", "gen_output": "Continuation of [ edu183]"}
+{"id": "DR-16022023-01_185", "gen_output": "Continuation of [ edu184]"}
+{"id": "DR-16022023-01_186", "gen_output": "Elaboration of [ edu185]"}
+{"id": "DR-16022023-01_187", "gen_output": "Explanation of [ edu186]"}
+{"id": "DR-16022023-01_188", "gen_output": "Continuation of [ edu186] Question-answer_pair of [ edu178]"}
+{"id": "DR-16022023-01_189", "gen_output": "Elaboration of [ edu187]"}
+{"id": "DR-16022023-01_190", "gen_output": "Elaboration of [ edu188]"}
+{"id": "DR-16022023-01_191", "gen_output": "Elaboration of [ edu189]"}
+{"id": "DR-16022023-01_192", "gen_output": "Elaboration of [ edu190]"}
+{"id": "DR-16022023-01_193", "gen_output": "Elaboration of [ edu190]"}
+{"id": "DR-16022023-01_194", "gen_output": "Background of [ edu191]"}
+{"id": "DR-16022023-01_195", "gen_output": "Continuation of [ edu192]"}
+{"id": "DR-16022023-01_196", "gen_output": "Elaboration of [ edu193]"}
+{"id": "DR-16022023-01_197", "gen_output": "Elaboration of [ edu194]"}
+{"id": "DR-16022023-01_198", "gen_output": "Elaboration of [ edu193]"}
+{"id": "DR-16022023-01_199", "gen_output": "Elaboration of [ edu196]"}
+{"id": "DR-16022023-01_200", "gen_output": "Elaboration of [ edu198]"}
+{"id": "DR-16022023-01_201", "gen_output": "Elaboration of [ edu199]"}
+{"id": "DR-16022023-01_202", "gen_output": "Elaboration of [ edu200]"}
+{"id": "DR-16022023-01_203", "gen_output": "Interruption of [ edu201]"}
+{"id": "DR-16022023-01_204", "gen_output": "Elaboration of [ edu202]"}
+{"id": "DR-16022023-01_205", "gen_output": "Continuation of [ edu203]"}
+{"id": "DR-16022023-01_206", "gen_output": "Acknowledgement of [ edu204]"}
+{"id": "DR-16022023-01_207", "gen_output": "Continuation of [ edu206]"}
+{"id": "DR-16022023-01_208", "gen_output": "Continuation of [ edu207]"}
+{"id": "DR-16022023-01_209", "gen_output": "Elaboration of [ edu208]"}
+{"id": "DR-16022023-01_210", "gen_output": "Elaboration of [ edu209]"}
+{"id": "DR-16022023-01_211", "gen_output": "Elaboration of [ edu210]"}
+{"id": "DR-16022023-01_212", "gen_output": "Elaboration of [ edu210]"}
+{"id": "DR-16022023-01_213", "gen_output": "Narration of [ edu212]"}
+{"id": "DR-16022023-01_214", "gen_output": "Elaboration of [ edu213]"}
+{"id": "DR-16022023-01_215", "gen_output": "Clarification_question of [ edu212]"}
+{"id": "DR-16022023-01_216", "gen_output": "Question-answer_pair of [ edu215]"}
+{"id": "DR-16022023-01_217", "gen_output": "Elaboration of [ edu216]"}
+{"id": "DR-16022023-01_218", "gen_output": "Elaboration of [ edu217]"}
+{"id": "DR-16022023-01_219", "gen_output": "Continuation of [ edu218]"}
+{"id": "DR-16022023-01_220", "gen_output": "Elaboration of [ edu218]"}
+{"id": "DR-16022023-01_221", "gen_output": "Narration of [ edu219]"}
+{"id": "DR-16022023-01_222", "gen_output": "Narration of [ edu220]"}
+{"id": "DR-16022023-01_223", "gen_output": "Continuation of [ edu221]"}
+{"id": "DR-16022023-01_224", "gen_output": "Continuation of [ edu222]"}
+{"id": "DR-16022023-01_225", "gen_output": "Elaboration of [ edu224]"}
+{"id": "DR-16022023-01_226", "gen_output": "Elaboration of [ edu225]"}
+{"id": "DR-16022023-01_227", "gen_output": "Elaboration of [ edu225]"}
+{"id": "DR-16022023-01_228", "gen_output": "Elaboration of [ edu227]"}
+{"id": "DR-16022023-01_229", "gen_output": "Acknowledgement of [ edu228]"}
+{"id": "DR-16022023-01_230", "gen_output": "Acknowledgement of [ edu229]"}
+{"id": "DR-16022023-01_231", "gen_output": "Continuation of [ edu230]"}
+{"id": "DR-16022023-01_232", "gen_output": "Elaboration of [ edu231]"}
+{"id": "DR-16022023-01_233", "gen_output": "Result of [ edu232]"}
+{"id": "DR-16022023-01_234", "gen_output": "Elaboration of [ edu233]"}
+{"id": "DR-16022023-01_235", "gen_output": "Result of [ edu233]"}
+{"id": "DR-16022023-01_236", "gen_output": "Elaboration of [ edu235]"}
+{"id": "DR-16022023-01_237", "gen_output": "Elaboration of [ edu236]"}
+{"id": "DR-16022023-01_238", "gen_output": "Continuation of [ edu237]"}
+{"id": "DR-16022023-01_239", "gen_output": "Explanation of [ edu238]"}
+{"id": "DR-16022023-01_240", "gen_output": "Continuation of [ edu239]"}
+{"id": "DR-16022023-01_241", "gen_output": "Continuation of [ edu240]"}
+{"id": "DR-16022023-01_242", "gen_output": "Acknowledgement of [ edu241]"}
+{"id": "DR-16022023-01_243", "gen_output": "Continuation of [ edu242] Question-answer_pair of [ edu236]"}
+{"id": "DR-16022023-01_244", "gen_output": "Elaboration of [ edu243]"}
+{"id": "DR-16022023-01_245", "gen_output": "Elaboration of [ edu244]"}
+{"id": "DR-16022023-01_246", "gen_output": "Elaboration of [ edu245]"}
+{"id": "DR-16022023-01_247", "gen_output": "Continuation of [ edu246]"}
+{"id": "DR-16022023-01_248", "gen_output": "Elaboration of [ edu247]"}
+{"id": "DR-16022023-01_249", "gen_output": "Elaboration of [ edu248]"}
+{"id": "DR-16022023-01_250", "gen_output": "Continuation of [ edu249]"}
+{"id": "DR-16022023-01_251", "gen_output": "Elaboration of [ edu250]"}
+{"id": "DR-16022023-01_252", "gen_output": "Parallel of [ edu251]"}
+{"id": "DR-16022023-01_253", "gen_output": "Continuation of [ edu252]"}
+{"id": "DR-16022023-01_254", "gen_output": "Result of [ edu253]"}
+{"id": "DR-16022023-01_255", "gen_output": "Explanation of [ edu254]"}
+{"id": "DR-16022023-01_256", "gen_output": "Continuation of [ edu255]"}
+{"id": "DR-16022023-01_257", "gen_output": "Elaboration of [ edu256]"}
+{"id": "DR-16022023-01_258", "gen_output": "Elaboration of [ edu257]"}
+{"id": "DR-16022023-01_259", "gen_output": "Elaboration of [ edu258]"}
+{"id": "DR-16022023-01_260", "gen_output": "Continuation of [ edu259]"}
+{"id": "DR-16022023-01_261", "gen_output": "Elaboration of [ edu260]"}
+{"id": "DR-16022023-01_262", "gen_output": "Elaboration of [ edu261]"}
+{"id": "DR-16022023-01_263", "gen_output": "Elaboration of [ edu262]"}
+{"id": "DR-16022023-01_264", "gen_output": "Elaboration of [ edu263]"}
+{"id": "DR-16022023-01_265", "gen_output": "Elaboration of [ edu258]"}
+{"id": "DR-16022023-01_266", "gen_output": "Elaboration of [ edu265]"}
+{"id": "DR-16022023-01_267", "gen_output": "Elaboration of [ edu266]"}
+{"id": "DR-16022023-01_268", "gen_output": "Elaboration of [ edu267]"}
+{"id": "DR-16022023-01_269", "gen_output": "Narration of [ edu268]"}
+{"id": "DR-16022023-01_270", "gen_output": "Narration of [ edu269]"}
+{"id": "DR-16022023-01_271", "gen_output": "Elaboration of [ edu270]"}
+{"id": "DR-16022023-01_272", "gen_output": "Continuation of [ edu271]"}
+{"id": "DR-16022023-01_273", "gen_output": "Elaboration of [ edu272]"}
+{"id": "DR-16022023-01_274", "gen_output": "Narration of [ edu273]"}
+{"id": "DR-16022023-01_275", "gen_output": "Result of [ edu274]"}
+{"id": "DR-16022023-01_276", "gen_output": "Narration of [ edu275]"}
+{"id": "DR-16022023-01_277", "gen_output": "Continuation of [ edu276]"}
+{"id": "DR-16022023-01_278", "gen_output": "Continuation of [ edu277]"}
+{"id": "DR-16022023-01_279", "gen_output": "Continuation of [ edu278]"}
+{"id": "DR-16022023-01_280", "gen_output": "Elaboration of [ edu279]"}
+{"id": "DR-16022023-01_281", "gen_output": "Elaboration of [ edu280]"}
+{"id": "DR-16022023-01_282", "gen_output": "Narration of [ edu281]"}
+{"id": "DR-16022023-01_283", "gen_output": "Narration of [ edu282]"}
+{"id": "DR-16022023-01_284", "gen_output": "Elaboration of [ edu283]"}
+{"id": "DR-16022023-01_285", "gen_output": "Continuation of [ edu284]"}
+{"id": "DR-16022023-01_286", "gen_output": "Elaboration of [ edu285]"}
+{"id": "DR-16022023-01_287", "gen_output": "Elaboration of [ edu278]"}
+{"id": "DR-16022023-01_288", "gen_output": "Narration of [ edu287]"}
+{"id": "DR-16022023-01_289", "gen_output": "Elaboration of [ edu287]"}
+{"id": "DR-16022023-01_290", "gen_output": "Elaboration of [ edu289]"}
+{"id": "DR-16022023-01_291", "gen_output": "Result of [ edu290]"}
+{"id": "DR-16022023-01_292", "gen_output": "Elaboration of [ edu291]"}
+{"id": "DR-16022023-01_293", "gen_output": "Continuation of [ edu292]"}
+{"id": "DR-16022023-01_294", "gen_output": "Elaboration of [ edu293]"}
+{"id": "DR-16022023-01_295", "gen_output": "Elaboration of [ edu294]"}
+{"id": "DR-16022023-01_296", "gen_output": "Result of [ edu295]"}
+{"id": "DR-16022023-01_297", "gen_output": "Result of [ edu296]"}
+{"id": "DR-16022023-01_298", "gen_output": "Continuation of [ edu297]"}
+{"id": "DR-16022023-01_299", "gen_output": "Elaboration of [ edu298]"}
+{"id": "DR-16022023-01_300", "gen_output": "Elaboration of [ edu299]"}
+{"id": "DR-16022023-01_301", "gen_output": "Result of [ edu299]"}
+{"id": "DR-16022023-01_302", "gen_output": "Continuation of [ edu300]"}
+{"id": "DR-16022023-01_303", "gen_output": "Continuation of [ edu301]"}
+{"id": "DR-16022023-01_304", "gen_output": "Elaboration of [ edu302]"}
+{"id": "DR-16022023-01_305", "gen_output": "Elaboration of [ edu303]"}
+{"id": "DR-16022023-01_306", "gen_output": "Result of [ edu305]"}
+{"id": "DR-16022023-01_307", "gen_output": "Acknowledgement of [ edu306]"}
+{"id": "DR-16022023-01_308", "gen_output": "Parallel of [ edu307]"}
+{"id": "DR-16022023-01_309", "gen_output": "Continuation of [ edu308]"}
+{"id": "DR-16022023-01_310", "gen_output": "Elaboration of [ edu309]"}
+{"id": "DR-16022023-01_311", "gen_output": "Result of [ edu309]"}
+{"id": "DR-16022023-01_312", "gen_output": "Elaboration of [ edu311]"}
+{"id": "DR-16022023-01_313", "gen_output": "Elaboration of [ edu312]"}
+{"id": "DR-16022023-01_314", "gen_output": "Continuation of [ edu313]"}
+{"id": "DR-16022023-01_315", "gen_output": "Acknowledgement of [ edu314]"}
+{"id": "DR-16022023-01_316", "gen_output": "Acknowledgement of [ edu314]"}
+{"id": "DR-16022023-01_317", "gen_output": "Elaboration of [ edu316]"}
+{"id": "DR-16022023-01_318", "gen_output": "Elaboration of [ edu317]"}
+{"id": "DR-16022023-01_319", "gen_output": "Elaboration of [ edu316]"}
+{"id": "DR-16022023-01_320", "gen_output": "Explanation of [ edu319]"}
+{"id": "DR-16022023-01_321", "gen_output": "Elaboration of [ edu320]"}
+{"id": "DR-16022023-01_322", "gen_output": "Elaboration of [ edu321]"}
+{"id": "DR-16022023-01_323", "gen_output": "Elaboration of [ edu322]"}
+{"id": "DR-16022023-01_324", "gen_output": "Conditional of [ edu323]"}
+{"id": "DR-16022023-01_325", "gen_output": "Elaboration of [ edu324]"}
+{"id": "DR-16022023-01_326", "gen_output": "Elaboration of [ edu325]"}
+{"id": "DR-16022023-01_327", "gen_output": "Elaboration of [ edu326]"}
+{"id": "DR-16022023-01_328", "gen_output": "Elaboration of [ edu326]"}
+{"id": "DR-16022023-01_329", "gen_output": "Continuation of [ edu327]"}
+{"id": "DR-16022023-01_330", "gen_output": "Result of [ edu328]"}
+{"id": "DR-16022023-01_331", "gen_output": "Continuation of [ edu329]"}
+{"id": "DR-16022023-01_332", "gen_output": "Result of [ edu330]"}
+{"id": "DR-16022023-01_333", "gen_output": "Continuation of [ edu331]"}
+{"id": "DR-16022023-01_334", "gen_output": "Continuation of [ edu332]"}
+{"id": "DR-16022023-01_335", "gen_output": "Explanation of [ edu334]"}
+{"id": "DR-16022023-01_336", "gen_output": "Continuation of [ edu335]"}
+{"id": "DR-16022023-01_337", "gen_output": "Contrast of [ edu335]"}
+{"id": "DR-16022023-01_338", "gen_output": "Explanation of [ edu337]"}
+{"id": "DR-16022023-01_339", "gen_output": "Elaboration of [ edu338]"}
+{"id": "DR-16022023-01_340", "gen_output": "Continuation of [ edu339]"}
+{"id": "DR-16022023-01_341", "gen_output": "Acknowledgement of [ edu340]"}
+{"id": "DR-16022023-01_342", "gen_output": "Continuation of [ edu341]"}
+{"id": "DR-16022023-01_343", "gen_output": "Continuation of [ edu342]"}
+{"id": "DR-16022023-01_344", "gen_output": "Elaboration of [ edu343]"}
+{"id": "DR-16022023-01_345", "gen_output": "Continuation of [ edu344]"}
+{"id": "DR-16022023-01_346", "gen_output": "Continuation of [ edu345]"}
+{"id": "DR-16022023-01_347", "gen_output": "Continuation of [ edu346]"}
+{"id": "DR-16022023-01_348", "gen_output": "Continuation of [ edu347]"}
+{"id": "DR-16022023-01_349", "gen_output": "Elaboration of [ edu348]"}
+{"id": "DR-16022023-01_350", "gen_output": "Continuation of [ edu349]"}
+{"id": "DR-16022023-01_351", "gen_output": "Elaboration of [ edu350]"}
+{"id": "DR-16022023-01_352", "gen_output": "Continuation of [ edu351]"}
+{"id": "DR-16022023-01_353", "gen_output": "Explanation of [ edu352]"}
+{"id": "DR-16022023-01_354", "gen_output": "Continuation of [ edu353]"}
+{"id": "DR-16022023-01_355", "gen_output": "Continuation of [ edu354]"}
+{"id": "DR-16022023-01_356", "gen_output": "Continuation of [ edu355]"}
+{"id": "DR-16022023-01_357", "gen_output": "Continuation of [ edu356]"}
+{"id": "DR-16022023-01_358", "gen_output": "Elaboration of [ edu357]"}
+{"id": "DR-16022023-01_359", "gen_output": "Result of [ edu358]"}
+{"id": "DR-16022023-01_360", "gen_output": "Continuation of [ edu359]"}
+{"id": "DR-16022023-01_361", "gen_output": "Continuation of [ edu360]"}
+{"id": "DR-16022023-03_00", "gen_output": "root"}
+{"id": "DR-16022023-03_01", "gen_output": "Continuation of [edu0]"}
+{"id": "DR-16022023-03_02", "gen_output": "Continuation of [edu1]"}
+{"id": "DR-16022023-03_03", "gen_output": "Continuation of [edu2]"}
+{"id": "DR-16022023-03_04", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-16022023-03_05", "gen_output": "Elaboration of [edu5]"}
+{"id": "DR-16022023-03_06", "gen_output": "Elaboration of [edu5]"}
+{"id": "DR-16022023-03_07", "gen_output": "Acknowledgement of [edu6]"}
+{"id": "DR-16022023-03_08", "gen_output": "Continuation of [edu7]"}
+{"id": "DR-16022023-03_09", "gen_output": "Elaboration of [edu7]"}
+{"id": "DR-16022023-03_10", "gen_output": "Elaboration of [edu11]"}
+{"id": "DR-16022023-03_11", "gen_output": "Acknowledgement of [edu15]"}
+{"id": "DR-16022023-03_12", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16022023-03_13", "gen_output": "Continuation of [edu13]"}
+{"id": "DR-16022023-03_14", "gen_output": "Continuation of [edu13]"}
+{"id": "DR-16022023-03_15", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16022023-03_16", "gen_output": "Continuation of [edu15]"}
+{"id": "DR-16022023-03_17", "gen_output": "Elaboration of [edu12]"}
+{"id": "DR-16022023-03_18", "gen_output": "Continuation of [edu15]"}
+{"id": "DR-16022023-03_19", "gen_output": "Elaboration of [edu15]"}
+{"id": "DR-16022023-03_20", "gen_output": "Continuation of [edu22]"}
+{"id": "DR-16022023-03_21", "gen_output": "Contrast of [edu22]"}
+{"id": "DR-16022023-03_22", "gen_output": "Elaboration of [edu22]"}
+{"id": "DR-16022023-03_23", "gen_output": "Parallel of [edu22]"}
+{"id": "DR-16022023-03_24", "gen_output": "Background of [edu22]"}
+{"id": "DR-16022023-03_25", "gen_output": "Continuation of [edu22]"}
+{"id": "DR-16022023-03_26", "gen_output": "Elaboration of [edu26]"}
+{"id": "DR-16022023-03_27", "gen_output": "Continuation of [edu27]"}
+{"id": "DR-16022023-03_28", "gen_output": "Acknowledgement of [edu27]"}
+{"id": "DR-16022023-03_29", "gen_output": "Continuation of [edu28]"}
+{"id": "DR-16022023-03_30", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16022023-03_31", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16022023-03_32", "gen_output": "Background of [edu31]"}
+{"id": "DR-16022023-03_33", "gen_output": "Contrast of [edu31]"}
+{"id": "DR-16022023-03_34", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-03_35", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-03_36", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-03_37", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-03_38", "gen_output": "Result of [edu31]"}
+{"id": "DR-16022023-03_39", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16022023-03_40", "gen_output": "Acknowledgement of [edu34]"}
+{"id": "DR-16022023-03_41", "gen_output": "Elaboration of [edu39]"}
+{"id": "DR-16022023-03_42", "gen_output": "Elaboration of [ edu41]"}
+{"id": "DR-16022023-03_43", "gen_output": "Result of [ edu41]"}
+{"id": "DR-16022023-03_44", "gen_output": "Continuation of [ edu43]"}
+{"id": "DR-16022023-03_45", "gen_output": "Contrast of [ edu44]"}
+{"id": "DR-16022023-03_46", "gen_output": "Elaboration of [ edu45]"}
+{"id": "DR-16022023-03_47", "gen_output": "Continuation of [ edu45]"}
+{"id": "DR-16022023-03_48", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_49", "gen_output": "Elaboration of [ edu47]"}
+{"id": "DR-16022023-03_50", "gen_output": "Elaboration of [ edu49]"}
+{"id": "DR-16022023-03_51", "gen_output": "Elaboration of [ edu50]"}
+{"id": "DR-16022023-03_52", "gen_output": "Elaboration of [ edu47]"}
+{"id": "DR-16022023-03_53", "gen_output": "Continuation of [ edu51]"}
+{"id": "DR-16022023-03_54", "gen_output": "Elaboration of [ edu53]"}
+{"id": "DR-16022023-03_55", "gen_output": "Elaboration of [ edu53]"}
+{"id": "DR-16022023-03_56", "gen_output": "Elaboration of [ edu54]"}
+{"id": "DR-16022023-03_57", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_58", "gen_output": "Acknowledgement of [ edu56]"}
+{"id": "DR-16022023-03_59", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_60", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_61", "gen_output": "Acknowledgement of [ edu60]"}
+{"id": "DR-16022023-03_62", "gen_output": "Elaboration of [ edu60]"}
+{"id": "DR-16022023-03_63", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_64", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_65", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_66", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_67", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_68", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_69", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_70", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_71", "gen_output": "Elaboration of [ edu44]"}
+{"id": "DR-16022023-03_72", "gen_output": "Result of [ edu44]"}
+{"id": "DR-16022023-03_73", "gen_output": "Continuation of [ edu72]"}
+{"id": "DR-16022023-03_74", "gen_output": "Continuation of [ edu73]"}
+{"id": "DR-16022023-03_75", "gen_output": "Background of [ edu74]"}
+{"id": "DR-16022023-03_76", "gen_output": "Continuation of [ edu75]"}
+{"id": "DR-16022023-03_77", "gen_output": "Continuation of [ edu76]"}
+{"id": "DR-16022023-03_78", "gen_output": "Explanation of [ edu77]"}
+{"id": "DR-16022023-03_79", "gen_output": "Continuation of [ edu78]"}
+{"id": "DR-16022023-03_80", "gen_output": "Continuation of [ edu79]"}
+{"id": "DR-16022023-03_81", "gen_output": "Contrast of [ edu80]"}
+{"id": "DR-16022023-03_82", "gen_output": "Contrast of [ edu81]"}
+{"id": "DR-16022023-03_83", "gen_output": "Elaboration of [ edu81]"}
+{"id": "DR-16022023-03_84", "gen_output": "Acknowledgement of [ edu83]"}
+{"id": "DR-16022023-03_85", "gen_output": "Continuation of [ edu83]"}
+{"id": "DR-16022023-03_86", "gen_output": "Acknowledgement of [ edu85]"}
+{"id": "DR-16022023-03_87", "gen_output": "Continuation of [ edu85]"}
+{"id": "DR-16022023-03_88", "gen_output": "Elaboration of [ edu87]"}
+{"id": "DR-16022023-03_89", "gen_output": "Result of [ edu88]"}
+{"id": "DR-16022023-03_90", "gen_output": "Continuation of [ edu89]"}
+{"id": "DR-16022023-03_91", "gen_output": "Elaboration of [ edu90]"}
+{"id": "DR-16022023-03_92", "gen_output": "Continuation of [ edu91]"}
+{"id": "DR-16022023-03_93", "gen_output": "Acknowledgement of [ edu92]"}
+{"id": "DR-16022023-03_94", "gen_output": "Continuation of [ edu92]"}
+{"id": "DR-16022023-03_95", "gen_output": "Continuation of [ edu94]"}
+{"id": "DR-16022023-03_96", "gen_output": "Elaboration of [ edu94]"}
+{"id": "DR-16022023-03_97", "gen_output": "Elaboration of [ edu96]"}
+{"id": "DR-16022023-03_98", "gen_output": "Elaboration of [ edu97]"}
+{"id": "DR-16022023-03_99", "gen_output": "Contrast of [ edu98]"}
+{"id": "DR-16022023-03_100", "gen_output": "Explanation of [ edu99]"}
+{"id": "DR-16022023-03_101", "gen_output": "Continuation of [ edu100]"}
+{"id": "DR-16022023-03_102", "gen_output": "Continuation of [ edu101]"}
+{"id": "DR-16022023-03_103", "gen_output": "Conditional of [ edu102]"}
+{"id": "DR-16022023-03_104", "gen_output": "Elaboration of [ edu102]"}
+{"id": "DR-16022023-03_105", "gen_output": "Continuation of [ edu104]"}
+{"id": "DR-16022023-03_106", "gen_output": "Continuation of [ edu105]"}
+{"id": "DR-16022023-03_107", "gen_output": "Continuation of [ edu106]"}
+{"id": "DR-16022023-03_108", "gen_output": "Continuation of [ edu107]"}
+{"id": "DR-16022023-03_109", "gen_output": "Contrast of [ edu108]"}
+{"id": "DR-16022023-03_110", "gen_output": "Continuation of [ edu109]"}
+{"id": "DR-16022023-03_111", "gen_output": "Acknowledgement of [ edu110]"}
+{"id": "DR-16022023-03_112", "gen_output": "Interruption of [ edu111]"}
+{"id": "DR-16022023-03_113", "gen_output": "Clarification_question of [ edu112]"}
+{"id": "DR-16022023-03_114", "gen_output": "Question-answer_pair of [ edu113]"}
+{"id": "DR-16022023-03_115", "gen_output": "Continuation of [ edu114]"}
+{"id": "DR-16022023-03_116", "gen_output": "Elaboration of [ edu115]"}
+{"id": "DR-16022023-03_117", "gen_output": "Question-answer_pair of [ edu116]"}
+{"id": "DR-16022023-03_118", "gen_output": "Acknowledgement of [ edu117]"}
+{"id": "DR-16022023-03_119", "gen_output": "Continuation of [ edu118] Acknowledgement of [ edu117]"}
+{"id": "DR-16022023-03_120", "gen_output": "Parallel of [ edu119]"}
+{"id": "DR-16022023-03_121", "gen_output": "Continuation of [ edu120]"}
+{"id": "DR-16022023-03_122", "gen_output": "Continuation of [ edu121]"}
+{"id": "DR-16022023-03_123", "gen_output": "Elaboration of [ edu122]"}
+{"id": "DR-16022023-03_124", "gen_output": "Parallel of [ edu123]"}
+{"id": "DR-16022023-03_125", "gen_output": "Narration of [ edu122]"}
+{"id": "DR-16022023-03_126", "gen_output": "Elaboration of [ edu125]"}
+{"id": "DR-16022023-03_127", "gen_output": "Result of [ edu126]"}
+{"id": "DR-16022023-03_128", "gen_output": "Result of [ edu127]"}
+{"id": "DR-16022023-03_129", "gen_output": "Continuation of [ edu128]"}
+{"id": "DR-16022023-03_130", "gen_output": "Elaboration of [ edu129]"}
+{"id": "DR-16022023-03_131", "gen_output": "Elaboration of [ edu130]"}
+{"id": "DR-16022023-03_132", "gen_output": "Result of [ edu130]"}
+{"id": "DR-16022023-03_133", "gen_output": "Continuation of [ edu132]"}
+{"id": "DR-16022023-03_134", "gen_output": "Acknowledgement of [ edu133]"}
+{"id": "DR-16022023-03_135", "gen_output": "Continuation of [ edu134] Acknowledgement of [ edu133]"}
+{"id": "DR-16022023-03_136", "gen_output": "Continuation of [ edu135]"}
+{"id": "DR-16022023-03_137", "gen_output": "Contrast of [ edu136]"}
+{"id": "DR-16022023-03_138", "gen_output": "Elaboration of [ edu137]"}
+{"id": "DR-16022023-03_139", "gen_output": "Narration of [ edu138]"}
+{"id": "DR-16022023-03_140", "gen_output": "Elaboration of [ edu138]"}
+{"id": "DR-16032023-01_00", "gen_output": "root"}
+{"id": "DR-16032023-01_01", "gen_output": "Continuation of [edu0]"}
+{"id": "DR-16032023-01_02", "gen_output": "Acknowledgement of [edu1]"}
+{"id": "DR-16032023-01_03", "gen_output": "Continuation of [edu1]"}
+{"id": "DR-16032023-01_04", "gen_output": "Acknowledgement of [edu5]"}
+{"id": "DR-16032023-01_05", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-16032023-01_06", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-16032023-01_07", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-16032023-01_08", "gen_output": "Acknowledgement of [edu6]"}
+{"id": "DR-16032023-01_09", "gen_output": "Continuation of [edu15]"}
+{"id": "DR-16032023-01_10", "gen_output": "Continuation of [edu15]"}
+{"id": "DR-16032023-01_11", "gen_output": "Continuation of [edu9] Question-answer_pair of [edu7]"}
+{"id": "DR-16032023-01_12", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16032023-01_13", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16032023-01_14", "gen_output": "Continuation of [edu13]"}
+{"id": "DR-16032023-01_15", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-16032023-01_16", "gen_output": "Elaboration of [edu11]"}
+{"id": "DR-16032023-01_17", "gen_output": "Elaboration of [edu11]"}
+{"id": "DR-16032023-01_18", "gen_output": "Elaboration of [edu15]"}
+{"id": "DR-16032023-01_19", "gen_output": "Contrast of [edu15]"}
+{"id": "DR-16032023-01_20", "gen_output": "Elaboration of [edu15]"}
+{"id": "DR-16032023-01_21", "gen_output": "Continuation of [edu17]"}
+{"id": "DR-16032023-01_22", "gen_output": "Elaboration of [edu22]"}
+{"id": "DR-16032023-01_23", "gen_output": "Continuation of [edu22]"}
+{"id": "DR-16032023-01_24", "gen_output": "Continuation of [edu22]"}
+{"id": "DR-16032023-01_25", "gen_output": "Continuation of [edu22]"}
+{"id": "DR-16032023-01_26", "gen_output": "Elaboration of [edu26]"}
+{"id": "DR-16032023-01_27", "gen_output": "Elaboration of [edu26]"}
+{"id": "DR-16032023-01_28", "gen_output": "Contrast of [edu27]"}
+{"id": "DR-16032023-01_29", "gen_output": "Elaboration of [edu28]"}
+{"id": "DR-16032023-01_30", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16032023-01_31", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16032023-01_32", "gen_output": "Conditional of [edu31]"}
+{"id": "DR-16032023-01_33", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16032023-01_34", "gen_output": "Acknowledgement of [edu34]"}
+{"id": "DR-16032023-01_35", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16032023-01_36", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16032023-01_37", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16032023-01_38", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-16032023-01_39", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-16032023-01_40", "gen_output": "Contrast of [edu31]"}
+{"id": "DR-16032023-01_41", "gen_output": "Comment of [ edu40]"}
+{"id": "DR-16032023-01_42", "gen_output": "Continuation of [ edu41]"}
+{"id": "DR-16032023-01_43", "gen_output": "Result of [ edu41]"}
+{"id": "DR-16032023-01_44", "gen_output": "Elaboration of [ edu43]"}
+{"id": "DR-16032023-01_45", "gen_output": "Result of [ edu44]"}
+{"id": "DR-16032023-01_46", "gen_output": "Result of [ edu45]"}
+{"id": "DR-16032023-01_47", "gen_output": "Continuation of [ edu46]"}
+{"id": "DR-16032023-01_48", "gen_output": "Acknowledgement of [ edu47]"}
+{"id": "DR-16032023-01_49", "gen_output": "Continuation of [ edu48] Acknowledgement of [ edu43]"}
+{"id": "DR-16032023-01_50", "gen_output": "Continuation of [ edu49]"}
+{"id": "DR-16032023-01_51", "gen_output": "Result of [ edu49]"}
+{"id": "DR-16032023-01_52", "gen_output": "Parallel of [ edu51]"}
+{"id": "DR-16032023-01_53", "gen_output": "Continuation of [ edu52]"}
+{"id": "DR-16032023-01_54", "gen_output": "Elaboration of [ edu53]"}
+{"id": "DR-16032023-01_55", "gen_output": "Elaboration of [ edu54]"}
+{"id": "DR-16032023-01_56", "gen_output": "Elaboration of [ edu55]"}
+{"id": "DR-16032023-01_57", "gen_output": "Continuation of [ edu56]"}
+{"id": "DR-16032023-01_58", "gen_output": "Continuation of [ edu57]"}
+{"id": "DR-16032023-01_59", "gen_output": "Question-answer_pair of [ edu58]"}
+{"id": "DR-16032023-01_60", "gen_output": "Question-answer_pair of [ edu58]"}
+{"id": "DR-16032023-01_61", "gen_output": "Acknowledgement of [ edu60]"}
+{"id": "DR-16032023-01_62", "gen_output": "Acknowledgement of [ edu61]"}
+{"id": "DR-16032023-01_63", "gen_output": "Continuation of [ edu62]"}
+{"id": "DR-16032023-01_64", "gen_output": "Elaboration of [ edu63]"}
+{"id": "DR-16032023-01_65", "gen_output": "Explanation of [ edu64]"}
+{"id": "DR-16032023-01_66", "gen_output": "Result of [ edu65]"}
+{"id": "DR-16032023-01_67", "gen_output": "Elaboration of [ edu66]"}
+{"id": "DR-16032023-01_68", "gen_output": "Elaboration of [ edu67]"}
+{"id": "DR-16032023-01_69", "gen_output": "Elaboration of [ edu67]"}
+{"id": "DR-16032023-01_70", "gen_output": "Result of [ edu67]"}
+{"id": "DR-16032023-01_71", "gen_output": "Contrast of [ edu70]"}
+{"id": "DR-16032023-01_72", "gen_output": "Clarification_question of [ edu61]"}
+{"id": "DR-16032023-01_73", "gen_output": "Continuation of [ edu72]"}
+{"id": "DR-16032023-01_74", "gen_output": "Acknowledgement of [ edu73]"}
+{"id": "DR-16032023-01_75", "gen_output": "Acknowledgement of [ edu73] Acknowledgement of [ edu74]"}
+{"id": "DR-16032023-01_76", "gen_output": "Continuation of [ edu75]"}
+{"id": "DR-16032023-01_77", "gen_output": "Continuation of [ edu76]"}
+{"id": "DR-16032023-01_78", "gen_output": "Continuation of [ edu77]"}
+{"id": "DR-16032023-01_79", "gen_output": "Continuation of [ edu78]"}
+{"id": "DR-16032023-01_80", "gen_output": "Elaboration of [ edu78]"}
+{"id": "DR-16032023-01_81", "gen_output": "Elaboration of [ edu80]"}
+{"id": "DR-16032023-01_82", "gen_output": "Continuation of [ edu80]"}
+{"id": "DR-16032023-01_83", "gen_output": "Contrast of [ edu82]"}
+{"id": "DR-16032023-01_84", "gen_output": "Elaboration of [ edu83]"}
+{"id": "DR-16032023-01_85", "gen_output": "Elaboration of [ edu84]"}
+{"id": "DR-16032023-01_86", "gen_output": "Acknowledgement of [ edu85]"}
+{"id": "DR-16032023-01_87", "gen_output": "Continuation of [ edu86]"}
+{"id": "DR-16032023-01_88", "gen_output": "Acknowledgement of [ edu87]"}
+{"id": "DR-16032023-01_89", "gen_output": "Continuation of [ edu88]"}
+{"id": "DR-16032023-01_90", "gen_output": "Continuation of [ edu89]"}
+{"id": "DR-16032023-01_91", "gen_output": "Elaboration of [ edu90]"}
+{"id": "DR-16032023-01_92", "gen_output": "Acknowledgement of [ edu91]"}
+{"id": "DR-16032023-01_93", "gen_output": "Parallel of [ edu92]"}
+{"id": "DR-16032023-01_94", "gen_output": "Continuation of [ edu93] Question-answer_pair of [ edu91]"}
+{"id": "DR-16032023-01_95", "gen_output": "Elaboration of [ edu94]"}
+{"id": "DR-16032023-01_96", "gen_output": "Elaboration of [ edu95]"}
+{"id": "DR-16032023-01_97", "gen_output": "Continuation of [ edu95]"}
+{"id": "DR-16032023-01_98", "gen_output": "Elaboration of [ edu95]"}
+{"id": "DR-16032023-01_99", "gen_output": "Conditional of [ edu97]"}
+{"id": "DR-16032023-01_100", "gen_output": "Continuation of [ edu98]"}
+{"id": "DR-16032023-01_101", "gen_output": "Acknowledgement of [ edu99]"}
+{"id": "DR-16032023-01_102", "gen_output": "Acknowledgement of [ edu100]"}
+{"id": "DR-16032023-01_103", "gen_output": "Result of [ edu97]"}
+{"id": "DR-16032023-01_104", "gen_output": "Elaboration of [ edu103]"}
+{"id": "DR-16032023-01_105", "gen_output": "Contrast of [ edu104]"}
+{"id": "DR-16032023-01_106", "gen_output": "Elaboration of [ edu105]"}
+{"id": "DR-16032023-01_107", "gen_output": "Background of [ edu106]"}
+{"id": "DR-16032023-01_108", "gen_output": "Continuation of [ edu107]"}
+{"id": "DR-16032023-01_109", "gen_output": "Continuation of [ edu108]"}
+{"id": "DR-16032023-01_110", "gen_output": "Elaboration of [ edu109]"}
+{"id": "DR-16032023-01_111", "gen_output": "Contrast of [ edu109]"}
+{"id": "DR-16032023-01_112", "gen_output": "Elaboration of [ edu111]"}
+{"id": "DR-16032023-01_113", "gen_output": "Continuation of [ edu112]"}
+{"id": "DR-16032023-01_114", "gen_output": "Elaboration of [ edu113]"}
+{"id": "DR-16032023-01_115", "gen_output": "Result of [ edu114]"}
+{"id": "DR-16032023-01_116", "gen_output": "Clarification_question of [ edu115]"}
+{"id": "DR-16032023-01_117", "gen_output": "Continuation of [ edu115]"}
+{"id": "DR-16032023-01_118", "gen_output": "Clarification_question of [ edu115]"}
+{"id": "DR-16032023-01_119", "gen_output": "Result of [ edu118]"}
+{"id": "DR-16032023-01_120", "gen_output": "Result of [ edu119]"}
+{"id": "DR-16032023-01_121", "gen_output": "Result of [ edu120]"}
+{"id": "DR-16032023-01_122", "gen_output": "Question-answer_pair of [ edu121]"}
+{"id": "DR-16032023-01_123", "gen_output": "Continuation of [ edu121]"}
+{"id": "DR-16032023-01_124", "gen_output": "Continuation of [ edu123]"}
+{"id": "DR-16032023-01_125", "gen_output": "Q-Elab of [ edu124]"}
+{"id": "DR-16032023-01_126", "gen_output": "Acknowledgement of [ edu125]"}
+{"id": "DR-16032023-01_127", "gen_output": "Result of [ edu126]"}
+{"id": "DR-16032023-01_128", "gen_output": "Acknowledgement of [ edu127]"}
+{"id": "DR-16032023-01_129", "gen_output": "Acknowledgement of [ edu128]"}
+{"id": "DR-16032023-01_130", "gen_output": "Continuation of [ edu129]"}
+{"id": "DR-16032023-01_131", "gen_output": "Result of [ edu130]"}
+{"id": "DR-16032023-01_132", "gen_output": "Interruption of [ edu131]"}
+{"id": "DR-16032023-01_133", "gen_output": "Continuation of [ edu132]"}
+{"id": "DR-16032023-01_134", "gen_output": "Continuation of [ edu131]"}
+{"id": "DR-16032023-01_135", "gen_output": "Conditional of [ edu134]"}
+{"id": "DR-16032023-01_136", "gen_output": "Continuation of [ edu135]"}
+{"id": "DR-16032023-01_137", "gen_output": "Narration of [ edu136]"}
+{"id": "DR-16032023-01_138", "gen_output": "Continuation of [ edu137]"}
+{"id": "DR-16032023-01_139", "gen_output": "Interruption of [ edu138]"}
+{"id": "DR-16032023-01_140", "gen_output": "Interruption of [ edu139]"}
+{"id": "DR-16032023-01_141", "gen_output": "Acknowledgement of [ edu139]"}
+{"id": "DR-16032023-01_142", "gen_output": "Interruption of [ edu141]"}
+{"id": "DR-16032023-01_143", "gen_output": "Question-answer_pair of [ edu142]"}
+{"id": "DR-16032023-01_144", "gen_output": "Acknowledgement of [ edu143]"}
+{"id": "DR-16032023-01_145", "gen_output": "Continuation of [ edu144]"}
+{"id": "DR-16032023-01_146", "gen_output": "Elaboration of [ edu145]"}
+{"id": "DR-16032023-01_147", "gen_output": "Result of [ edu145]"}
+{"id": "DR-16032023-01_148", "gen_output": "Elaboration of [ edu147]"}
+{"id": "DR-16032023-01_149", "gen_output": "Continuation of [ edu148]"}
+{"id": "DR-16032023-01_150", "gen_output": "Acknowledgement of [ edu149]"}
+{"id": "DR-16032023-01_151", "gen_output": "Acknowledgement of [ edu150]"}
+{"id": "DR-16032023-01_152", "gen_output": "Continuation of [ edu151] Question-answer_pair of [ edu145]"}
+{"id": "DR-16032023-01_153", "gen_output": "Result of [ edu152]"}
+{"id": "DR-16032023-01_154", "gen_output": "Result of [ edu153]"}
+{"id": "DR-16032023-01_155", "gen_output": "Result of [ edu154]"}
+{"id": "DR-16032023-01_156", "gen_output": "Alternation of [ edu155]"}
+{"id": "DR-16032023-01_157", "gen_output": "Elaboration of [ edu155]"}
+{"id": "DR-16032023-01_158", "gen_output": "Result of [ edu155]"}
+{"id": "DR-16032023-01_159", "gen_output": "Continuation of [ edu157]"}
+{"id": "DR-16032023-01_160", "gen_output": "Acknowledgement of [ edu159]"}
+{"id": "DR-16032023-01_161", "gen_output": "Continuation of [ edu160]"}
+{"id": "DR-16032023-01_162", "gen_output": "Question-answer_pair of [ edu160]"}
+{"id": "DR-16032023-01_163", "gen_output": "Continuation of [ edu162]"}
+{"id": "DR-16032023-01_164", "gen_output": "Continuation of [ edu163]"}
+{"id": "DR-16032023-01_165", "gen_output": "Continuation of [ edu163] Question-answer_pair of [ edu160]"}
+{"id": "DR-16032023-01_166", "gen_output": "Continuation of [ edu164]"}
+{"id": "DR-16032023-01_167", "gen_output": "Elaboration of [ edu165]"}
+{"id": "DR-16032023-01_168", "gen_output": "Continuation of [ edu166]"}
+{"id": "DR-16032023-01_169", "gen_output": "Continuation of [ edu167]"}
+{"id": "DR-16032023-01_170", "gen_output": "Elaboration of [ edu167]"}
+{"id": "DR-16032023-01_171", "gen_output": "Continuation of [ edu168]"}
+{"id": "DR-16032023-01_172", "gen_output": "Elaboration of [ edu170]"}
+{"id": "DR-16032023-01_173", "gen_output": "Result of [ edu170]"}
+{"id": "DR-16032023-01_174", "gen_output": "Continuation of [ edu172]"}
+{"id": "DR-16032023-01_175", "gen_output": "Elaboration of [ edu172]"}
+{"id": "DR-16032023-01_176", "gen_output": "Contrast of [ edu175]"}
+{"id": "DR-16032023-01_177", "gen_output": "Elaboration of [ edu176]"}
+{"id": "DR-16032023-01_178", "gen_output": "Continuation of [ edu177]"}
+{"id": "DR-16032023-01_179", "gen_output": "Elaboration of [ edu177]"}
+{"id": "DR-16032023-01_180", "gen_output": "Contrast of [ edu178]"}
+{"id": "DR-16032023-01_181", "gen_output": "Result of [ edu179]"}
+{"id": "DR-16032023-01_182", "gen_output": "Result of [ edu180]"}
+{"id": "DR-16032023-01_183", "gen_output": "Continuation of [ edu181]"}
+{"id": "DR-16032023-01_184", "gen_output": "Acknowledgement of [ edu183]"}
+{"id": "DR-16032023-01_185", "gen_output": "Acknowledgement of [ edu183] Continuation of [ edu184]"}
+{"id": "DR-16032023-01_186", "gen_output": "Continuation of [ edu185]"}
+{"id": "DR-16032023-01_187", "gen_output": "Continuation of [ edu186]"}
+{"id": "DR-16032023-01_188", "gen_output": "Result of [ edu186]"}
+{"id": "DR-16032023-01_189", "gen_output": "Elaboration of [ edu188]"}
+{"id": "DR-16032023-01_190", "gen_output": "Contrast of [ edu189]"}
+{"id": "DR-16032023-01_191", "gen_output": "Conditional of [ edu190]"}
+{"id": "DR-16032023-01_192", "gen_output": "Result of [ edu190]"}
+{"id": "DR-16032023-01_193", "gen_output": "Elaboration of [ edu192]"}
+{"id": "DR-16032023-01_194", "gen_output": "Elaboration of [ edu193]"}
+{"id": "DR-16032023-01_195", "gen_output": "Continuation of [ edu194]"}
+{"id": "DR-16032023-01_196", "gen_output": "Acknowledgement of [ edu195]"}
+{"id": "DR-16032023-01_197", "gen_output": "Continuation of [ edu196]"}
+{"id": "DR-16032023-01_198", "gen_output": "Elaboration of [ edu197]"}
+{"id": "DR-16032023-01_199", "gen_output": "Elaboration of [ edu198]"}
+{"id": "DR-16032023-01_200", "gen_output": "Elaboration of [ edu199]"}
+{"id": "DR-16032023-01_201", "gen_output": "Elaboration of [ edu200]"}
+{"id": "DR-16032023-01_202", "gen_output": "Elaboration of [ edu201]"}
+{"id": "DR-16032023-01_203", "gen_output": "Elaboration of [ edu200]"}
+{"id": "DR-16032023-01_204", "gen_output": "Elaboration of [ edu202]"}
+{"id": "DR-16032023-01_205", "gen_output": "Elaboration of [ edu203]"}
+{"id": "DR-16032023-01_206", "gen_output": "Result of [ edu204]"}
+{"id": "DR-16032023-01_207", "gen_output": "Elaboration of [ edu205]"}
+{"id": "DR-16032023-01_208", "gen_output": "Continuation of [ edu206]"}
+{"id": "DR-16032023-01_209", "gen_output": "Elaboration of [ edu207]"}
+{"id": "DR-16032023-01_210", "gen_output": "Elaboration of [ edu209]"}
+{"id": "DR-16032023-01_211", "gen_output": "Contrast of [ edu210]"}
+{"id": "DR-16032023-01_212", "gen_output": "Elaboration of [ edu211]"}
+{"id": "DR-16032023-01_213", "gen_output": "Elaboration of [ edu210]"}
+{"id": "DR-16032023-01_214", "gen_output": "Result of [ edu213]"}
+{"id": "DR-16032023-01_215", "gen_output": "Elaboration of [ edu214]"}
+{"id": "DR-16032023-01_216", "gen_output": "Result of [ edu214]"}
+{"id": "DR-16032023-01_217", "gen_output": "Contrast of [ edu215]"}
+{"id": "DR-16032023-01_218", "gen_output": "Continuation of [ edu216]"}
+{"id": "DR-16032023-01_219", "gen_output": "Acknowledgement of [ edu218]"}
+{"id": "DR-16032023-01_220", "gen_output": "Continuation of [ edu219]"}
+{"id": "DR-16032023-01_221", "gen_output": "Continuation of [ edu219]"}
+{"id": "DR-16032023-01_222", "gen_output": "Continuation of [ edu221]"}
+{"id": "DR-16032023-01_223", "gen_output": "Elaboration of [ edu222]"}
+{"id": "DR-16032023-01_224", "gen_output": "Result of [ edu222]"}
+{"id": "DR-16032023-01_225", "gen_output": "Elaboration of [ edu224]"}
+{"id": "DR-16032023-01_226", "gen_output": "Elaboration of [ edu225]"}
+{"id": "DR-16032023-01_227", "gen_output": "Continuation of [ edu226]"}
+{"id": "DR-16032023-01_228", "gen_output": "Result of [ edu227]"}
+{"id": "DR-16032023-01_229", "gen_output": "Elaboration of [ edu228]"}
+{"id": "DR-16032023-01_230", "gen_output": "Continuation of [ edu229]"}
+{"id": "DR-16032023-01_231", "gen_output": "Acknowledgement of [ edu230]"}
+{"id": "DR-16032023-01_232", "gen_output": "Continuation of [ edu231]"}
+{"id": "DR-16032023-01_233", "gen_output": "Contrast of [ edu232]"}
+{"id": "DR-16032023-01_234", "gen_output": "Explanation of [ edu233]"}
+{"id": "DR-16032023-01_235", "gen_output": "Elaboration of [ edu234]"}
+{"id": "DR-16032023-01_236", "gen_output": "Continuation of [ edu235]"}
+{"id": "DR-16032023-01_237", "gen_output": "Continuation of [ edu236]"}
+{"id": "DR-16032023-01_238", "gen_output": "Continuation of [ edu236]"}
+{"id": "DR-16032023-01_239", "gen_output": "Result of [ edu237]"}
+{"id": "DR-16032023-01_240", "gen_output": "Elaboration of [ edu238]"}
+{"id": "DR-16032023-01_241", "gen_output": "Elaboration of [ edu239]"}
+{"id": "DR-16032023-01_242", "gen_output": "Elaboration of [ edu240]"}
+{"id": "DR-16032023-01_243", "gen_output": "Continuation of [ edu241]"}
+{"id": "DR-16032023-01_244", "gen_output": "Continuation of [ edu242]"}
+{"id": "DR-16032023-01_245", "gen_output": "Contrast of [ edu243]"}
+{"id": "DR-16032023-01_246", "gen_output": "Elaboration of [ edu245]"}
+{"id": "DR-16032023-01_247", "gen_output": "Elaboration of [ edu246]"}
+{"id": "DR-16032023-01_248", "gen_output": "Contrast of [ edu246]"}
+{"id": "DR-16032023-01_249", "gen_output": "Elaboration of [ edu248]"}
+{"id": "DR-16032023-01_250", "gen_output": "Elaboration of [ edu249]"}
+{"id": "DR-16032023-01_251", "gen_output": "Elaboration of [ edu250]"}
+{"id": "DR-16032023-01_252", "gen_output": "Continuation of [ edu251]"}
+{"id": "DR-16032023-01_253", "gen_output": "Elaboration of [ edu252]"}
+{"id": "DR-16032023-01_254", "gen_output": "Result of [ edu252]"}
+{"id": "DR-16032023-01_255", "gen_output": "Parallel of [ edu253]"}
+{"id": "DR-16032023-01_256", "gen_output": "Result of [ edu254]"}
+{"id": "DR-16032023-01_257", "gen_output": "Continuation of [ edu255]"}
+{"id": "DR-16032023-01_258", "gen_output": "Acknowledgement of [ edu256]"}
+{"id": "DR-16032023-01_259", "gen_output": "Continuation of [ edu258]"}
+{"id": "DR-16032023-01_260", "gen_output": "Continuation of [ edu259]"}
+{"id": "DR-16032023-01_261", "gen_output": "Result of [ edu260]"}
+{"id": "DR-23022023-03_00", "gen_output": "root"}
+{"id": "DR-23022023-03_01", "gen_output": "Conditional of [edu0]"}
+{"id": "DR-23022023-03_02", "gen_output": "Narration of [edu1]"}
+{"id": "DR-23022023-03_03", "gen_output": "Acknowledgement of [edu3]"}
+{"id": "DR-23022023-03_04", "gen_output": "Acknowledgement of [edu5]"}
+{"id": "DR-23022023-03_05", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-23022023-03_06", "gen_output": "Elaboration of [edu5]"}
+{"id": "DR-23022023-03_07", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-23022023-03_08", "gen_output": "Continuation of [edu7]"}
+{"id": "DR-23022023-03_09", "gen_output": "Continuation of [edu7]"}
+{"id": "DR-23022023-03_10", "gen_output": "Acknowledgement of [edu6]"}
+{"id": "DR-23022023-03_11", "gen_output": "Clarification_question of [edu15]"}
+{"id": "DR-23022023-03_12", "gen_output": "Explanation of [edu13]"}
+{"id": "DR-23022023-03_13", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-23022023-03_14", "gen_output": "Acknowledgement of [edu13]"}
+{"id": "DR-23022023-03_15", "gen_output": "Result of [edu13]"}
+{"id": "DR-23022023-03_16", "gen_output": "Clarification_question of [edu13]"}
+{"id": "DR-23022023-03_17", "gen_output": "Question-answer_pair of [edu15]"}
+{"id": "DR-23022023-03_18", "gen_output": "Clarification_question of [edu15]"}
+{"id": "DR-23022023-03_19", "gen_output": "Question-answer_pair of [edu15]"}
+{"id": "DR-23022023-03_20", "gen_output": "Contrast of [edu23]"}
+{"id": "DR-23022023-03_21", "gen_output": "Acknowledgement of [edu20]"}
+{"id": "DR-23022023-03_22", "gen_output": "Continuation of [edu22]"}
+{"id": "DR-23022023-03_23", "gen_output": "Explanation of [edu22]"}
+{"id": "DR-23022023-03_24", "gen_output": "Explanation of [edu22]"}
+{"id": "DR-23022023-03_25", "gen_output": "Contrast of [edu25]"}
+{"id": "DR-23022023-03_26", "gen_output": "Background of [edu26]"}
+{"id": "DR-23022023-03_27", "gen_output": "Question-answer_pair of [edu27]"}
+{"id": "DR-23022023-03_28", "gen_output": "Elaboration of [edu27]"}
+{"id": "DR-23022023-03_29", "gen_output": "Contrast of [edu31]"}
+{"id": "DR-23022023-03_30", "gen_output": "Acknowledgement of [edu37]"}
+{"id": "DR-23022023-03_31", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-23022023-03_32", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-23022023-03_33", "gen_output": "Acknowledgement of [edu31]"}
+{"id": "DR-23022023-03_34", "gen_output": "Acknowledgement of [edu31]"}
+{"id": "DR-23022023-03_35", "gen_output": "Interruption of [edu31]"}
+{"id": "DR-23022023-03_36", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-23022023-03_37", "gen_output": "Interruption of [edu34]"}
+{"id": "DR-23022023-03_38", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-23022023-03_39", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-23022023-03_40", "gen_output": "Acknowledgement of [edu34]"}
+{"id": "DR-23022023-03_41", "gen_output": "Continuation of [ edu40]"}
+{"id": "DR-23022023-03_42", "gen_output": "Continuation of [ edu41]"}
+{"id": "DR-23022023-03_43", "gen_output": "Background of [ edu42]"}
+{"id": "DR-23022023-03_44", "gen_output": "Elaboration of [ edu42]"}
+{"id": "DR-23022023-03_45", "gen_output": "Conditional of [ edu44]"}
+{"id": "DR-23022023-03_46", "gen_output": "Contrast of [ edu44]"}
+{"id": "DR-23022023-03_47", "gen_output": "Result of [ edu46]"}
+{"id": "DR-23022023-03_48", "gen_output": "Result of [ edu46]"}
+{"id": "DR-23022023-03_49", "gen_output": "Continuation of [ edu48]"}
+{"id": "DR-23022023-03_50", "gen_output": "Continuation of [ edu49]"}
+{"id": "DR-23022023-03_51", "gen_output": "Continuation of [ edu50]"}
+{"id": "DR-23022023-03_52", "gen_output": "Acknowledgement of [ edu51]"}
+{"id": "DR-23022023-03_53", "gen_output": "Interruption of [ edu52]"}
+{"id": "DR-23022023-03_54", "gen_output": "Comment of [ edu53]"}
+{"id": "DR-23022023-03_55", "gen_output": "Continuation of [ edu52]"}
+{"id": "DR-23022023-03_56", "gen_output": "Clarification_question of [ edu55]"}
+{"id": "DR-23022023-03_57", "gen_output": "Parallel of [ edu55]"}
+{"id": "DR-23022023-03_58", "gen_output": "Acknowledgement of [ edu57]"}
+{"id": "DR-23022023-03_59", "gen_output": "Continuation of [ edu57] Elaboration of [ edu58]"}
+{"id": "DR-23022023-03_60", "gen_output": "Explanation of [ edu59]"}
+{"id": "DR-23022023-03_61", "gen_output": "Clarification_question of [ edu60]"}
+{"id": "DR-23022023-03_62", "gen_output": "Question-answer_pair of [ edu61]"}
+{"id": "DR-23022023-03_63", "gen_output": "Contrast of [ edu62]"}
+{"id": "DR-23022023-03_64", "gen_output": "Acknowledgement of [ edu63]"}
+{"id": "DR-23022023-03_65", "gen_output": "Result of [ edu64]"}
+{"id": "DR-23022023-03_66", "gen_output": "Result of [ edu65]"}
+{"id": "DR-23022023-03_67", "gen_output": "Continuation of [ edu66]"}
+{"id": "DR-23022023-03_68", "gen_output": "Comment of [ edu67]"}
+{"id": "DR-23022023-03_69", "gen_output": "Result of [ edu62]"}
+{"id": "DR-23022023-03_70", "gen_output": "Comment of [ edu69]"}
+{"id": "DR-23022023-03_71", "gen_output": "Continuation of [ edu70]"}
+{"id": "DR-23022023-03_72", "gen_output": "Continuation of [ edu71]"}
+{"id": "DR-23022023-03_73", "gen_output": "Continuation of [ edu72]"}
+{"id": "DR-23022023-03_74", "gen_output": "Continuation of [ edu73]"}
+{"id": "DR-23022023-03_75", "gen_output": "Acknowledgement of [ edu74]"}
+{"id": "DR-23022023-03_76", "gen_output": "Elaboration of [ edu75]"}
+{"id": "DR-23022023-03_77", "gen_output": "Clarification_question of [ edu76]"}
+{"id": "DR-23022023-03_78", "gen_output": "Question-answer_pair of [ edu77] Elaboration of [ edu76]"}
+{"id": "DR-23022023-03_79", "gen_output": "Conditional of [ edu78]"}
+{"id": "DR-23022023-03_80", "gen_output": "Continuation of [ edu79]"}
+{"id": "DR-23022023-03_81", "gen_output": "Conditional of [ edu78]"}
+{"id": "DR-23022023-03_82", "gen_output": "Result of [ edu78]"}
+{"id": "DR-23022023-03_83", "gen_output": "Clarification_question of [ edu82]"}
+{"id": "DR-23022023-03_84", "gen_output": "Q-Elab of [ edu83]"}
+{"id": "DR-23022023-03_85", "gen_output": "Explanation of [ edu83]"}
+{"id": "DR-23022023-03_86", "gen_output": "Acknowledgement of [ edu85]"}
+{"id": "DR-23022023-03_87", "gen_output": "Contrast of [ edu86]"}
+{"id": "DR-23022023-03_88", "gen_output": "Elaboration of [ edu87]"}
+{"id": "DR-23022023-03_89", "gen_output": "Comment of [ edu88]"}
+{"id": "DR-23022023-03_90", "gen_output": "Comment of [ edu89]"}
+{"id": "DR-23022023-03_91", "gen_output": "Continuation of [ edu90]"}
+{"id": "DR-23022023-03_92", "gen_output": "Explanation of [ edu91]"}
+{"id": "DR-23022023-03_93", "gen_output": "Acknowledgement of [ edu92]"}
+{"id": "DR-23022023-03_94", "gen_output": "Continuation of [ edu92]"}
+{"id": "DR-23022023-03_95", "gen_output": "Question-answer_pair of [ edu94]"}
+{"id": "DR-23022023-03_96", "gen_output": "Result of [ edu94]"}
+{"id": "DR-23022023-03_97", "gen_output": "Result of [ edu95]"}
+{"id": "DR-23022023-03_98", "gen_output": "Conditional of [ edu97]"}
+{"id": "DR-23022023-03_99", "gen_output": "Conditional of [ edu98]"}
+{"id": "DR-23022023-03_100", "gen_output": "Comment of [ edu97]"}
+{"id": "DR-23022023-03_101", "gen_output": "Continuation of [ edu96]"}
+{"id": "DR-23022023-03_102", "gen_output": "Interruption of [ edu101]"}
+{"id": "DR-23022023-03_103", "gen_output": "Result of [ edu97]"}
+{"id": "DR-23022023-03_104", "gen_output": "Interruption of [ edu103]"}
+{"id": "DR-23022023-03_105", "gen_output": "Continuation of [ edu103]"}
+{"id": "DR-23022023-03_106", "gen_output": "Interruption of [ edu105]"}
+{"id": "DR-23022023-03_107", "gen_output": "Explanation of [ edu106]"}
+{"id": "DR-23022023-03_108", "gen_output": "Interruption of [ edu107]"}
+{"id": "DR-23022023-03_109", "gen_output": "Continuation of [ edu108]"}
+{"id": "DR-23022023-03_110", "gen_output": "Interruption of [ edu109]"}
+{"id": "DR-30032023-04_00", "gen_output": "root"}
+{"id": "DR-30032023-04_01", "gen_output": "Continuation of [edu0]"}
+{"id": "DR-30032023-04_02", "gen_output": "Continuation of [edu1]"}
+{"id": "DR-30032023-04_03", "gen_output": "Continuation of [edu2]"}
+{"id": "DR-30032023-04_04", "gen_output": "Acknowledgement of [edu3]"}
+{"id": "DR-30032023-04_05", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-30032023-04_06", "gen_output": "Continuation of [edu5]"}
+{"id": "DR-30032023-04_07", "gen_output": "Elaboration of [edu5]"}
+{"id": "DR-30032023-04_08", "gen_output": "Interruption of [edu5]"}
+{"id": "DR-30032023-04_09", "gen_output": "Continuation of [edu7]"}
+{"id": "DR-30032023-04_10", "gen_output": "Question-answer_pair of [edu15]"}
+{"id": "DR-30032023-04_11", "gen_output": "Continuation of [edu7]"}
+{"id": "DR-30032023-04_12", "gen_output": "Background of [edu11]"}
+{"id": "DR-30032023-04_13", "gen_output": "Elaboration of [edu13]"}
+{"id": "DR-30032023-04_14", "gen_output": "Contrast of [edu13]"}
+{"id": "DR-30032023-04_15", "gen_output": "Continuation of [edu13]"}
+{"id": "DR-30032023-04_16", "gen_output": "Contrast of [edu15]"}
+{"id": "DR-30032023-04_17", "gen_output": "Elaboration of [edu15]"}
+{"id": "DR-30032023-04_18", "gen_output": "Elaboration of [edu15]"}
+{"id": "DR-30032023-04_19", "gen_output": "Acknowledgement of [edu17]"}
+{"id": "DR-30032023-04_20", "gen_output": "Continuation of [edu22]"}
+{"id": "DR-30032023-04_21", "gen_output": "Continuation of [edu20]"}
+{"id": "DR-30032023-04_22", "gen_output": "Elaboration of [edu22]"}
+{"id": "DR-30032023-04_23", "gen_output": "Continuation of [edu22]"}
+{"id": "DR-30032023-04_24", "gen_output": "Explanation of [edu22]"}
+{"id": "DR-30032023-04_25", "gen_output": "Elaboration of [edu22]"}
+{"id": "DR-30032023-04_26", "gen_output": "Conditional of [edu26]"}
+{"id": "DR-30032023-04_27", "gen_output": "Elaboration of [edu26]"}
+{"id": "DR-30032023-04_28", "gen_output": "Continuation of [edu27]"}
+{"id": "DR-30032023-04_29", "gen_output": "Interruption of [edu28]"}
+{"id": "DR-30032023-04_30", "gen_output": "Elaboration of [edu28]"}
+{"id": "DR-30032023-04_31", "gen_output": "Result of [edu28]"}
+{"id": "DR-30032023-04_32", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-30032023-04_33", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-30032023-04_34", "gen_output": "Result of [edu31]"}
+{"id": "DR-30032023-04_35", "gen_output": "Elaboration of [edu31]"}
+{"id": "DR-30032023-04_36", "gen_output": "Conditional of [edu31]"}
+{"id": "DR-30032023-04_37", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-30032023-04_38", "gen_output": "Interruption of [edu34]"}
+{"id": "DR-30032023-04_39", "gen_output": "Continuation of [edu31]"}
+{"id": "DR-30032023-04_40", "gen_output": "Continuation of [edu39]"}
+{"id": "DR-30032023-04_41", "gen_output": "Acknowledgement of [ edu40]"}
+{"id": "DR-30032023-04_42", "gen_output": "Continuation of [ edu40]"}
+{"id": "DR-30032023-04_43", "gen_output": "Continuation of [ edu42]"}
+{"id": "DR-30032023-04_44", "gen_output": "Elaboration of [ edu43]"}
+{"id": "DR-30032023-04_45", "gen_output": "Contrast of [ edu44]"}
+{"id": "DR-30032023-04_46", "gen_output": "Narration of [ edu44]"}
+{"id": "DR-30032023-04_47", "gen_output": "Elaboration of [ edu46]"}
+{"id": "DR-30032023-04_48", "gen_output": "Continuation of [ edu47]"}
+{"id": "DR-30032023-04_49", "gen_output": "Result of [ edu48]"}
+{"id": "DR-30032023-04_50", "gen_output": "Result of [ edu49]"}
+{"id": "DR-30032023-04_51", "gen_output": "Elaboration of [ edu49]"}
+{"id": "DR-30032023-04_52", "gen_output": "Continuation of [ edu51]"}
+{"id": "DR-30032023-04_53", "gen_output": "Elaboration of [ edu52]"}
+{"id": "DR-30032023-04_54", "gen_output": "Continuation of [ edu53]"}
+{"id": "DR-30032023-04_55", "gen_output": "Acknowledgement of [ edu54]"}
+{"id": "DR-30032023-04_56", "gen_output": "Continuation of [ edu55]"}
+{"id": "DR-30032023-04_57", "gen_output": "Continuation of [ edu56]"}
+{"id": "DR-30032023-04_58", "gen_output": "Continuation of [ edu57]"}
+{"id": "DR-30032023-04_59", "gen_output": "Continuation of [ edu58]"}
+{"id": "DR-30032023-04_60", "gen_output": "Continuation of [ edu59]"}
+{"id": "DR-30032023-04_61", "gen_output": "Elaboration of [ edu58]"}
+{"id": "DR-30032023-04_62", "gen_output": "Narration of [ edu61]"}
+{"id": "DR-30032023-04_63", "gen_output": "Q-Elab of [ edu62]"}
+{"id": "DR-30032023-04_64", "gen_output": "Elaboration of [ edu63]"}
+{"id": "DR-30032023-04_65", "gen_output": "Result of [ edu62]"}
+{"id": "DR-30032023-04_66", "gen_output": "Conditional of [ edu65]"}
+{"id": "DR-30032023-04_67", "gen_output": "Continuation of [ edu66]"}
+{"id": "DR-30032023-04_68", "gen_output": "Continuation of [ edu67]"}
+{"id": "DR-30032023-04_69", "gen_output": "Acknowledgement of [ edu68]"}
+{"id": "DR-30032023-04_70", "gen_output": "Acknowledgement of [ edu69]"}
+{"id": "DR-30032023-04_71", "gen_output": "Acknowledgement of [ edu70]"}
+{"id": "DR-30032023-04_72", "gen_output": "Continuation of [ edu71]"}
+{"id": "DR-30032023-04_73", "gen_output": "Interruption of [ edu72]"}
+{"id": "DR-30032023-04_74", "gen_output": "Interruption of [ edu73]"}
+{"id": "DR-30032023-04_75", "gen_output": "Continuation of [ edu74]"}
+{"id": "DR-30032023-04_76", "gen_output": "Continuation of [ edu75]"}
+{"id": "DR-30032023-04_77", "gen_output": "Elaboration of [ edu76]"}
+{"id": "DR-30032023-04_78", "gen_output": "Narration of [ edu76]"}
+{"id": "DR-30032023-04_79", "gen_output": "Explanation of [ edu78]"}
+{"id": "DR-30032023-04_80", "gen_output": "Contrast of [ edu78]"}
+{"id": "DR-30032023-04_81", "gen_output": "Result of [ edu80]"}
+{"id": "DR-30032023-04_82", "gen_output": "Result of [ edu81]"}
+{"id": "DR-30032023-04_83", "gen_output": "Result of [ edu82]"}
+{"id": "DR-30032023-04_84", "gen_output": "Continuation of [ edu83]"}
+{"id": "DR-30032023-04_85", "gen_output": "Explanation of [ edu84]"}
+{"id": "DR-30032023-04_86", "gen_output": "Result of [ edu85]"}
+{"id": "DR-30032023-04_87", "gen_output": "Continuation of [ edu86]"}
+{"id": "DR-30032023-04_88", "gen_output": "Continuation of [ edu87]"}
+{"id": "DR-30032023-04_89", "gen_output": "Conditional of [ edu88]"}
+{"id": "DR-30032023-04_90", "gen_output": "Continuation of [ edu89]"}
+{"id": "DR-30032023-04_91", "gen_output": "Contrast of [ edu90]"}
+{"id": "DR-30032023-04_92", "gen_output": "Contrast of [ edu91]"}
+{"id": "DR-30032023-04_93", "gen_output": "Conditional of [ edu92]"}
+{"id": "DR-30032023-04_94", "gen_output": "Explanation of [ edu93]"}
+{"id": "DR-30032023-04_95", "gen_output": "Result of [ edu94]"}
+{"id": "DR-30032023-04_96", "gen_output": "Contrast of [ edu95]"}
+{"id": "DR-30032023-04_97", "gen_output": "Elaboration of [ edu96]"}
+{"id": "DR-30032023-04_98", "gen_output": "Narration of [ edu97]"}
+{"id": "DR-30032023-04_99", "gen_output": "Clarification_question of [ edu98]"}
+{"id": "DR-30032023-04_100", "gen_output": "Acknowledgement of [ edu99]"}
+{"id": "DR-30032023-04_101", "gen_output": "Continuation of [ edu100]"}
+{"id": "DR-30032023-04_102", "gen_output": "Continuation of [ edu101]"}
+{"id": "DR-30032023-04_103", "gen_output": "Continuation of [ edu102]"}
+{"id": "DR-30032023-04_104", "gen_output": "Result of [ edu102]"}
+{"id": "DR-30032023-04_105", "gen_output": "Continuation of [ edu104]"}
+{"id": "DR-30032023-04_106", "gen_output": "Acknowledgement of [ edu105]"}
+{"id": "DR-30032023-04_107", "gen_output": "Acknowledgement of [ edu106]"}
+{"id": "DR-30032023-04_108", "gen_output": "Continuation of [ edu106]"}
+{"id": "DR-30032023-04_109", "gen_output": "Clarification_question of [ edu108]"}
+{"id": "DR-30032023-04_110", "gen_output": "Question-answer_pair of [ edu109]"}
+{"id": "DR-30032023-04_111", "gen_output": "Continuation of [ edu109]"}
+{"id": "DR-30032023-04_112", "gen_output": "Continuation of [ edu110]"}
+{"id": "DR-30032023-04_113", "gen_output": "Continuation of [ edu112]"}
+{"id": "DR-30032023-04_114", "gen_output": "Continuation of [ edu113]"}
+{"id": "DR-30032023-04_115", "gen_output": "Interruption of [ edu114]"}
+{"id": "DR-30032023-04_116", "gen_output": "Elaboration of [ edu115]"}
+{"id": "DR-30032023-04_117", "gen_output": "Conditional of [ edu116]"}
+{"id": "DR-30032023-04_118", "gen_output": "Elaboration of [ edu115]"}
+{"id": "DR-30032023-04_119", "gen_output": "Acknowledgement of [ edu118]"}
+{"id": "DR-30032023-04_120", "gen_output": "Contrast of [ edu119]"}
+{"id": "DR-30032023-04_121", "gen_output": "Result of [ edu118]"}
+{"id": "DR-30032023-04_122", "gen_output": "Interruption of [ edu121]"}
+{"id": "DR-30032023-04_123", "gen_output": "Clarification_question of [ edu122]"}
+{"id": "DR-30032023-04_124", "gen_output": "Elaboration of [ edu123]"}
+{"id": "DR-30032023-04_125", "gen_output": "Question-answer_pair of [ edu124]"}
+{"id": "DR-30032023-04_126", "gen_output": "Elaboration of [ edu125]"}
+{"id": "DR-30032023-04_127", "gen_output": "Continuation of [ edu126]"}
+{"id": "DR-30032023-04_128", "gen_output": "Acknowledgement of [ edu127]"}
+{"id": "DR-30032023-04_129", "gen_output": "Continuation of [ edu128]"}
+{"id": "DR-30032023-04_130", "gen_output": "Conditional of [ edu129]"}
+{"id": "DR-30032023-04_131", "gen_output": "Interruption of [ edu130] Comment of [ edu129]"}
+{"id": "DR-30032023-04_132", "gen_output": "Interruption of [ edu131]"}
+{"id": "DR-30032023-04_133", "gen_output": "Comment of [ edu131]"}
+{"id": "DR-30032023-04_134", "gen_output": "Continuation of [ edu133]"}
+{"id": "DR-30032023-04_135", "gen_output": "Contrast of [ edu134]"}
+{"id": "DR-30032023-04_136", "gen_output": "Result of [ edu135]"}
+{"id": "DR-30032023-04_137", "gen_output": "Clarification_question of [ edu134]"}
+{"id": "DR-30032023-04_138", "gen_output": "Question-answer_pair of [ edu137]"}
+{"id": "DR-30032023-04_139", "gen_output": "Contrast of [ edu138]"}
+{"id": "DR-30032023-04_140", "gen_output": "Acknowledgement of [ edu139]"}
+{"id": "DR-30032023-04_141", "gen_output": "Continuation of [ edu140]"}
+{"id": "DR-30032023-04_142", "gen_output": "Conditional of [ edu141]"}
+{"id": "DR-30032023-04_143", "gen_output": "Acknowledgement of [ edu142]"}
+{"id": "DR-30032023-04_144", "gen_output": "Continuation of [ edu143]"}
+{"id": "DR-30032023-04_145", "gen_output": "Interruption of [ edu144]"}
+{"id": "DR-30032023-04_146", "gen_output": "Interruption of [ edu145]"}
+{"id": "DR-30032023-04_147", "gen_output": "Interruption of [ edu146]"}
+{"id": "DR-30032023-04_148", "gen_output": "Continuation of [ edu145]"}
+{"id": "DR-30032023-04_149", "gen_output": "Continuation of [ edu148]"}
+{"id": "DR-30032023-04_150", "gen_output": "Continuation of [ edu149]"}
+{"id": "DR-30032023-04_151", "gen_output": "Acknowledgement of [ edu150]"}
+{"id": "DR-30032023-04_152", "gen_output": "Elaboration of [ edu151]"}
+{"id": "DR-30032023-04_153", "gen_output": "Continuation of [ edu152]"}
+{"id": "DR-30032023-04_154", "gen_output": "Continuation of [ edu153]"}
+{"id": "DR-30032023-04_155", "gen_output": "Acknowledgement of [ edu154]"}
+{"id": "DR-30032023-04_156", "gen_output": "Continuation of [ edu155]"}
+{"id": "DR-30032023-04_157", "gen_output": "Continuation of [ edu156]"}
+{"id": "DR-30032023-04_158", "gen_output": "Continuation of [ edu154]"}
+{"id": "DR-30032023-04_159", "gen_output": "Elaboration of [ edu158]"}
+{"id": "DR-30032023-04_160", "gen_output": "Continuation of [ edu159]"}
+{"id": "DR-30032023-04_161", "gen_output": "Contrast of [ edu160]"}
+{"id": "DR-30032023-04_162", "gen_output": "Interruption of [ edu161]"}
+{"id": "DR-30032023-04_163", "gen_output": "Elaboration of [ edu162]"}
+{"id": "DR-30032023-04_164", "gen_output": "Interruption of [ edu163]"}
+{"id": "DR-30032023-04_165", "gen_output": "Acknowledgement of [ edu163]"}
+{"id": "DR-30032023-04_166", "gen_output": "Interruption of [ edu165] Continuation of [ edu163]"}
+{"id": "DR-30032023-04_167", "gen_output": "Continuation of [ edu166]"}
+{"id": "DR-30032023-04_168", "gen_output": "Interruption of [ edu167]"}
+{"id": "DR-30032023-04_169", "gen_output": "Interruption of [ edu168]"}
+{"id": "DR-30032023-04_170", "gen_output": "Comment of [ edu167]"}
+{"id": "DR-30032023-04_171", "gen_output": "Interruption of [ edu170]"}
+{"id": "DR-30032023-04_172", "gen_output": "Continuation of [ edu169]"}
+{"id": "DR-30032023-04_173", "gen_output": "Interruption of [ edu172]"}
+{"id": "DR-30032023-04_174", "gen_output": "Interruption of [ edu173]"}
+{"id": "DR-30032023-04_175", "gen_output": "Continuation of [ edu174]"}
+{"id": "DR-30032023-04_176", "gen_output": "Acknowledgement of [ edu172] Interruption of [ edu175]"}
+{"id": "DR-30032023-04_177", "gen_output": "Interruption of [ edu176] Continuation of [ edu176]"}
+{"id": "DR-30032023-04_178", "gen_output": "Acknowledgement of [ edu177]"}
+{"id": "DR-30032023-04_179", "gen_output": "Interruption of [ edu178]"}
+{"id": "DR-30032023-04_180", "gen_output": "Interruption of [ edu179]"}
+{"id": "DR-30032023-04_181", "gen_output": "Interruption of [ edu180] Continuation of [ edu179]"}
+{"id": "DR-30032023-04_182", "gen_output": "Explanation of [ edu181]"}
+{"id": "DR-30032023-04_183", "gen_output": "Interruption of [ edu182]"}
+{"id": "DR-30032023-04_184", "gen_output": "Elaboration of [ edu183]"}
+{"id": "DR-30032023-04_185", "gen_output": "Continuation of [ edu184] Interruption of [ edu184]"}
+{"id": "DR-30032023-04_186", "gen_output": "Interruption of [ edu185]"}
+{"id": "DR-30032023-04_187", "gen_output": "Interruption of [ edu186]"}
+{"id": "DR-30032023-04_188", "gen_output": "Continuation of [ edu187] Correction of [ edu186]"}
+{"id": "DR-30032023-04_189", "gen_output": "Conditional of [ edu188]"}
+{"id": "DR-30032023-04_190", "gen_output": "Interruption of [ edu189]"}
+{"id": "DR-30032023-04_191", "gen_output": "Continuation of [ edu190]"}
+{"id": "DR-30032023-04_192", "gen_output": "Interruption of [ edu191]"}
+{"id": "DR-30032023-04_193", "gen_output": "Interruption of [ edu192]"}
+{"id": "DR-30032023-04_194", "gen_output": "Contrast of [ edu193]"}
+{"id": "DR-30032023-04_195", "gen_output": "Result of [ edu194]"}
+{"id": "DR-30032023-04_196", "gen_output": "Contrast of [ edu195]"}
+{"id": "DR-30032023-04_197", "gen_output": "Continuation of [ edu196]"}
+{"id": "DR-30032023-04_198", "gen_output": "Interruption of [ edu197]"}
+{"id": "DR-30032023-04_199", "gen_output": "Continuation of [ edu198]"}
+{"id": "DR-30032023-04_200", "gen_output": "Interruption of [ edu199]"}
+{"id": "DR-30032023-04_201", "gen_output": "Continuation of [ edu200]"}
+{"id": "DR-30032023-04_202", "gen_output": "Conditional of [ edu201]"}
+{"id": "DR-30032023-04_203", "gen_output": "Elaboration of [ edu202]"}
+{"id": "DR-30032023-04_204", "gen_output": "Interruption of [ edu203]"}
+{"id": "DR-30032023-04_205", "gen_output": "Correction of [ edu204]"}
+{"id": "DR-30032023-04_206", "gen_output": "Continuation of [ edu205]"}
+{"id": "DR-30032023-04_207", "gen_output": "Continuation of [ edu206]"}
+{"id": "DR-30032023-04_208", "gen_output": "Explanation of [ edu207]"}
+{"id": "DR-30032023-04_209", "gen_output": "Clarification_question of [ edu207]"}
+{"id": "DR-30032023-04_210", "gen_output": "Question-answer_pair of [ edu209]"}
+{"id": "DR-30032023-04_211", "gen_output": "Explanation of [ edu210]"}
+{"id": "DR-30032023-04_212", "gen_output": "Explanation of [ edu211]"}
+{"id": "DR-30032023-04_213", "gen_output": "Contrast of [ edu212]"}
+{"id": "DR-30032023-04_214", "gen_output": "Background of [ edu213]"}
+{"id": "DR-30032023-04_215", "gen_output": "Elaboration of [ edu214]"}
+{"id": "DR-30032023-04_216", "gen_output": "Acknowledgement of [ edu215]"}
+{"id": "DR-30032023-04_217", "gen_output": "Acknowledgement of [ edu216] Continuation of [ edu215]"}
+{"id": "DR-30032023-04_218", "gen_output": "Interruption of [ edu217]"}
+{"id": "DR-30032023-04_219", "gen_output": "Interruption of [ edu218]"}
+{"id": "DR-30032023-04_220", "gen_output": "Result of [ edu217]"}
+{"id": "DR-30032023-04_221", "gen_output": "Background of [ edu220]"}
+{"id": "DR-30032023-04_222", "gen_output": "Interruption of [ edu221]"}
+{"id": "DR-30032023-04_223", "gen_output": "Continuation of [ edu222]"}
+{"id": "DR-30032023-04_224", "gen_output": "Result of [ edu220]"}
+{"id": "DR-30032023-04_225", "gen_output": "Interruption of [ edu224]"}
+{"id": "DR-30032023-04_226", "gen_output": "Acknowledgement of [ edu225]"}
+{"id": "DR-30032023-04_227", "gen_output": "Continuation of [ edu225]"}
+{"id": "DR-30032023-04_228", "gen_output": "Acknowledgement of [ edu227]"}
+{"id": "DR-30032023-04_229", "gen_output": "Result of [ edu227]"}
+{"id": "DR-30032023-04_230", "gen_output": "Continuation of [ edu229]"}
+{"id": "DR-30032023-04_231", "gen_output": "Interruption of [ edu230]"}
+{"id": "DR-30032023-04_232", "gen_output": "Interruption of [ edu231] Comment of [ edu229]"}
+{"id": "DR-30032023-04_233", "gen_output": "Interruption of [ edu232]"}
+{"id": "DR-30032023-04_234", "gen_output": "Elaboration of [ edu233]"}
+{"id": "DR-30032023-04_235", "gen_output": "Acknowledgement of [ edu234]"}
+{"id": "DR-30032023-04_236", "gen_output": "Question-answer_pair of [ edu235]"}
+{"id": "DR-30032023-04_237", "gen_output": "Question-answer_pair of [ edu236]"}
+{"id": "DR-30032023-04_238", "gen_output": "Acknowledgement of [ edu237]"}
+{"id": "DR-30032023-04_239", "gen_output": "Conditional of [ edu238]"}
+{"id": "DR-30032023-04_240", "gen_output": "Conditional of [ edu239]"}
+{"id": "DR-30032023-04_241", "gen_output": "Clarification_question of [ edu239]"}
+{"id": "DR-30032023-04_242", "gen_output": "Explanation of [ edu241]"}
+{"id": "DR-30032023-04_243", "gen_output": "Interruption of [ edu242]"}
+{"id": "DR-30032023-04_244", "gen_output": "Interruption of [ edu243]"}
+{"id": "DR-30032023-04_245", "gen_output": "Interruption of [ edu244]"}
+{"id": "DR-30032023-04_246", "gen_output": "Interruption of [ edu245]"}
+{"id": "DR-30032023-04_247", "gen_output": "Continuation of [ edu245]"}
+{"id": "DR-30032023-04_248", "gen_output": "Clarification_question of [ edu243]"}
+{"id": "DR-30032023-04_249", "gen_output": "Acknowledgement of [ edu248]"}
+{"id": "DR-30032023-04_250", "gen_output": "Continuation of [ edu248] Clarification_question of [ edu249]"}
+{"id": "DR-30032023-04_251", "gen_output": "Interruption of [ edu250]"}
+{"id": "DR-30032023-04_252", "gen_output": "Result of [ edu250]"}
+{"id": "DR-30032023-04_253", "gen_output": "Interruption of [ edu252]"}
+{"id": "DR-30032023-04_254", "gen_output": "Interruption of [ edu253]"}
+{"id": "DR-30032023-04_255", "gen_output": "Interruption of [ edu254]"}
+{"id": "DR-30032023-04_256", "gen_output": "Interruption of [ edu255]"}
+{"id": "DR-30032023-04_257", "gen_output": "Interruption of [ edu256]"}
+{"id": "DR-30032023-04_258", "gen_output": "Comment of [ edu257]"}
+{"id": "DR-30032023-04_259", "gen_output": "Acknowledgement of [ edu258]"}
+{"id": "DR-30032023-04_260", "gen_output": "Continuation of [ edu259] Comment of [ edu258]"}
+{"id": "DR-30032023-04_261", "gen_output": "Continuation of [ edu258]"}
+{"id": "DR-30032023-04_262", "gen_output": "Acknowledgement of [ edu261]"}
+{"id": "DR-30032023-04_263", "gen_output": "Parallel of [ edu261]"}
+{"id": "DR-30032023-04_264", "gen_output": "Result of [ edu263]"}
+{"id": "DR-30032023-04_265", "gen_output": "Interruption of [ edu264]"}
+{"id": "DR-30032023-04_266", "gen_output": "Continuation of [ edu265]"}
+{"id": "DR-30032023-04_267", "gen_output": "Continuation of [ edu266]"}
+{"id": "DR-30032023-04_268", "gen_output": "Continuation of [ edu267]"}
+{"id": "DR-30032023-04_269", "gen_output": "Continuation of [ edu268]"}
+{"id": "DR-30032023-04_270", "gen_output": "Continuation of [ edu269]"}
+{"id": "DR-30032023-04_271", "gen_output": "Continuation of [ edu270]"}
+{"id": "DR-30032023-04_272", "gen_output": "Acknowledgement of [ edu271]"}
+{"id": "DR-30032023-04_273", "gen_output": "Elaboration of [ edu272]"}
+{"id": "DR-30032023-04_274", "gen_output": "Continuation of [ edu273]"}
+{"id": "DR-30032023-04_275", "gen_output": "Continuation of [ edu274]"}
+{"id": "DR-30032023-04_276", "gen_output": "Elaboration of [ edu275]"}
+{"id": "DR-30032023-04_277", "gen_output": "Elaboration of [ edu276]"}
+{"id": "DR-30032023-04_278", "gen_output": "Elaboration of [ edu275]"}
+{"id": "DR-30032023-04_279", "gen_output": "Elaboration of [ edu277]"}
+{"id": "DR-30032023-04_280", "gen_output": "Elaboration of [ edu278]"}
+{"id": "DR-30032023-04_281", "gen_output": "Elaboration of [ edu278]"}
+{"id": "DR-30032023-04_282", "gen_output": "Elaboration of [ edu279]"}
+{"id": "DR-30032023-04_283", "gen_output": "Elaboration of [ edu280]"}
+{"id": "DR-30032023-04_284", "gen_output": "Elaboration of [ edu281]"}
+{"id": "DR-30032023-04_285", "gen_output": "Elaboration of [ edu282]"}
+{"id": "DR-30032023-04_286", "gen_output": "Elaboration of [ edu278]"}
+{"id": "DR-30032023-04_287", "gen_output": "Elaboration of [ edu284]"}
+{"id": "DR-30032023-04_288", "gen_output": "Elaboration of [ edu284]"}
+{"id": "DR-30032023-04_289", "gen_output": "Elaboration of [ edu284]"}
+{"id": "DR-30032023-04_290", "gen_output": "Elaboration of [ edu284]"}
+{"id": "DR-30032023-04_291", "gen_output": "Elaboration of [ edu284]"}
+{"id": "DR-30032023-04_292", "gen_output": "Elaboration of [ edu284]"}
+{"id": "DR-30032023-04_293", "gen_output": "Elaboration of [ edu284]"}
+{"id": "DR-30032023-04_294", "gen_output": "Continuation of [ edu293]"}
+{"id": "DR-30032023-04_295", "gen_output": "Continuation of [ edu293]"}
+{"id": "DR-30032023-04_296", "gen_output": "Elaboration of [ edu294]"}
+{"id": "DR-30032023-04_297", "gen_output": "Continuation of [ edu295]"}
+{"id": "DR-30032023-04_298", "gen_output": "Elaboration of [ edu296]"}
+{"id": "DR-30032023-04_299", "gen_output": "Elaboration of [ edu297]"}
+{"id": "DR-30032023-04_300", "gen_output": "Elaboration of [ edu298]"}
+{"id": "DR-30032023-04_301", "gen_output": "Elaboration of [ edu299]"}
+{"id": "DR-30032023-04_302", "gen_output": "Elaboration of [ edu299]"}
+{"id": "DR-30032023-04_303", "gen_output": "Elaboration of [ edu299]"}
+{"id": "DR-30032023-04_304", "gen_output": "Elaboration of [ edu299]"}
+{"id": "DR-30032023-04_305", "gen_output": "Explanation of [ edu303]"}
+{"id": "DR-30032023-04_306", "gen_output": "Continuation of [ edu304]"}
+{"id": "DR-30032023-04_307", "gen_output": "Continuation of [ edu305]"}
+{"id": "DR-30032023-04_308", "gen_output": "Continuation of [ edu306]"}
+{"id": "DR-30032023-04_309", "gen_output": "Continuation of [ edu306]"}
+{"id": "DR-30032023-04_310", "gen_output": "Continuation of [ edu307]"}
+{"id": "DR-30032023-04_311", "gen_output": "Continuation of [ edu308]"}
+{"id": "DR-30032023-04_312", "gen_output": "Continuation of [ edu310]"}

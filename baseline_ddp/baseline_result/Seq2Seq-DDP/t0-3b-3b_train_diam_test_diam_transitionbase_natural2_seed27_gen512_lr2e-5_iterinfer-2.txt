@@ -1,0 +1,62 @@
+/usr/local/lib/python3.11/dist-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Loading model from /workspace/Seq2Seq-DDP/ft-models/t0-3b-3b_train_diam_natural2_seed27_2e-5
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:14<00:28, 14.31s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:29<00:14, 14.90s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:33<00:00,  9.92s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:33<00:00, 11.21s/it]
+/usr/local/lib/python3.11/dist-packages/transformers/models/t5/modeling_t5.py:1583: FutureWarning: `T5ForConditionalGeneration.parallelize` is deprecated and will be removed in v5 of Transformers, you should load your model with `device_map='balanced'` in the call to `from_pretrained`. You can also provide your own `device_map` but it needs to be a dictionary module_name to device, so for instance {'encoder.block.0': 0, 'encoder.block.1': 1, ...}
+  warnings.warn(
+/usr/local/lib/python3.11/dist-packages/transformers/models/t5/modeling_t5.py:924: FutureWarning: `T5Stack.parallelize` is deprecated and will be removed in v5 of Transformers, you should load your model with `device_map='balanced'` in the call to `from_pretrained`. You can also provide your own `device_map` but it needs to be a dictionary module_name to device, so for instance {'block.0': 0, 'block.1': 1, ...}
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Failed parse: 225
+time 110.6581244468689, round time/seq : 0.4009352533713631 total time/seq: 0.40093526114588196
+Loading model from /workspace/Seq2Seq-DDP/ft-models/t0-3b-3b_train_diam_natural2_seed27_2e-5
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.84s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.51s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:03<00:00,  1.06it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:03<00:00,  1.13s/it]
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Failed parse: 298
+time 97.67293334007263, round time/seq : 0.269814747473153 total time/seq: 0.3265377417627173
+Loading model from /workspace/Seq2Seq-DDP/ft-models/t0-3b-3b_train_diam_natural2_seed27_2e-5
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:02,  1.13s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:02<00:01,  1.17s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.25it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.12it/s]
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Failed parse: 85
+time 37.56552052497864, round time/seq : 0.2664221871829202 total time/seq: 0.3156567583953309
+Loading model from /workspace/Seq2Seq-DDP/ft-models/t0-3b-3b_train_diam_natural2_seed27_2e-5
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:02,  1.07s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:02<00:01,  1.17s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.26it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.13it/s]
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Failed parse: 208
+time 70.20551466941833, round time/seq : 0.2679600206040244 total time/seq: 0.3036524033340322
+Loading model from /workspace/Seq2Seq-DDP/ft-models/t0-3b-3b_train_diam_natural2_seed27_2e-5
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:02,  1.26s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:02<00:01,  1.21s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.20it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.06it/s]
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Failed parse: 64
+time 30.267415523529053, round time/seq : 0.2726794771246008 total time/seq: 0.3006680481549766
+Loading model from /workspace/Seq2Seq-DDP/ft-models/t0-3b-3b_train_diam_natural2_seed27_2e-5
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:02,  1.11s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:02<00:01,  1.07s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.25it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.14it/s]
+Failed parse: 261
+time 84.62754321098328, round time/seq : 0.27037557169271353 total time/seq: 0.29419600662517875
+writing result in /root/Seq2Seq-DDP/generation/t0-3b-3b_train_diam_test_diam_transitionbase_natural2_seed27_gen512_lr2e-5_iterinfer-2.jsonl

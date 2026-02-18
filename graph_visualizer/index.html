@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversation Graph Visualizer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Cytoscape.js from CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.23.0/cytoscape.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Conversation Graph Visualizer</h1>
+        </header>
+
+        <div class="upload-section">
+            <input type="file" id="jsonFile" accept=".json">
+            <button id="loadBtn">Load JSON</button>
+            <select id="conversationSelect" style="display:none; margin-left: 10px; padding: 5px;"></select>
+            <button id="resetBtn">Reset</button>
+            <button id="summaryBtn">Summary</button>
+            <button id="fileSummaryBtn">File Summary</button>
+            <button id="edgeStyleBtn">Toggle Edge Style</button>
+        </div>
+
+        <div class="visualization-container">
+            <div class="legend">
+                <h3>Legend</h3>
+                <div class="speakers-legend">
+                    <h4>Speakers</h4>
+                    <div id="speakers-list">
+                        <!-- Dynamically populated -->
+                    </div>
+                </div>
+                <div class="relations-legend">
+                    <h4>Relations</h4>
+                    <div id="relations-list">
+                        <!-- Dynamically populated -->
+                    </div>
+                </div>
+            </div>
+
+            <div id="cy"></div>
+
+            <div class="info-panel">
+                <div id="node-info">
+                    <h3>EDU Info</h3>
+                    <div id="edu-text"></div>
+                    <div id="edu-speaker"></div>
+                    <div id="edu-addressees"></div>
+                </div>
+                <div id="edge-info">
+                    <h3>Relation Info</h3>
+                    <div id="relation-type"></div>
+                    <div id="relation-source"></div>
+                    <div id="relation-target"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Summary Modal -->
+        <div id="summaryModal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Conversation Summary</h3>
+                    <span class="close">&times;</span>
+                </div>
+                <div id="summary-stats">
+                    <div id="total-relations"></div>
+                    <div id="total-nodes"></div>
+                    <div id="back-edges-count"></div>
+                    <div id="back-edges-list"></div>
+                    <div id="relation-counts">
+                        <div class="info-label">Relation Counts:</div>
+                        <div id="relation-counts-list"></div>
+                    </div>
+                    <div id="orphaned-nodes">
+                        <div id="orphaned-nodes-count"></div>
+                        <div id="orphaned-nodes-list"></div>
+                    </div>
+                    <div id="orphaned-clusters">
+                        <div id="orphaned-clusters-count"></div>
+                        <div id="orphaned-clusters-list"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- File Summary Modal -->
+        <div id="fileSummaryModal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>File Summary</h3>
+                    <span class="close" id="closeFileSummary">&times;</span>
+                </div>
+                <div id="file-summary-content"
+                    style="white-space: pre-wrap; font-family: monospace; background: rgba(0,0,0,0.3); padding: 10px; border-radius: 6px;">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
