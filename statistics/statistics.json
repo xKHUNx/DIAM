@@ -2,10 +2,10 @@
   "all": {
     "total_num_edus": 9792,
     "total_num_relations": 10494,
-    "total_num_speakers": 396,
+    "total_num_speakers": 395,
     "total_num_non_verbal_actions": 311,
-    "total_num_multi_parent_nodes": 1779,
-    "total_num_multi_child_nodes": 746,
+    "total_num_multi_parent_nodes": 746,
+    "total_num_multi_child_nodes": 1779,
     "total_num_pairs_with_multi_relations": 41,
     "num_edus": {
       "mean": 244.8,
@@ -24,7 +24,7 @@
       "Q3": 355.0
     },
     "num_speakers": {
-      "mean": 9.9,
+      "mean": 9.875,
       "min": 3.0,
       "max": 18.0,
       "Q1": 6.0,
@@ -40,20 +40,20 @@
       "Q3": 13.0
     },
     "num_multi_parent_nodes": {
-      "mean": 44.475,
-      "min": 9.0,
-      "max": 95.0,
-      "Q1": 26.75,
-      "median": 42.0,
-      "Q3": 58.0
-    },
-    "num_multi_child_nodes": {
       "mean": 18.65,
       "min": 1.0,
       "max": 56.0,
       "Q1": 5.75,
       "median": 17.0,
       "Q3": 27.0
+    },
+    "num_multi_child_nodes": {
+      "mean": 44.475,
+      "min": 9.0,
+      "max": 95.0,
+      "Q1": 26.75,
+      "median": 42.0,
+      "Q3": 58.0
     },
     "num_pairs_with_multi_relations": {
       "mean": 1.025,
@@ -919,10 +919,10 @@
   "train": {
     "total_num_edus": 6792,
     "total_num_relations": 7271,
-    "total_num_speakers": 280,
+    "total_num_speakers": 279,
     "total_num_non_verbal_actions": 217,
-    "total_num_multi_parent_nodes": 1247,
-    "total_num_multi_child_nodes": 512,
+    "total_num_multi_parent_nodes": 512,
+    "total_num_multi_child_nodes": 1247,
     "total_num_pairs_with_multi_relations": 24,
     "num_edus": {
       "mean": 242.57142857142858,
@@ -941,7 +941,7 @@
       "Q3": 355.0
     },
     "num_speakers": {
-      "mean": 10.0,
+      "mean": 9.964285714285714,
       "min": 4.0,
       "max": 18.0,
       "Q1": 6.0,
@@ -957,20 +957,20 @@
       "Q3": 10.75
     },
     "num_multi_parent_nodes": {
-      "mean": 44.535714285714285,
-      "min": 9.0,
-      "max": 95.0,
-      "Q1": 26.75,
-      "median": 40.5,
-      "Q3": 59.5
-    },
-    "num_multi_child_nodes": {
       "mean": 18.285714285714285,
       "min": 1.0,
       "max": 54.0,
       "Q1": 6.0,
       "median": 16.0,
       "Q3": 26.25
+    },
+    "num_multi_child_nodes": {
+      "mean": 44.535714285714285,
+      "min": 9.0,
+      "max": 95.0,
+      "Q1": 26.75,
+      "median": 40.5,
+      "Q3": 59.5
     },
     "num_pairs_with_multi_relations": {
       "mean": 0.8571428571428571,
@@ -1797,8 +1797,8 @@
     "total_num_relations": 1647,
     "total_num_speakers": 54,
     "total_num_non_verbal_actions": 49,
-    "total_num_multi_parent_nodes": 250,
-    "total_num_multi_child_nodes": 120,
+    "total_num_multi_parent_nodes": 120,
+    "total_num_multi_child_nodes": 250,
     "total_num_pairs_with_multi_relations": 5,
     "num_edus": {
       "mean": 255.83333333333334,
@@ -1833,20 +1833,20 @@
       "Q3": 12.75
     },
     "num_multi_parent_nodes": {
-      "mean": 41.666666666666664,
-      "min": 15.0,
-      "max": 80.0,
-      "Q1": 28.25,
-      "median": 42.0,
-      "Q3": 46.0
-    },
-    "num_multi_child_nodes": {
       "mean": 20.0,
       "min": 2.0,
       "max": 56.0,
       "Q1": 4.25,
       "median": 15.0,
       "Q3": 27.25
+    },
+    "num_multi_child_nodes": {
+      "mean": 41.666666666666664,
+      "min": 15.0,
+      "max": 80.0,
+      "Q1": 28.25,
+      "median": 42.0,
+      "Q3": 46.0
     },
     "num_pairs_with_multi_relations": {
       "mean": 0.8333333333333334,
@@ -2506,8 +2506,8 @@
     "total_num_relations": 1576,
     "total_num_speakers": 62,
     "total_num_non_verbal_actions": 45,
-    "total_num_multi_parent_nodes": 282,
-    "total_num_multi_child_nodes": 114,
+    "total_num_multi_parent_nodes": 114,
+    "total_num_multi_child_nodes": 282,
     "total_num_pairs_with_multi_relations": 12,
     "num_edus": {
       "mean": 244.16666666666666,
@@ -2542,20 +2542,20 @@
       "Q3": 11.5
     },
     "num_multi_parent_nodes": {
-      "mean": 47.0,
-      "min": 25.0,
-      "max": 64.0,
-      "Q1": 34.0,
-      "median": 53.5,
-      "Q3": 57.25
-    },
-    "num_multi_child_nodes": {
       "mean": 19.0,
       "min": 4.0,
       "max": 33.0,
       "Q1": 7.75,
       "median": 20.0,
       "Q3": 30.0
+    },
+    "num_multi_child_nodes": {
+      "mean": 47.0,
+      "min": 25.0,
+      "max": 64.0,
+      "Q1": 34.0,
+      "median": 53.5,
+      "Q3": 57.25
     },
     "num_pairs_with_multi_relations": {
       "mean": 2.0,

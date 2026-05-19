@@ -83,20 +83,22 @@ def process_dialogue(data, dialogue_id):
     except Exception:
         pass
 
-    # Calculate parent and child counts for each EDU
-    parent_counts = Counter()
-    child_counts = Counter()
+    # Calculate per-node parent/child counts.
+    # Convention (verified from the gold data): in a relation, x is the PARENT
+    # (antecedent, earlier index) and y is the CHILD (dependent, later index).
+    # So a node's #parents = times it appears as y; #children = times it appears as x.
+    num_parents_of = Counter()   # node -> how many parents it has
+    num_children_of = Counter()  # node -> how many children it has
     pair_counts = Counter()
     for rel in relations:
         if isinstance(rel, dict) and "x" in rel and "y" in rel:
-            # y is the parent of x
-            parent_counts[rel["x"]] += 1
-            child_counts[rel["y"]] += 1
+            num_parents_of[rel["y"]] += 1   # y is the child -> gains a parent (x)
+            num_children_of[rel["x"]] += 1  # x is the parent -> gains a child (y)
             pair_counts[(rel["x"], rel["y"])] += 1
 
     # Count EDUs with multiple parents and multiple children
-    num_multi_parent_nodes = sum(1 for count in parent_counts.values() if count > 1)
-    num_multi_child_nodes = sum(1 for count in child_counts.values() if count > 1)
+    num_multi_parent_nodes = sum(1 for count in num_parents_of.values() if count > 1)
+    num_multi_child_nodes = sum(1 for count in num_children_of.values() if count > 1)
     num_pairs_with_multi_relations = sum(1 for count in pair_counts.values() if count > 1)
 
     # Addressee distribution (include 0, 1, 2, ...)
