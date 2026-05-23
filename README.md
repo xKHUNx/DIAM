@@ -118,7 +118,6 @@ The project includes a web-based Graph Visualizer to interactively explore dialo
 
 ## 8. License & Citation
 
-<!-- TODO: confirm and replace the placeholders below before public release. -->
-- **Data license:** TBD (e.g., CC-BY-4.0).
-- **Code license:** TBD (e.g., Apache-2.0 or MIT).
+- **Data** (`data/`, `statistics/`, `annotation_guidelines/`): released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [`DATA_LICENSE`](DATA_LICENSE).
+- **Code** (Python scripts, shell scripts, the graph visualizer): released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See [`LICENSE`](LICENSE).
 - **Citation:** BibTeX will be provided upon paper publication.

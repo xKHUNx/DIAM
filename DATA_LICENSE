@@ -1,0 +1,51 @@
+DIAM Dataset License
+====================
+
+The DIAM dataset — including all files under `data/`, `statistics/`, and
+`annotation_guidelines/` — is released under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+  Full legal text:   https://creativecommons.org/licenses/by/4.0/legalcode
+  Human-readable:    https://creativecommons.org/licenses/by/4.0/
+
+You are free to:
+
+  * Share — copy and redistribute the material in any medium or format.
+  * Adapt — remix, transform, and build upon the material for any purpose,
+            including commercial use.
+
+Under the following terms:
+
+  * Attribution — You must give appropriate credit, provide a link to the
+                  license, and indicate if changes were made. You may do so
+                  in any reasonable manner, but not in any way that suggests
+                  the licensor endorses you or your use.
+
+  * No additional restrictions — You may not apply legal terms or
+                  technological measures that legally restrict others from
+                  doing anything the license permits.
+
+
+Underlying source
+-----------------
+
+The verbal content of the dataset is derived from publicly available
+verbatim transcripts of Dewan Rakyat (Malaysian Parliament) proceedings,
+published at https://www.parlimen.gov.my. English text is produced by
+machine translation of the original Malay transcripts.
+
+
+Citation
+--------
+
+When reusing the dataset, please cite the DIAM paper (BibTeX to be provided
+upon publication) in addition to satisfying the CC BY 4.0 attribution
+requirement.
+
+
+Code license
+------------
+
+Note that the source code in this repository (Python scripts, shell
+scripts, the web-based graph visualizer, etc.) is released separately
+under the Apache License 2.0; see `LICENSE`.
