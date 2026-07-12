@@ -45,12 +45,27 @@ echo "=============================================================="
 nvidia-smi --query-gpu=name,memory.total --format=csv,noheader || true
 
 # ------------------------------ dependencies --------------------------------
+# RTX 5090 = Blackwell (sm_120): REQUIRES a CUDA 12.8 PyTorch build (>=2.7).
+# Older cu124/torch2.6 wheels have no Blackwell kernels and also break torchao.
+# Strategy: install the ML stack first, then (force-)install cu128 torch LAST so
+# nothing downgrades it. Set TORCH_CUDA=cu126 etc. to override for other GPUs.
 echo "[1/5] Installing dependencies ..."
+TORCH_CUDA="${TORCH_CUDA:-cu128}"
 pip install -q --upgrade pip
-# Unsloth pulls compatible torch/transformers/trl/peft/bitsandbytes wheels.
-pip install -q "unsloth[cu124-torch260]" 2>/dev/null \
-  || pip install -q unsloth
-pip install -q "trl>=0.11" "datasets>=2.19" "transformers>=4.51" "accelerate>=0.30"
+pip install -q --upgrade unsloth unsloth_zoo
+pip install -q --upgrade "transformers>=4.51" "trl>=0.11" "datasets>=2.19" \
+                         "accelerate>=0.30" "peft>=0.11" "bitsandbytes>=0.45"
+pip install -q --upgrade --force-reinstall torch \
+  --index-url "https://download.pytorch.org/whl/${TORCH_CUDA}"
+
+# Sanity: confirm torch sees the 5090 with a matching arch (should list sm_120).
+python - <<'PY'
+import torch
+print("torch", torch.__version__, "| cuda", torch.version.cuda,
+      "| gpu", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "NONE")
+print("arch_list", torch.cuda.get_arch_list())
+assert torch.cuda.is_available(), "CUDA not available after install"
+PY
 
 # ------------------------------ build data ----------------------------------
 echo "[2/5] Building windowed per-EDU SFT data ..."

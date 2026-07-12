@@ -30,6 +30,8 @@ def main():
     ap.add_argument("--lora_r", type=int, default=16)
     ap.add_argument("--lora_alpha", type=int, default=32)
     ap.add_argument("--load_in_4bit", action="store_true", help="use QLoRA (smaller GPUs)")
+    ap.add_argument("--optim", default="adamw_torch",
+                    help="adamw_torch (no bitsandbytes, safest on Blackwell) or adamw_8bit (saves VRAM)")
     ap.add_argument("--seed", type=int, default=3407)
     args = ap.parse_args()
 
@@ -80,7 +82,7 @@ def main():
             num_train_epochs=args.epochs,
             learning_rate=args.lr,
             logging_steps=10,
-            optim="adamw_8bit",
+            optim=args.optim,
             weight_decay=0.01,
             lr_scheduler_type="linear",
             seed=args.seed,
