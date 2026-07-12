@@ -50,22 +50,26 @@ nvidia-smi --query-gpu=name,memory.total --format=csv,noheader || true
 # Strategy: install the ML stack first, then (force-)install cu128 torch LAST so
 # nothing downgrades it. Set TORCH_CUDA=cu126 etc. to override for other GPUs.
 echo "[1/5] Installing dependencies ..."
+# RTX 5090 = Blackwell (sm_120): needs CUDA 12.8 torch. Pin an EXACT, mutually
+# consistent set — torch 2.8.0 has sm_120 AND satisfies unsloth's `torch<2.11`
+# pin (the unpinned cu128 index now serves torch 2.11, which breaks unsloth).
 TORCH_CUDA="${TORCH_CUDA:-cu128}"
+TORCH_VER="${TORCH_VER:-2.8.0}"; TV_VER="${TV_VER:-0.23.0}"; TA_VER="${TA_VER:-2.8.0}"
 # Use `python -m pip` (NOT bare `pip`) so installs land in the SAME interpreter
-# that runs training. On many images `pip` and `python` are different envs, so a
-# bare `pip install` silently updates nothing the training run can see.
+# that runs training (on some images `pip` != `python`'s env).
 PIP="python -m pip"
 echo "  python = $(python -c 'import sys; print(sys.executable)')"
 $PIP install -q --upgrade pip
 $PIP install -q --upgrade unsloth unsloth_zoo
 $PIP install -q --upgrade "transformers>=4.51" "trl>=0.11" "datasets>=2.19" \
-                          "accelerate>=0.30" "peft>=0.11" "bitsandbytes>=0.45"
-# The base image often pins a broken torchao (built against old torch) that
-# crashes `import unsloth` with a register_constant error. We don't use TorchAO
-# quantization, so remove it from the import path.
+                          "accelerate>=0.30" "peft>=0.11"
+# Some base images ship a torchao built for a different torch that crashes
+# `import unsloth` (register_constant). We don't use TorchAO quant; its absence
+# is tolerated at import, so drop it.
 $PIP uninstall -y -q torchao 2>/dev/null || true
-# Install Blackwell-capable torch LAST so nothing downgrades it.
-$PIP install -q --upgrade --force-reinstall torch \
+# Pin the Blackwell torch set LAST so nothing downgrades/upgrades it away.
+$PIP install -q --force-reinstall --no-cache-dir \
+  "torch==${TORCH_VER}" "torchvision==${TV_VER}" "torchaudio==${TA_VER}" \
   --index-url "https://download.pytorch.org/whl/${TORCH_CUDA}"
 
 # Sanity: confirm torch sees the 5090 with a matching arch (should list sm_120).
