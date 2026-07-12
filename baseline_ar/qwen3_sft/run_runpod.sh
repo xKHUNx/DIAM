@@ -55,16 +55,30 @@ pip install -q --upgrade pip
 pip install -q --upgrade unsloth unsloth_zoo
 pip install -q --upgrade "transformers>=4.51" "trl>=0.11" "datasets>=2.19" \
                          "accelerate>=0.30" "peft>=0.11" "bitsandbytes>=0.45"
+# The base image often pins a broken torchao (built against old torch) that
+# crashes `import unsloth` with a register_constant error. We don't use TorchAO
+# quantization, so remove it from the import path.
+pip uninstall -y -q torchao 2>/dev/null || true
+# Install Blackwell-capable torch LAST so nothing downgrades it.
 pip install -q --upgrade --force-reinstall torch \
   --index-url "https://download.pytorch.org/whl/${TORCH_CUDA}"
 
 # Sanity: confirm torch sees the 5090 with a matching arch (should list sm_120).
 python - <<'PY'
-import torch
-print("torch", torch.__version__, "| cuda", torch.version.cuda,
-      "| gpu", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "NONE")
-print("arch_list", torch.cuda.get_arch_list())
+import torch, re
+arch = torch.cuda.get_arch_list()
+name = torch.cuda.get_device_name(0) if torch.cuda.is_available() else "NONE"
+print("torch", torch.__version__, "| cuda", torch.version.cuda, "| gpu", name)
+print("arch_list", arch)
 assert torch.cuda.is_available(), "CUDA not available after install"
+# Blackwell (RTX 50xx) reports sm_120; refuse to train on a torch that lacks it.
+cc = torch.cuda.get_device_capability(0)  # e.g. (12, 0) for 5090
+need = f"sm_{cc[0]}{cc[1]}"
+assert any(need in a for a in arch), (
+    f"Installed torch has no kernels for {need} ({name}); "
+    f"got {arch}. Reinstall torch from a matching CUDA index (e.g. cu128)."
+)
+print(f"OK: torch supports {need}")
 PY
 
 # ------------------------------ build data ----------------------------------
