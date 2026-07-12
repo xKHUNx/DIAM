@@ -51,16 +51,21 @@ nvidia-smi --query-gpu=name,memory.total --format=csv,noheader || true
 # nothing downgrades it. Set TORCH_CUDA=cu126 etc. to override for other GPUs.
 echo "[1/5] Installing dependencies ..."
 TORCH_CUDA="${TORCH_CUDA:-cu128}"
-pip install -q --upgrade pip
-pip install -q --upgrade unsloth unsloth_zoo
-pip install -q --upgrade "transformers>=4.51" "trl>=0.11" "datasets>=2.19" \
-                         "accelerate>=0.30" "peft>=0.11" "bitsandbytes>=0.45"
+# Use `python -m pip` (NOT bare `pip`) so installs land in the SAME interpreter
+# that runs training. On many images `pip` and `python` are different envs, so a
+# bare `pip install` silently updates nothing the training run can see.
+PIP="python -m pip"
+echo "  python = $(python -c 'import sys; print(sys.executable)')"
+$PIP install -q --upgrade pip
+$PIP install -q --upgrade unsloth unsloth_zoo
+$PIP install -q --upgrade "transformers>=4.51" "trl>=0.11" "datasets>=2.19" \
+                          "accelerate>=0.30" "peft>=0.11" "bitsandbytes>=0.45"
 # The base image often pins a broken torchao (built against old torch) that
 # crashes `import unsloth` with a register_constant error. We don't use TorchAO
 # quantization, so remove it from the import path.
-pip uninstall -y -q torchao 2>/dev/null || true
+$PIP uninstall -y -q torchao 2>/dev/null || true
 # Install Blackwell-capable torch LAST so nothing downgrades it.
-pip install -q --upgrade --force-reinstall torch \
+$PIP install -q --upgrade --force-reinstall torch \
   --index-url "https://download.pytorch.org/whl/${TORCH_CUDA}"
 
 # Sanity: confirm torch sees the 5090 with a matching arch (should list sm_120).
